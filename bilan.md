@@ -266,4 +266,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `nuits/` — un fichier par nuit : hypnogramme et courbes nocturnes
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 389 colonnes distinctes.
+`wellness.csv` contient 395 colonnes distinctes.
