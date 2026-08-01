@@ -149,18 +149,18 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 | Date | Readiness | Temps récup. | Facteur VFC | Facteur sommeil | ACWR |
 |---|---|---|---|---|---|
-| 2026-07-21 | 71 | 1 h | 100 % | 61 | - |
-| 2026-07-22 | 66 | 1067 h | 99 % | - | - |
-| 2026-07-23 | 50 | 1164 h | 95 % | - | - |
-| 2026-07-24 | 59 | 758 h | 70 % | 73 | - |
-| 2026-07-25 | 50 | 856 h | 52 % | 83 | - |
-| 2026-07-26 | 53 | 816 h | 45 % | 85 | - |
-| 2026-07-27 | 63 | 1 h | 38 % | 86 | - |
-| 2026-07-28 | 77 | 1 h | 59 % | 90 | - |
-| 2026-07-29 | 75 | 278 h | 69 % | 83 | - |
-| 2026-07-30 | 28 | 1334 h | 61 % | 64 | - |
-| 2026-07-31 | 38 | 1 h | 64 % | 66 | - |
-| 2026-08-01 | 25 | 1329 h | 53 % | 73 | - |
+| 2026-07-21 | 71 | 0 h | 100 % | 61 | - |
+| 2026-07-22 | 66 | 18 h | 99 % | - | - |
+| 2026-07-23 | 50 | 19 h | 95 % | - | - |
+| 2026-07-24 | 59 | 13 h | 70 % | 73 | - |
+| 2026-07-25 | 50 | 14 h | 52 % | 83 | - |
+| 2026-07-26 | 53 | 14 h | 45 % | 85 | - |
+| 2026-07-27 | 63 | 0 h | 38 % | 86 | - |
+| 2026-07-28 | 77 | 0 h | 59 % | 90 | - |
+| 2026-07-29 | 75 | 5 h | 69 % | 83 | - |
+| 2026-07-30 | 28 | 22 h | 61 % | 64 | - |
+| 2026-07-31 | 38 | 0 h | 64 % | 66 | - |
+| 2026-08-01 | 25 | 22 h | 53 % | 73 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -265,7 +265,9 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `wellness.csv` — une ligne par jour, tous les champs santé renvoyés par Garmin
 - `activites.csv` — une ligne par séance, avec les métriques dérivées
 - `seances/` — un fichier par séance : tours, signal fin, météo
+- `rapport.md` — **le rapport du jour** : nuit, dernière séance, verdict
 - `nuits/` — un fichier par nuit : hypnogramme et courbes nocturnes
+- `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 396 colonnes distinctes.
+`wellness.csv` contient 397 colonnes distinctes.
