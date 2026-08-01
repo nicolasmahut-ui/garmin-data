@@ -103,4 +103,4 @@ Trajectoire : 29 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 ---
 
-Version 2026.08.01-r16 · régénéré à chaque synchronisation. Détail : `seances/`, `nuits/`, `bilan.md`.
+Version 2026.08.01-r17 · régénéré à chaque synchronisation. Détail : `seances/`, `nuits/`, `bilan.md`.
