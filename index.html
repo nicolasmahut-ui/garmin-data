@@ -1,0 +1,420 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Coach">
+<meta name="theme-color" content="#0F1D26">
+<title>Coach — J-35 Gérardmer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;600&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Sans+Condensed:wght@600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --encre:#0F1D26; --fond:#132531; --carte:#18303E; --trait:#24455A;
+  --papier:#E4EDF1; --gris:#8AA5B4; --faible:#5D7C8D;
+  --lac:#2FA898; --ambre:#D9973B; --rouille:#C0563C;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+  --cond:'IBM Plex Sans Condensed','Arial Narrow',sans-serif;
+  --sans:'IBM Plex Sans',system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--encre);color:var(--papier);font-family:var(--sans);
+  font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased;
+  padding:0 0 64px}
+.wrap{max-width:760px;margin:0 auto;padding:0 20px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--gris)}
+h2{font-family:var(--cond);font-size:13px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--gris);font-weight:600;
+  padding-bottom:10px;border-bottom:1px solid var(--trait);margin:44px 0 20px}
+h3{font-family:var(--cond);font-size:19px;font-weight:600;letter-spacing:.01em}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+/* ---- hero */
+.hero{padding:34px 0 10px}
+.jj{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.jj b{font-family:var(--mono);font-size:46px;font-weight:600;line-height:1;
+  letter-spacing:-.02em}
+.jj span{font-family:var(--cond);font-size:15px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--gris)}
+.proj{margin-top:26px}
+.proj .t{font-family:var(--mono);font-size:64px;font-weight:300;line-height:1;
+  letter-spacing:-.03em}
+.proj .t em{font-style:normal;font-size:26px;color:var(--gris);margin-left:6px}
+.delta{font-family:var(--mono);font-size:14px;margin-top:6px}
+
+/* ---- barre de course, element signature */
+.piste{margin:22px 0 8px;position:relative}
+.barre{display:flex;height:46px;border-radius:3px;overflow:hidden;
+  background:var(--carte)}
+.seg{position:relative;display:flex;align-items:center;justify-content:center;
+  min-width:2px;border-right:1px solid var(--encre)}
+.seg:last-child{border-right:0}
+.seg i{font-style:normal;font-family:var(--mono);font-size:11px;
+  color:#0F1D26;font-weight:600;white-space:nowrap}
+.s-nage{background:#2E7F9E}.s-velo{background:var(--lac)}
+.s-course{background:#8FBF57}.s-t{background:var(--faible)}
+.legende{display:flex;gap:16px;margin-top:10px;flex-wrap:wrap;
+  font-family:var(--mono);font-size:11px;color:var(--gris)}
+.legende i{font-style:normal;display:inline-block;width:9px;height:9px;
+  border-radius:2px;margin-right:5px;vertical-align:middle}
+.cible{position:absolute;top:-9px;bottom:-9px;width:2px;background:var(--papier)}
+.cible b{position:absolute;top:-19px;left:50%;transform:translateX(-50%);
+  font-family:var(--mono);font-size:10px;letter-spacing:.08em;
+  color:var(--papier);white-space:nowrap;font-weight:400}
+
+/* ---- cartes */
+.carte{background:var(--carte);border-radius:4px;padding:20px 22px;
+  margin-bottom:12px;border-left:3px solid var(--trait)}
+.carte.ok{border-left-color:var(--lac)}
+.carte.att{border-left-color:var(--ambre)}
+.carte.ko{border-left-color:var(--rouille)}
+.carte p{color:var(--gris);font-size:14px}
+.badge{display:inline-block;font-family:var(--cond);font-size:12px;
+  letter-spacing:.14em;text-transform:uppercase;padding:3px 9px;
+  border-radius:2px;font-weight:600}
+.b-ok{background:var(--lac);color:#0F1D26}
+.b-att{background:var(--ambre);color:#0F1D26}
+.b-ko{background:var(--rouille);color:#fff}
+
+/* ---- lignes de mesure */
+.mes{display:grid;grid-template-columns:1fr auto auto;gap:4px 14px;
+  align-items:baseline;padding:9px 0;border-bottom:1px solid var(--trait)}
+.mes:last-child{border-bottom:0}
+.mes .l{font-size:14px;color:var(--gris)}
+.mes .v{font-family:var(--mono);font-size:17px;text-align:right}
+.mes .r{font-family:var(--mono);font-size:12px;color:var(--faible);
+  text-align:right;min-width:66px}
+.up{color:var(--lac)}.dn{color:var(--rouille)}.eq{color:var(--gris)}
+
+/* ---- jauge prescrit/realise */
+.jauge{height:6px;background:var(--trait);border-radius:3px;overflow:hidden;
+  grid-column:1/-1;margin-top:2px}
+.jauge b{display:block;height:100%;background:var(--lac);border-radius:3px}
+.jauge b.att{background:var(--ambre)}.jauge b.ko{background:var(--rouille)}
+
+/* ---- comparaison deux barres */
+.duo{margin:14px 0}
+.duo .r2{display:grid;grid-template-columns:120px 1fr 62px;gap:12px;
+  align-items:center;margin-bottom:9px}
+.duo .lab{font-size:13px;color:var(--gris)}
+.duo .bar{height:22px;background:var(--trait);border-radius:2px}
+.duo .bar b{display:block;height:100%;border-radius:2px}
+.duo .val{font-family:var(--mono);font-size:14px;text-align:right}
+
+/* ---- jalons */
+.jal{display:flex;align-items:center;gap:13px;padding:11px 0;
+  border-bottom:1px solid var(--trait)}
+.jal:last-child{border-bottom:0}
+.coche{width:19px;height:19px;border-radius:50%;flex:0 0 19px;
+  border:1.5px solid var(--faible);display:flex;align-items:center;
+  justify-content:center;font-size:11px;color:var(--encre)}
+.coche.on{background:var(--lac);border-color:var(--lac)}
+.jal .t2{flex:1;font-size:14px}
+.jal .m{font-family:var(--mono);font-size:13px;color:var(--gris)}
+
+/* ---- planning */
+.jour{display:grid;grid-template-columns:74px 1fr auto;gap:14px;
+  align-items:center;padding:13px 0;border-bottom:1px solid var(--trait)}
+.jour:last-child{border-bottom:0}
+.jour .d{font-family:var(--mono);font-size:12px;color:var(--gris);
+  line-height:1.3}
+.jour .d b{display:block;color:var(--papier);font-size:15px}
+.jour .n{font-size:14px}
+.jour .n em{font-style:normal;display:block;font-size:12px;color:var(--faible);
+  font-family:var(--mono);margin-top:2px}
+.jour .q{font-family:var(--mono);font-size:12px;color:var(--gris);
+  text-align:right;white-space:nowrap}
+.jour.cle{background:linear-gradient(90deg,rgba(217,151,59,.12),transparent);
+  margin:0 -12px;padding-left:12px;padding-right:12px;border-radius:3px}
+.jour.cle .n{color:var(--ambre);font-weight:600}
+.note{font-size:13px;color:var(--ambre);padding:10px 0 0;line-height:1.5}
+.pied{margin-top:46px;padding-top:18px;border-top:1px solid var(--trait);
+  font-family:var(--mono);font-size:11px;color:var(--faible)}
+
+/* ---- entete de seance */
+.tete{display:flex;justify-content:space-between;align-items:flex-start;gap:14px}
+.pastille{font-family:var(--mono);font-size:10px;letter-spacing:.1em;
+  text-transform:uppercase;padding:4px 8px;border-radius:2px;white-space:nowrap;
+  flex:0 0 auto}
+.p-ok{background:rgba(47,168,152,.16);color:var(--lac)}
+.p-att{background:rgba(217,151,59,.16);color:var(--ambre)}
+
+/* ---- bandeau de chiffres cles */
+.grille{display:grid;grid-template-columns:repeat(auto-fit,minmax(78px,1fr));
+  gap:1px;background:var(--trait);border-radius:3px;overflow:hidden;
+  margin:18px 0 4px}
+.kpi{background:var(--carte);padding:12px 10px}
+.kpi b{font-family:var(--mono);font-size:23px;font-weight:400;line-height:1;
+  display:inline}
+.kpi i{font-style:normal;font-family:var(--mono);font-size:11px;
+  color:var(--gris);margin-left:3px}
+.kpi span{display:block;font-family:var(--cond);font-size:11px;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--faible);margin-top:6px}
+.presc{margin:18px 0 6px;font-size:14px;color:var(--gris)}
+.lecture{margin-top:16px;padding-top:14px;border-top:1px solid var(--trait);
+  font-size:14px}
+
+/* ---- zones cardiaques */
+.zbar{height:26px;margin-top:8px}
+.zbar .seg i{font-size:10px}
+.z1{background:#3D6B80}.z2{background:#2FA898}.z3{background:#8FBF57}
+.z4{background:var(--ambre)}.z5{background:var(--rouille)}
+i.pz{display:inline-block;width:9px;height:9px;border-radius:2px;
+  margin-right:5px;vertical-align:middle}
+
+/* ---- tours */
+.tours{display:flex;align-items:flex-end;gap:2px;height:74px;margin-top:8px}
+.tv{flex:1 1 0;display:flex;align-items:flex-end;height:100%;min-width:3px}
+.tv b{display:block;width:100%;background:var(--lac);border-radius:1px 1px 0 0;
+  transition:opacity .15s}
+.tv:hover b{opacity:.65}
+
+/* ---- hypnogramme */
+.hypno{height:34px;margin-top:8px}
+.h-profond{background:#1D4E6B}.h-leger{background:#3E8FA8}
+.h-rem{background:#7B6FC4}.h-eveil{background:var(--ambre)}
+.axe{display:flex;justify-content:space-between;font-family:var(--mono);
+  font-size:10px;color:var(--faible);margin-top:5px}
+
+/* ---- carte et profil */
+.cartebox{margin-top:20px;border-radius:3px;overflow:hidden;
+  border:1px solid var(--trait)}
+.leafmap{height:300px;width:100%;background:var(--fond);
+  display:flex;align-items:center;justify-content:center}
+.leafmap .carte-svg{max-height:300px}
+.leaflet-container{background:var(--fond)!important}
+.leaflet-control-attribution{background:rgba(15,29,38,.82)!important;
+  color:var(--faible)!important;font-size:9px!important}
+.leaflet-control-attribution a{color:var(--gris)!important}
+.onglets{display:flex;align-items:center;gap:6px;padding:8px 10px;
+  background:var(--fond);border-top:1px solid var(--trait)}
+.onglet{font-family:var(--cond);font-size:11px;letter-spacing:.11em;
+  text-transform:uppercase;padding:5px 11px;border-radius:2px;cursor:pointer;
+  background:transparent;color:var(--gris);border:1px solid var(--trait)}
+.onglet:hover{color:var(--papier)}
+.onglet.on{background:var(--lac);color:#0F1D26;border-color:var(--lac);
+  font-weight:600}
+.onglet:focus-visible{outline:2px solid var(--papier);outline-offset:2px}
+.echelle{margin-left:auto;font-family:var(--mono);font-size:11px;
+  color:var(--gris)}
+.profilbox{background:rgba(0,0,0,.16);border-radius:3px;padding:6px;
+  margin-top:8px}
+.profil-svg{width:100%;height:120px;display:block}
+.svgtxt{font-family:var(--mono);font-size:10px;fill:var(--faible)}
+@media(max-width:560px){.leafmap{height:240px}}
+
+/* ---- resume coach */
+.coach{background:var(--carte);border-radius:4px;padding:22px;margin:24px 0 6px;
+  border-left:3px solid var(--trait)}
+.coach.ok{border-left-color:var(--lac)}
+.coach.att{border-left-color:var(--ambre)}
+.coach.ko{border-left-color:var(--rouille)}
+.coach h1{font-family:var(--cond);font-size:26px;font-weight:600;line-height:1.15;
+  letter-spacing:.005em}
+.coach .sous{font-size:15px;color:var(--gris);margin-top:8px}
+.aujourdhui{margin-top:20px;padding-top:18px;border-top:1px solid var(--trait)}
+.aujourdhui .quoi{font-family:var(--cond);font-size:20px;font-weight:600;
+  margin-top:4px}
+.aujourdhui .meta{font-family:var(--mono);font-size:12px;color:var(--gris);
+  margin-top:5px}
+.aujourdhui .faire{margin-top:12px;font-size:15px}
+.aujourdhui .faire b{color:var(--papier)}
+.puces{margin-top:14px;display:flex;flex-direction:column;gap:5px}
+.puce{font-size:13.5px;display:flex;gap:8px;line-height:1.45}
+.puce i{font-style:normal;flex:0 0 auto;font-family:var(--mono);font-size:12px}
+.puce.p i{color:var(--lac)}.puce.m i{color:var(--rouille)}
+.puce span{color:var(--gris)}
+.coach .synth{font-size:15.5px;line-height:1.62;margin-top:12px;
+  color:var(--papier)}
+.bloc2{margin-top:20px;padding-top:18px;border-top:1px solid var(--trait)}
+.bloc2 .meta{font-family:var(--mono);font-size:12px;color:var(--gris);
+  margin-top:9px;line-height:1.6}
+.avance{display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center;
+  margin-top:9px}
+.avance .bar{height:20px;background:var(--trait);border-radius:2px}
+.avance .bar b{display:block;height:100%;background:var(--lac);border-radius:2px}
+.avance .val{font-family:var(--mono);font-size:13px;white-space:nowrap}
+.prio{margin-top:20px;padding:14px 16px;border-radius:3px;
+  background:rgba(217,151,59,.11);border-left:2px solid var(--ambre)}
+.prio .quoi{font-family:var(--cond);font-size:19px;font-weight:600;margin-top:4px;
+  color:var(--papier)}
+@media(max-width:560px){
+  .proj .t{font-size:48px}.jj b{font-size:36px}
+  .duo .r2{grid-template-columns:88px 1fr 56px}
+  .jour{grid-template-columns:62px 1fr;gap:10px}.jour .q{display:none}
+}
+@media(prefers-reduced-motion:no-preference){
+  .barre .seg{animation:g .7s cubic-bezier(.2,.8,.2,1) both}
+  @keyframes g{from{flex-basis:0}}
+}
+</style></head><body>
+<div class=wrap>
+<div class=hero>
+<div class=jj><b class=num>J-35</b><span>Gérardmer XL · samedi 5 septembre 2026</span></div>
+<div class="coach att">
+<p class=eyebrow>Aujourd'hui · 47 min · note -2</p>
+<h1>Journée non productive</h1>
+<p class=synth>47 minutes de natation hors plan. La VFC est retombée à 54 ms, sous ta base de 85 : la séance a mordu plus que prévu.</p>
+<p class=eyebrow style="margin-top:20px">constats</p>
+<div class=puces>
+<div class="puce p"><i>+</i><span>Séance hors plan : 47 min</span></div>
+<div class="puce m"><i>−</i><span>VFC retombée à 54 ms, sous ta base de 85 : la charge a mordu</span></div>
+<div class="puce m"><i>≈</i><span>Découplage en dégradation sur 6 séances : moyenne 0.6 %, +4.7 pt · 5/6 negative splits</span></div>
+</div>
+<div class=bloc2>
+<p class=eyebrow>ce qui se joue cette semaine</p>
+<div class=avance><span class=bar><b style="width:100%"></b></span><span class="val num">4.0 h / 2.5 h</span></div>
+<p class=meta>Il reste : dim Reprise dehors, endurance</p>
+<p class=meta>Natation : 2/3 cette semaine · dernière il y a 0 j</p>
+</div>
+<div class=bloc2>
+<p class=eyebrow>au même J-35 avant tes courses passées</p>
+<div class=mes><span class=l>Fréjus · CTL au 07-26</span><span class="v num">3.1</span><span class="r num up">+26.0 (+839 %)</span></div>
+<div class=mes><span class=l style="padding-left:14px">volume des 28 j précédents</span><span class="v num">1.9 h</span><span class="r num">0 m D+</span></div>
+<div class=mes><span class=l>Deauville · CTL au 05-17</span><span class="v num">29.4</span><span class="r num dn">-0.3 (-1 %)</span></div>
+<div class=mes><span class=l style="padding-left:14px">volume des 28 j précédents</span><span class="v num">24.4 h</span><span class="r num">3437 m D+</span></div>
+</div>
+<div class=prio><p class=eyebrow>la priorité du jour</p><div class=quoi>Nager. Tu es à 2/3 cette semaine et on est samedi.</div></div>
+<div class=aujourdhui>
+<p class=eyebrow>ce que tu fais aujourd'hui</p>
+<div class=quoi>Repos ou séance très facile</div>
+<div class=meta>Rien de prescrit aujourd'hui.</div>
+<p class=faire><b>Garde la séance, réduis l'intensité d'un cran.</b></p>
+<p class=meta style="margin-top:8px">Signaux du matin : VFC sous ta base · statut VFC unbalanced · readiness 25</p>
+<p class=note>2 natation(s) cette semaine sur 3 attendues. Cale-en une avant dimanche.</p>
+</div></div>
+<h2 style="margin-top:38px">Projection sur la course</h2>
+<div class=proj>
+<div class="t num">6 h 50<em>projeté</em></div>
+<div class="delta up">-35 min sur la cible de 7 h 25</div>
+</div>
+<div class=piste><div class=barre>
+<div class="seg s-nage" style="flex:0 0 8.971%"></div>
+<div class="seg s-t" style="flex:0 0 1.080%"></div>
+<div class="seg s-velo" style="flex:0 0 46.508%"><i>Vélo 3 h 35</i></div>
+<div class="seg s-t" style="flex:0 0 0.864%"></div>
+<div class="seg s-course" style="flex:0 0 31.102%"><i>Course 2 h 24</i></div>
+<div class=seg style="flex:1 1 auto;background:transparent"></div>
+</div>
+<div class=cible style="left:96.15%"><b>cible 7 h 25</b></div>
+</div>
+<div class=legende><span><i style="background:#2E7F9E"></i>natation 1,9 km</span><span><i style="background:var(--lac)"></i>vélo 90 km · 1 200 m D+</span><span><i style="background:#8FBF57"></i>course 21,1 km</span><span><i style="background:var(--faible)"></i>transitions</span></div>
+</div>
+<h2>La séance · aujourd'hui</h2>
+<div class=carte>
+<div class=tete>
+<div><h3>Pool Swim</h3><p class=eyebrow style="margin-top:4px">samedi 1 août 2026 · 09:34 · lap_swimming</p></div>
+<span class="pastille p-ok">détail reçu</span>
+</div>
+<div class=grille>
+<div class=kpi><b class=num>47</b><i>min</i><span>Durée</span></div>
+<div class=kpi><b class=num>2.3</b><i>km</i><span>Distance</span></div>
+<div class=kpi><b class=num>2:03</b><i>/100 m</i><span>Allure</span></div>
+<div class=kpi><b class=num>138</b><i>bpm</i><span>FC</span></div>
+<div class=kpi><b class=num>64</b><i>TSS</i><span>Charge</span></div>
+</div>
+<p class=eyebrow style="margin-top:20px">temps par zone cardiaque</p>
+<div class="barre zbar">
+<div class="seg z1" style="flex:0 0 7.28%"></div>
+<div class="seg z2" style="flex:0 0 21.84%"><i>Z2</i></div>
+<div class="seg z3" style="flex:0 0 68.95%"><i>Z3</i></div>
+<div class="seg z4" style="flex:0 0 1.93%"></div>
+</div>
+<div class=legende><span><i class="pz z1"></i>Z1 3 min</span> <span><i class="pz z2"></i>Z2 10 min</span> <span><i class="pz z3"></i>Z3 32 min</span> <span><i class="pz z4"></i>Z4 1 min</span></div>
+<div style="margin-top:22px">
+<div class=mes><span class=l>Dérive cardiaque</span><span class="v num">16.3 bpm</span><span class="r num"><span class="dn">+1.8</span></span></div>
+<div class=mes><span class=l>Charge</span><span class="v num">64</span><span class="r num"><span class="up">+26.0</span></span></div>
+</div>
+<p class=eyebrow style="margin-top:12px">signal fin et trace : seances/2026-08-01_lap_swimming_23808870314.md</p>
+</div>
+<h2>Sommeil et performance</h2>
+<div class=carte>
+<div class=tete>
+<div><h3>21h30 → 07h19</h3><p class=eyebrow style="margin-top:4px">nuit du samedi 1 août 2026</p></div>
+<span class="pastille p-att">9.8 h au lit · 52 min éveillé</span>
+</div>
+<div style="margin-top:18px">
+<div class=mes><span class=l>Coucher habituel (14 j)</span><span class="v num">22h57</span><span class="r num"><span class="up">-1.5</span></span></div>
+<div class=mes><span class=l>Amplitude des couchers</span><span class="v num">3.8 h</span><span class="r num">irrégulier</span></div>
+</div>
+<p class=note>Tes heures de coucher varient de 3.8 h sur deux semaines. C'est la première cause de sommeil paradoxal insuffisant, et le REM est justement ton point faible. Un créneau fixe à 30 minutes près vaut plus qu'une heure de sommeil en plus.</p>
+<div style="margin-top:18px">
+<div class=mes><span class=l>Durée endormie</span><span class="v num">8.9 h</span><span class="r num"><span class="up">+2.0</span></span></div>
+<div class=mes><span class=l>Profond</span><span class="v num">141 min</span><span class="r num"><span class="up">+48.9</span></span></div>
+<div class=mes><span class=l>Léger</span><span class="v num">297 min</span><span class="r num"><span class="up">+16.2</span></span></div>
+<div class=mes><span class=l>Paradoxal</span><span class="v num">99 min <span style="color:var(--faible)">(18 %)</span></span><span class="r num"><span class="up">+12.3</span></span></div>
+<div class=mes><span class=l>Éveillé</span><span class="v num">52 min</span><span class="r num"><span class="dn">+19.9</span></span></div>
+<div class=mes><span class=l>Score</span><span class="v num">73</span><span class="r num"><span class="dn">-1.7</span></span></div>
+<div class=mes><span class=l>VFC</span><span class="v num">54 ms</span><span class="r num"><span class="dn">-35.7</span></span></div>
+<div class=mes><span class=l>Stress nocturne</span><span class="v num">28</span><span class="r num"><span class="dn">+9.4</span></span></div>
+<div class=mes><span class=l>Readiness</span><span class="v num">25</span><span class="r num"><span class="dn">-31.0</span></span></div>
+</div>
+<p class=lecture>NEGATIVE_LONG_BUT_NOT_RESTORATIVE</p>
+</div>
+<div class=carte>
+<h3>Ce que ton historique démontre</h3>
+<p style="margin-top:6px">Sur 72 séances appariées à la nuit qui les précède, séparées au readiness médian de 56.</p>
+<div class=duo>
+<div class=r2><span class=lab>Après bonne nuit</span><span class=bar><b style="width:100%;background:var(--lac)"></b></span><span class="val num">7.8 %</span></div>
+<div class=r2><span class=lab>Après mauvaise nuit</span><span class=bar><b style="width:86%;background:var(--rouille)"></b></span><span class="val num">6.7 %</span></div>
+</div>
+<p class=eyebrow>découplage moyen</p>
+<p style="margin-top:14px">Pas d'effet net mesurable pour l'instant : tu encaisses bien les nuits moyennes.</p>
+</div>
+<h2>Ce qui doit être acquis</h2>
+<div class=carte>
+<p class=eyebrow>2 sur 6 validés · bloc ouvert le lundi 22 juin 2026</p><div style="margin-top:10px">
+<div class=jal><span class="coche "></span><span class=t2>Sortie vélo avec 1 200 m de D+ en extérieur</span><span class=m>581 m <span style="color:var(--faible)">· record 842 m</span></span></div>
+<div class=jal><span class="coche on">✓</span><span class=t2>Sortie vélo de 3 h 30 ou plus</span><span class=m>3.8 h</span></div>
+<div class=jal><span class="coche "></span><span class=t2>Course de 1 h 45 ou plus</span><span class=m>1.4 h</span></div>
+<div class=jal><span class="coche "></span><span class=t2>Brique avec 45 min de course enchaînée</span><span class=m>— <span style="color:var(--faible)">· record 42 min</span></span></div>
+<div class=jal><span class="coche on">✓</span><span class=t2>Natation continue de 1 900 m</span><span class=m>2300 m</span></div>
+<div class=jal><span class="coche "></span><span class=t2>Trois semaines à 3 natations ou plus</span><span class=m>1 sem. sur 6 <span style="color:var(--faible)">· record 1 sem. au total</span></span></div>
+</div></div>
+<div class=carte><div class=mes><span class=l>Forme de fond (CTL)</span><span class="v num">29.1</span><span class="r num"><span class="up">+0.9</span></span></div><div class=mes><span class=l>Fatigue (ATL)</span><span class="v num">34.4</span><span class=r></span></div><div class=mes><span class=l>Fraîcheur (TSB)</span><span class="v num">-5.4</span><span class=r></span></div></div>
+<h2>Les sept prochains jours</h2>
+<div class=carte>
+<div class="jour">
+<span class=d>dim<b>02/08</b></span>
+<span class=n>Reprise dehors, endurance<em>cycling · 450 m D+ · FC 125-140</em></span>
+<span class=q>150 min</span>
+</div>
+<div class="jour">
+<span class=d>lun<b>03/08</b></span>
+<span class=n style="color:var(--faible)">Repos<em>ou séance très facile au choix</em></span><span class=q>—</span>
+</div>
+<div class="jour">
+<span class=d>mar<b>04/08</b></span>
+<span class=n>Endurance plat + 6 lignes droites<em>running · FC 125-140</em></span>
+<span class=q>60 min</span>
+</div>
+<div class="jour">
+<span class=d>mer<b>05/08</b></span>
+<span class=n>8 x 100 m à 2:00<em>lap_swimming</em></span>
+<span class=q>60 min</span>
+</div>
+<div class="jour">
+<span class=d>jeu<b>06/08</b></span>
+<span class=n>4 x 6 min tempo<em>indoor_cycling · FC 150-158</em></span>
+<span class=q>60 min</span>
+</div>
+<div class="jour">
+<span class=d>ven<b>07/08</b></span>
+<span class=n>3 x 400 m à 2:05<em>lap_swimming</em></span>
+<span class=q>60 min</span>
+</div>
+<div class="jour">
+<span class=d>sam<b>08/08</b></span>
+<span class=n>Endurance<em>running · FC 125-140</em></span>
+<span class=q>50 min</span>
+</div>
+</div>
+<div class="carte att"><h3>Ajustements</h3>
+<p style="margin-top:9px">Tu cumules des signaux de fatigue. Décale la première séance dure de 24 h et garde les séances faciles à leur place.</p>
+<p style="margin-top:9px">Tu en es à 2 natation(s) cette semaine. Trois est le minimum : c'est ton gisement le plus rentable.</p>
+</div>
+<div class=pied>Généré le samedi 1 août 2026 à 14:48 · régénéré à chaque synchronisation<br>Détail par séance et par nuit dans les dossiers seances/ et nuits/</div>
+</div></body></html>
