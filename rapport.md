@@ -70,14 +70,14 @@ Tours, signal fin et trace : `seances/2026-07-21_running_23676041354.md`
 
 **Ce que ton historique démontre**
 
-Sur 28 séances appariées à la nuit précédente, en séparant au readiness médian de 59 :
+Sur 39 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **3.2 %** | **2.6 %** | -0.6 pt |
-| Sommeil | 7.2 h | 7.4 h | |
-| REM | 90.1 min | 93.5 min | |
-| VFC | 96.3 ms | 82.3 ms | |
+| Découplage moyen | **2.5 %** | **1.7 %** | -0.8 pt |
+| Sommeil | 7.2 h | 7.0 h | |
+| REM | 88.3 min | 81.1 min | |
+| VFC | 93.6 ms | 78.9 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
