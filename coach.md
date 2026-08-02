@@ -6,11 +6,13 @@
 
 ## Le matin · 9h
 
-Le matin de dimanche 2 août 2026 à 09h00, il s'agit de la soirée 34 avant le triathlon XL de Gerardmer le 5 septembre prochain. L'analyse de la nuit vient d'être enregistrée : elle a duré 6,6 heures avec 66 minutes de sommeil REM, un score de 75 et une VFC de 91 ms (base personnelle entre 85-132). Le FC repos est de 44 et la readiness est de 50.
+Bien sûr, Julien ! Le matin est venu et il est temps de planifier notre journée d'entraînement pour le triathlon XL de Gérardmer en septembre.
 
-En analysant ces données, il apparaît que la nuit a été plus longue qu'attendu avec une VFC basse, ce qui peut avoir un impact sur l'énergie disponible pour la journée à venir. Cependant, le temps de sommeil REM et le score sont dans des limites acceptables.
+1. La nuit dernière n'a pas été enregistrée, mais nous pouvons analyser les jours précédents. Vos indicateurs physiologiques montrent que tu as une charge (CTL) élevée de 19,7 et un taux de surcharge (TSB) positif de +16,2, ce qui indique que tu es bien chargé et prêt à l'entraînement.
 
-En conséquence, la séance prévue aujourd'hui est une répétition dehors d'endurance (150 min, 450 m D+, FC 125-140). Cependant, en raison de la nuit plus longue et de la VFC basse, il est important pour Nicolas de rester attentif à son niveau de fatigue et de s'assurer d'être bien hydraté.
+2. La séance prévue aujourd'hui est une sortie d'endurance (150 minutes, 450 mètres de dénivelé positif, fréquence cardiaque entre 125 et 140 battements par minute). Cependant, en raison du temps restant avant le triathlon, il est important de veiller à ce que tu ne sois pas trop fatigué. Si ta VFC (fréquence cardiaque au repos) reste stable ou descend un peu, cela pourrait indiquer qu'il est nécessaire d'ajuster la durée de la séance.
 
-La consigne précise pour cette séance est de maintenir le FC entre 125-140 tout au long de la répétition, avec un déplacement de 3,7% sur les plats et une montée à 20-40%. Il est également important pour Nicolas de continuer
+3. Pour cette séance, je te conseille de garder une fréquence cardiaque modérée et de ne pas pousser trop loin. Ajoute-toi un effort de 15 secondes à une inclinaison élevée pour travailler sur la montée.
+
+Ensuite, repos demain avant la dernière semaine d'entraînement intensive qui commence le lundi prochain !
 
