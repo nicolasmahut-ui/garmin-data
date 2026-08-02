@@ -16,3 +16,15 @@ Bien sûr, Julien ! Le matin est venu et il est temps de planifier notre journé
 
 Ensuite, repos demain avant la dernière semaine d'entraînement intensive qui commence le lundi prochain !
 
+---
+
+## Le soir · 21h
+
+Bien sûr, Julien ! La journée a été productive. Ton entraînement de course à pied de ce soir a été bien supérieur aux 64 minutes prévues, avec un dénivelé positif et un découplage négatif (une accélération au final). Cela montre que ton corps est en bonne forme et que tu peux aller plus loin que ce qui était prévu.
+
+Cette performance change légèrement la projection pour le triathlon XL de Gérardmer. Si tu maintiens cette tendance, il est possible que tu puisses être plus rapide en course à pied et donc améliorer ton temps global. Mais il faut rester prudent car il y a encore 34 jours avant la compétition.
+
+Demain, prends un repos complet pour récupérer. Le lendemain, nous allons continuer avec notre plan initial qui consiste en une session d'endurance dehors. Prends le temps de te préparer mentalement pour cette séance et tente de garder une cadence confortable tout au long de la durée prévue.
+
+Consigne : Ne pousse pas trop dans les entraînements à venir, focalise-toi sur le déroulement de chaque session et sur la récupération entre elles.
+
