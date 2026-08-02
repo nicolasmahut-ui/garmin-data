@@ -70,16 +70,16 @@ Tours, signal fin et trace : `seances/2026-07-21_running_23676041354.md`
 
 **Ce que ton historique démontre**
 
-Sur 49 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 50 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **-0.7 %** | **2.9 %** | +3.6 pt |
+| Découplage moyen | **-0.4 %** | **2.9 %** | +3.3 pt |
 | Sommeil | 7.1 h | 7.2 h | |
 | REM | 88.9 min | 82.1 min | |
 | VFC | 91.9 ms | 75.3 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 3.6 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 3.3 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
