@@ -138,14 +138,14 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-07-29 | - | 99 | 8.0 h | 86 | 99 | - | - |
 | 2026-07-30 | - | 92 | 6.4 h | 69 | 86 | - | - |
 | 2026-07-31 | - | 94 | 5.5 h | 66 | 69 | - | - |
-| 2026-08-01 | - | - | - | - | - | - | - |
-| 2026-08-02 | - | - | - | - | - | - | - |
+| 2026-08-01 | - | 101 | 9.4 h | 98 | 87 | - | - |
+| 2026-08-02 | - | 71 | 7.6 h | 82 | 50 | - | 52.9 |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 95.0 vs 97.2 (-2.2)
-- Sommeil : 6.6 vs 6.8 (-0.2)
-- Readiness : 84.7 vs 69.8 (+14.8)
+- VFC : 91.4 vs 96.2 (-4.8)
+- Sommeil : 7.3 vs 7.0 (+0.4)
+- Readiness : 78.2 vs 69.7 (+8.5)
 - Poids : 77.0 kg (+2.0 kg depuis le 2024-12-29)
 
 ## Récupération (14 derniers jours)
@@ -160,6 +160,8 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-07-29 | 99 | 0 h | 0 % | 86 | - |
 | 2026-07-30 | 86 | 0 h | 0 % | 69 | - |
 | 2026-07-31 | 69 | 0 h | 0 % | 66 | - |
+| 2026-08-01 | 87 | 0 h | 100 % | 98 | - |
+| 2026-08-02 | 50 | 43 h | 99 % | 82 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -187,6 +189,8 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-07-29 | 8.0 h | 91 min | 279 min | 107 min | 28 min | 86 | 99 |
 | 2026-07-30 | 6.4 h | 72 min | 242 min | 68 min | 48 min | 69 | 92 |
 | 2026-07-31 | 5.5 h | 77 min | 195 min | 55 min | 3 min | 66 | 94 |
+| 2026-08-01 | 9.4 h | 104 min | 320 min | 139 min | 4 min | 98 | 101 |
+| 2026-08-02 | 7.6 h | 99 min | 293 min | 63 min | 5 min | 82 | 71 |
 
 Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharge Body Battery — dans le dossier `nuits/`.
 
@@ -266,4 +270,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 365 colonnes distinctes.
+`wellness.csv` contient 370 colonnes distinctes.
