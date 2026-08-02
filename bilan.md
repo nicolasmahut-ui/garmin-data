@@ -1,12 +1,12 @@
 # Bilan Garmin — 02/08/2026
 
-222 séances du 2024-12-31 au 2026-07-21
+223 séances du 2024-12-31 au 2026-08-02
 Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 
 ## Charge
 
-- **CTL 19.7** (forme de fond, -3.7 sur 7 j)
-- ATL 3.6 (fatigue) · TSB +16.2 (fraîcheur)
+- **CTL 20.9** (forme de fond, -2.5 sur 7 j)
+- ATL 10.8 (fatigue) · TSB +10.1 (fraîcheur)
 
 | Semaine | TSS | CTL | TSB |
 |---|---|---|---|
@@ -35,15 +35,12 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-S28 | 256 | 27.2 | -8.8 |
 | 2026-S29 | 174 | 26.7 | +3.4 |
 | 2026-S30 | 40 | 23.4 | +12.8 |
-| 2026-S31 | 0 | 19.7 | +16.2 |
+| 2026-S31 | 50 | 20.9 | +10.1 |
 
 ## Volumes hebdo
 
 | Semaine | Sport | Séances | Durée | Distance |
 |---|---|---|---|---|
-| 2026-S19 | lap_swimming | 1 | 0.5 h | 1.5 km |
-| 2026-S19 | road_biking | 1 | 1.7 h | 50.7 km |
-| 2026-S19 | running | 3 | 2.6 h | 29.3 km |
 | 2026-S20 | indoor_cycling | 2 | 2.0 h | 52.2 km |
 | 2026-S20 | running | 2 | 1.7 h | 18.4 km |
 | 2026-S21 | indoor_cycling | 1 | 0.8 h | 14.5 km |
@@ -71,6 +68,7 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-S29 | running | 1 | 1.8 h | 16.2 km |
 | 2026-S29 | virtual_ride | 1 | 0.8 h | 21.3 km |
 | 2026-S30 | running | 1 | 0.7 h | 7.8 km |
+| 2026-S31 | running | 1 | 1.1 h | 10.5 km |
 
 ## Récapitulatif mensuel
 
@@ -95,15 +93,16 @@ Repères : FCmax 194 · FCrepos 50 · seuil 172 · FTP 200 W · CSS 2:00/100 m
 | 2026-05 | 18 | 17.6 h | 9.0 h | 5.8 h | 1.4 h |
 | 2026-06 | 12 | 14.7 h | 6.4 h | 2.9 h | 1.4 h |
 | 2026-07 | 10 | 14.1 h | 6.4 h | 5.7 h | 0.0 h |
+| 2026-08 | 1 | 1.1 h | 0.0 h | 1.1 h | 0.0 h |
 
 ## Répartition FC (40 dernières séances)
 
 | Zone | Plage | Temps | Part |
 |---|---|---|---|
 | Z1 | 122-136 | 2.9 h | 8 % |
-| Z2 | 136-151 | 9.9 h | 28 % |
-| Z3 | 151-165 | 15.0 h | 43 % |
-| Z4 | 165-180 | 6.7 h | 19 % |
+| Z2 | 136-151 | 10.0 h | 29 % |
+| Z3 | 151-165 | 15.6 h | 45 % |
+| Z4 | 165-180 | 5.8 h | 17 % |
 | Z5 | 180-194 | 0.5 h | 1 % |
 
 ## Wellness (30 derniers jours)
@@ -196,16 +195,15 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 
 ## Scores Garmin
 
-- predi_5k_s : 1294
-- predi_10k_s : 2755
-- predi_semi_s : 6244
-- predi_marathon_s : 14024
+- predi_5k_s : 1317
+- predi_10k_s : 2785
+- predi_semi_s : 6323
+- predi_marathon_s : 14241
 
 ## 15 dernières séances
 
 | Date | Sport | Durée | Dist | D+ | Allure | FC | Puiss | TSS |
 |---|---|---|---|---|---|---|---|---|
-| 2026-06-21 | multi_sport | 170 min | 52.6 km | 654 m | 3:14 | - | - | - |
 | 2026-06-21 | road_biking | 82 min | 39.9 km | 547 m | 2:03 | - | - | - |
 | 2026-06-27 | running | 47 min | 8.7 km | 44 m | 5:28 | 162.0 | 344 W | 63 |
 | 2026-06-28 | road_biking | 137 min | 64.5 km | 399 m | 2:07 | 133.0 | - | 92 |
@@ -220,6 +218,7 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 | 2026-07-14 | running | 109 min | 16.2 km | 119 m | 6:42 | 132.0 | 315 W | 71 |
 | 2026-07-16 | virtual_ride | 47 min | 21.3 km | 195 m | 2:11 | 107.0 | 152 W | 15 |
 | 2026-07-21 | running | 45 min | 7.8 km | 64 m | 5:43 | 144.0 | 334 W | 40 |
+| 2026-08-02 | running | 64 min | 10.5 km | 80 m | 6:08 | 139.0 | 308 W | 50 |
 
 ## Fichiers de séance disponibles
 
@@ -227,7 +226,6 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 
 | Date | Sport | Découpl. | Neg. split | Fichier |
 |---|---|---|---|---|
-| 2026-05-15 | running | 3.5 % | non | `seances/2026-05-15_running_22891753804.md` |
 | 2026-05-17 | indoor_cycling | -2.7 % | oui | `seances/2026-05-17_indoor_cycling_22915750184.md` |
 | 2026-05-19 | indoor_cycling | 2.7 % | oui | `seances/2026-05-19_indoor_cycling_23003584854.md` |
 | 2026-05-20 | lap_swimming | - | - | `seances/2026-05-20_lap_swimming_22951317235.md` |
@@ -257,6 +255,7 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 | 2026-07-14 | running | 5.2 % | non | `seances/2026-07-14_running_23592767205.md` |
 | 2026-07-16 | virtual_ride | -1.4 % | oui | `seances/2026-07-16_virtual_ride_23615034139.md` |
 | 2026-07-21 | running | 2.3 % | oui | `seances/2026-07-21_running_23676041354.md` |
+| 2026-08-02 | running | 3.3 % | oui | `seances/2026-08-02_running_23830044161.md` |
 
 ---
 
@@ -270,4 +269,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 370 colonnes distinctes.
+`wellness.csv` contient 369 colonnes distinctes.
