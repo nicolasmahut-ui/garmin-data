@@ -223,6 +223,11 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 
 | Date | Sport | Découpl. | Neg. split | Fichier |
 |---|---|---|---|---|
+| 2026-05-15 | running | 3.5 % | non | `seances/2026-05-15_running_22891753804.md` |
+| 2026-05-17 | indoor_cycling | -2.7 % | oui | `seances/2026-05-17_indoor_cycling_22915750184.md` |
+| 2026-05-19 | indoor_cycling | 2.7 % | oui | `seances/2026-05-19_indoor_cycling_23003584854.md` |
+| 2026-05-20 | lap_swimming | - | - | `seances/2026-05-20_lap_swimming_22951317235.md` |
+| 2026-05-24 | running | 6.1 % | oui | `seances/2026-05-24_running_22996630963.md` |
 | 2026-05-25 | road_biking | - | - | `seances/2026-05-25_road_biking_23004861925.md` |
 | 2026-05-27 | lap_swimming | - | - | `seances/2026-05-27_lap_swimming_23034849375.md` |
 | 2026-05-31 | road_biking | - | - | `seances/2026-05-31_road_biking_23076421031.md` |
@@ -261,4 +266,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 352 colonnes distinctes.
+`wellness.csv` contient 365 colonnes distinctes.
