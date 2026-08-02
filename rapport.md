@@ -21,11 +21,11 @@
 | Puissance norm. | **334 W** | 356 W |
 | Cadence | **157** | 159 |
 | TSS | **40** | 53 |
-| Découplage | **2.3 %** | 9.7 % |
-| Dérive cardiaque | **8.0 bpm** | 11.3 bpm |
-| Meilleur 1 km | 5:24 | 4:56 |
+| Découplage | **2.3 %** | 8.7 % |
+| Dérive cardiaque | **8.0 bpm** | 10.2 bpm |
+| Meilleur 1 km | 5:24 | 5:00 |
 | Allure | **5:43/km** | 5:31/km |
-| Negative split | **oui** (3.3 %) | 3/8 fois |
+| Negative split | **oui** (3.3 %) | 4/10 fois |
 | Météo | 22 °C · 46 % hum. | |
 
 Zones FC : **Z1** 2 % · **Z2** 12 % · **Z3** 83 % · **Z4** 3 %
@@ -70,14 +70,14 @@ Tours, signal fin et trace : `seances/2026-07-21_running_23676041354.md`
 
 **Ce que ton historique démontre**
 
-Sur 14 séances appariées à la nuit précédente, en séparant au readiness médian de 68 :
+Sur 28 séances appariées à la nuit précédente, en séparant au readiness médian de 59 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **3.4 %** | **4.9 %** | +1.5 pt |
-| Sommeil | 7.3 h | 7.5 h | |
-| REM | 91.5 min | 94.7 min | |
-| VFC | 99.2 ms | 92.3 ms | |
+| Découplage moyen | **3.2 %** | **2.6 %** | -0.6 pt |
+| Sommeil | 7.2 h | 7.4 h | |
+| REM | 90.1 min | 93.5 min | |
+| VFC | 96.3 ms | 82.3 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
