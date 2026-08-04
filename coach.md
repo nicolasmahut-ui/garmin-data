@@ -1,16 +1,16 @@
-# Coach — lundi 3 août 2026
+# Coach — mardi 4 août 2026
 
-*J-33 avant Gérardmer XL*
+*J-32 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Bien sûr, Julien ! Le matin de lundi 3 août, nous sommes J-33 avant le triathlon XL de Gérardmer. Nous avons un bon niveau d'entrainement avec un CTL (Chronic Training Load) élevé à 20,4 et un ATL (Acute Training Load) modéré à 9,3. Notre TSB (+11,2) indique une charge supérieure à notre capacité de récupération, ce qui est normal dans le cadre d'une préparation intense pour l'événement.
+Bien sûr, Nicolas. Le soir vient de s'achever avec une bonne nuit de sommeil de 7 heures et demie, dont 75 minutes de REM, un score de 77 et une VFC de 103 millisecondes. Cela signifie que ton corps a bien reposé, mais ta VFC est légèrement en dessous de ta base personnelle (85-131 ms), ce qui pourrait indiquer un niveau de fatigue un peu plus élevé que prévu. Ton readiness est également à 56, ce qui montre qu'il te reste encore du réservoir d'énergie pour l'entraînement.
 
-En revue des dernières séances, nous voyons que tu as travaillé sur la course à pied avec deux sessions de running (course à pied) et une session de virtual_ride (vélo virtuel). Les performances sont en général bonnes, mais il y a un découplage élevé dans ta dernière session de running. Cela peut être dû à un effort intense ou à une fatigue accumulée.
+Aujourd'hui, la séance prévue est une session d'endurance sur le plat de 1 heure et demie avec un FC compris entre 125 et 140. Cependant, en fonction du score de fatigue plus élevé que prévu, je te recommande d'ajuster cette séance pour la rendre un peu moins intense. Par exemple, tu peux réduire le temps ou diminuer le FC moyen.
 
-Pour aujourd'hui, nous avons prévu un repos complet pour récupérer et préparer l'entraînement programmé demain : Endurance plat + 6 lignes droites. Cette séance devrait être lente et pédagogique avec une focus sur la technique de course à pied.
+Pour aujourd'hui, ma consigne d'exécution est de maintenir ton découplage à 4 % sur le plat et de ne pas pousser trop dur. Tu dois également continuer à travailler sur ton negative split en essayant de faire la moitié de ta séance avec un FC plus élevé que l'autre.
 
-Pour cette séance, je te conseille d'avoir un FC (Fitness Level) modéré entre 130 et 140 bpm. Essaye de garder ton rythme constant et tiens compte de ta fatigue accumulée. Si tu ressens des signes de fatigue importante, n'hésite pas à raccourcir la durée de la sé
+Enfin, je te rappelle que demain tu as 8 x 100 mètres à 2 minutes prévus. Tu dois continuer à travailler sur ton endurance
 
