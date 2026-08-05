@@ -1,16 +1,18 @@
-# Coach — mardi 4 août 2026
+# Coach — mercredi 5 août 2026
 
-*J-32 avant Gérardmer XL*
+*J-31 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Bien sûr, Nicolas. Le soir vient de s'achever avec une bonne nuit de sommeil de 7 heures et demie, dont 75 minutes de REM, un score de 77 et une VFC de 103 millisecondes. Cela signifie que ton corps a bien reposé, mais ta VFC est légèrement en dessous de ta base personnelle (85-131 ms), ce qui pourrait indiquer un niveau de fatigue un peu plus élevé que prévu. Ton readiness est également à 56, ce qui montre qu'il te reste encore du réservoir d'énergie pour l'entraînement.
+Bonjour Nicolas,
 
-Aujourd'hui, la séance prévue est une session d'endurance sur le plat de 1 heure et demie avec un FC compris entre 125 et 140. Cependant, en fonction du score de fatigue plus élevé que prévu, je te recommande d'ajuster cette séance pour la rendre un peu moins intense. Par exemple, tu peux réduire le temps ou diminuer le FC moyen.
+Le matin d'aujourd'hui, après une nuit de 9,2 heures de sommeil avec un temps de réveil élevé (REM) de 124 minutes et un score de 89, la VFC a retombé à 109 ms sous sa base personnelle de 85-131. Cela indique que le corps est fatigué mais pas dans l'état d'exaspération. La readiness est également en baisse avec un score de 69, ce qui suggère une nécessité accrue de repos.
 
-Pour aujourd'hui, ma consigne d'exécution est de maintenir ton découplage à 4 % sur le plat et de ne pas pousser trop dur. Tu dois également continuer à travailler sur ton negative split en essayant de faire la moitié de ta séance avec un FC plus élevé que l'autre.
+En conséquence, mon plan pour aujourd'hui consiste à adapter la séance prévue pour être plus lente et moins intense que celle initialement prévue. Aujourd'hui, il est prévu d'effectuer 8 x 100 m en 2:00 (60 minutes), mais je vous recommande de faire plutôt 8 x 100 m en 2:05 ou 2:10 pour réduire la charge et permettre au corps de se reposer un peu.
 
-Enfin, je te rappelle que demain tu as 8 x 100 mètres à 2 minutes prévus. Tu dois continuer à travailler sur ton endurance
+Pour cette séance, je te demande d'avoir une attention accrue sur ton rythme et de ne pas pousser trop loin. Tenez compte que ton découplage en montée est de 20-40 %, ce qui signifie qu'il faut être particulièrement vigilant lors des phases de montée dans la course du triathlon XL de Gerardmer.
+
+Aujourd'hui, je te recommande d'effectuer une séance de natation plus lente pour permettre au corps de se reposer un peu
 
