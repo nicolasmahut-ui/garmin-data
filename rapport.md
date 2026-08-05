@@ -6,14 +6,13 @@
 
 ## 1. Ta séance
 
-### 2026-08-04 · virtual_ride · 50 min
+### 2026-08-05 · lap_swimming · 40 min
 
-**Prescrit** : Endurance plat + 6 lignes droites — 60 min, FC 125-140
+**Prescrit** : 8 x 100 m à 2:00 — 60 min
 
 | | Réalisé | Prescrit | Écart |
 |---|---|---|---|
-| Durée | **50 min** | 60 min | -10 min |
-| FC moyenne | **114** | 125-140 | -18 |
+| Durée | **40 min** | 60 min | -20 min |
 
 ⚠️ **Écart au plan.** Vérifie si c'était volontaire.
 
@@ -21,24 +20,16 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **17.5 km** | 28.2 km |
-| Dénivelé | **480 m** | 395 m |
-| FC moyenne | **114** | 114 |
-| FC max | **133** | 131 |
-| Puissance norm. | **176 W** | 180 W |
-| Cadence | **58** | 68 |
-| TSS | **24** | 37 |
-| Découplage | **-27.3 %** | 16.4 % |
-| Dérive cardiaque | **5.8 bpm** | 8.7 bpm |
-| Meilleur 1 km | 0:45 | 1:30 |
-| Allure | **2:50/km** | 2:40/km |
-| Negative split | **oui** (33.9 %) | 5/10 fois |
+| Distance | **2.0 km** | 1.7 km |
+| FC moyenne | **129** | 125 |
+| FC max | **142** | 148 |
+| TSS | **62** | 39 |
+| Dérive cardiaque | **11.5 bpm** | 13.9 bpm |
+| Allure | **1:57/100 m** | 2:18/100 m |
 
-Zones FC : **Z1** 45 % · **Z2** 55 %
+Zones FC : **Z1** 10 % · **Z2** 67 % · **Z3** 23 %
 
-**Lecture** — Découplage -27.3 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
-
-Tours, signal fin et trace : `seances/2026-08-04_virtual_ride_23852211852.md`
+Tours, signal fin et trace : `seances/2026-08-05_lap_swimming_23864739784.md`
 
 ---
 
@@ -46,12 +37,12 @@ Tours, signal fin et trace : `seances/2026-08-04_virtual_ride_23852211852.md`
 
 | Segment | Projeté | Cible | Écart | Base |
 |---|---|---|---|---|
-| Natation 1,9 km | **0 h 42** | 0 h 41 | +1 min | 2:11/100 m |
+| Natation 1,9 km | **0 h 41** | 0 h 41 | -0 min | 2:08/100 m |
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
 | Vélo 90 km / 1 200 m | **3 h 34** | 4 h 10 | -36 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
 | Course 21,1 km | **2 h 25** | 2 h 25 | -0 min | 6:51/km projeté |
-| **TOTAL** | **6 h 49** | 7 h 25 | **-36 min** | |
+| **TOTAL** | **6 h 48** | 7 h 25 | **-37 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
@@ -61,18 +52,18 @@ Tours, signal fin et trace : `seances/2026-08-04_virtual_ride_23852211852.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-08-04)
+**La nuit qui a précédé** (2026-08-05)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.1 h | 7.2 h | 8 h |
-| Profond | 58 min | 86 min | 16-33 % |
-| REM | 75 min (18 %) | 88 min | 21-31 % |
-| Score | 77 | 76.7 | |
-| VFC | 103 ms | 89 ms | base 85-131 |
+| Durée | 9.2 h | 7.2 h | 8 h |
+| Profond | 115 min | 86 min | 16-33 % |
+| REM | 124 min (22 %) | 88 min | 21-31 % |
+| Score | 89 | 76.7 | |
+| VFC | 109 ms | 89 ms | base 85-131 |
 | FC repos | - | 44 | |
-| Readiness | 56 | 58 | |
-| Récupération restante | 0 h | | |
+| Readiness | 58 | 58 | |
+| Récupération restante | 15 h | | |
 
 **Ce que ton historique démontre**
 
@@ -102,9 +93,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2300 m | 2300 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **29.8** (+1.4 sur 7 j) · ATL 33.5 · TSB -3.7
+**Charge** : CTL **31.3** (+2.9 sur 7 j) · ATL 42.4 · TSB -11.1
 
-Trajectoire : 30 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 31 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
