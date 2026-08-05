@@ -16,3 +16,15 @@ Pour cette séance, je te demande d'avoir une attention accrue sur ton rythme et
 
 Aujourd'hui, je te recommande d'effectuer une séance de natation plus lente pour permettre au corps de se reposer un peu
 
+---
+
+## Le soir · 21h
+
+Soir Nicolas, je te revois après une journée assez productive. Ton entraînement de natation de ce soir a été bien effectué et t'a permis d'améliorer ton écart au prescrit. Cependant, il est important de noter que ton découplage était un peu plus faible que prévu, avec -27,3%, ce qui pourrait être une source de préoccupation en vue du triathlon XL de Gerardmer.
+
+En ce qui concerne la projection de Gerardmer, le fait que ton découplage soit un peu plus faible que prévu peut avoir un impact sur ta performance finale, car cela pourrait entraîner une consommation énergétique plus importante lors de la course. Cependant, je pense qu'avec des efforts supplémentaires dans ton entraînement, tu pourras améliorer ce déficit et t'assurer un bon résultat à Gerardmer.
+
+Pour aujourd'hui, j'ai prévu une séance de 8 x 100 m à 2:00 (60 min). Cette séance devrait te permettre de travailler sur ton découplage et d'améliorer ta puissance en natation. Je te conseille d'attaquer cette séance avec énergie et de t'assurer que tu respectes les intervalles de repos entre chaque série.
+
+Consigne pour aujourd'hui : Tiens en tête ton découplage et travailles dur lors de ta séance de demain.
+
