@@ -137,14 +137,14 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08-03 | - | 72 | 8.0 h | 81 | 50 | 90.2 kg | - |
 | 2026-08-04 | - | 103 | 7.1 h | 77 | 56 | - | - |
 | 2026-08-05 | - | 109 | 9.2 h | 89 | 58 | - | - |
-| 2026-08-06 | - | - | - | - | - | - | - |
+| 2026-08-06 | - | 117 | 6.6 h | 82 | 67 | 89.0 kg | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 82.8 vs 89.2 (-6.4)
-- Sommeil : 7.9 vs 7.2 (+0.7)
-- Readiness : 44.5 vs 57.1 (-12.6)
-- Poids : 90.2 kg (+2.2 kg depuis le 2025-07-24)
+- VFC : 87.7 vs 90.3 (-2.6)
+- Sommeil : 7.7 vs 7.2 (+0.6)
+- Readiness : 47.7 vs 57.4 (-9.7)
+- Poids : 89.0 kg (+1.0 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
 
@@ -163,6 +163,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08-03 | 50 | 12 h | 48 % | 81 | - |
 | 2026-08-04 | 56 | 0 h | 48 % | 77 | - |
 | 2026-08-05 | 58 | 15 h | 49 % | 89 | - |
+| 2026-08-06 | 67 | 3 h | 71 % | 82 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -195,12 +196,13 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08-03 | 8.0 h | 48 min | 333 min | 97 min | 15 min | 81 | 72 |
 | 2026-08-04 | 7.1 h | 58 min | 294 min | 75 min | - | 77 | 103 |
 | 2026-08-05 | 9.2 h | 115 min | 316 min | 124 min | 11 min | 89 | 109 |
+| 2026-08-06 | 6.6 h | 68 min | 239 min | 89 min | 6 min | 82 | 117 |
 
 Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharge Body Battery — dans le dossier `nuits/`.
 
 ## Scores Garmin
 
-- endurance_score : 5801
+- endurance_score : 5799
 - predi_5k_s : 1442
 - predi_10k_s : 3090
 - predi_semi_s : 6991
