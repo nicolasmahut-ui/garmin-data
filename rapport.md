@@ -1,6 +1,6 @@
-# Coach — J-30 avant Gérardmer XL
+# Coach — J-29 avant Gérardmer XL
 
-*jeudi 6 août 2026* · course le samedi 5 septembre 2026
+*vendredi 7 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -56,25 +56,25 @@ Tours, signal fin et trace : `seances/2026-08-05_lap_swimming_23864739784.md`
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 9.2 h | 7.2 h | 8 h |
+| Durée | 9.2 h | 7.1 h | 8 h |
 | Profond | 115 min | 85 min | 16-33 % |
 | REM | 124 min (22 %) | 88 min | 21-31 % |
-| Score | 89 | 76.5 | |
-| VFC | 109 ms | 90 ms | base 85-131 |
+| Score | 89 | 76.2 | |
+| VFC | 109 ms | 89 ms | base 85-131 |
 | FC repos | - | 44 | |
-| Readiness | 58 | 57 | |
+| Readiness | 58 | 56 | |
 | Récupération restante | 15 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 73 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
+Sur 72 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **6.8 %** | **6.6 %** | -0.2 pt |
+| Découplage moyen | **6.8 %** | **6.5 %** | -0.4 pt |
 | Sommeil | 7.7 h | 6.9 h | |
-| REM | 92.4 min | 60.0 min | |
-| VFC | 97.7 ms | 75.4 ms | |
+| REM | 92.4 min | 62.9 min | |
+| VFC | 97.7 ms | 75.5 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -93,7 +93,7 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2300 m | 2300 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **30.5** (+1.6 sur 7 j) · ATL 36.3 · TSB -5.8
+**Charge** : CTL **29.8** (+1.6 sur 7 j) · ATL 31.1 · TSB -1.3
 
 Trajectoire : 30 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
@@ -101,9 +101,9 @@ Trajectoire : 30 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 ## 5. Demain
 
-**2026-08-07** — 3 x 400 m à 2:05
+**2026-08-08** — Endurance
 
-- lap_swimming · 60 min
+- running · 50 min · FC 125-140
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
