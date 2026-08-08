@@ -1,30 +1,16 @@
-# Coach — vendredi 7 août 2026
+# Coach — samedi 8 août 2026
 
-*J-29 avant Gérardmer XL*
+*J-28 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Bien sûr, Nicolas ! Après une nuit de sommeil de 7 heures et 8 minutes, tu as enregistré un score de 86, avec 99 minutes de REM (rêves profonds), ce qui montre que la nuit a été relativement longue mais pas exceptionnelle. Ton VFC est de 119 ms, soit légèrement en dessous de ta base personnelle de 131 ms, ce qui indique un niveau de fatigue modéré. Ton FC de repos reste à déterminer pour avoir une idée plus précise de ton état de prêt. Selon les dernières données, ton score de readiness est de 81, ce qui montre que tu es en bonne forme mais pas au sommet de tes capacités actuelles.
+Le matin de samedi 8 août 2026, il est temps de planifier la journée et d'analyser la nuit qui vient de s'écouler pour déterminer la séance à préparer aujourd'hui.
 
-En regardant à la charge, ta CTL (charge courte terme) est de 29.8 et ta ATL (charge longue terme) de 31.1, ce qui montre que tu as travaillé assez dur ces dernières semaines mais pas trop. Le TSB (-1.3) indique un équilibre entre la charge courte et longue terme.
+1. La nuit a été longue avec 5,6 heures d'sommeil, dont 59 minutes de sommeil profond (REM) et un score de 68. Le VFC (Variability of Functional Capacity) est tombé à 95 ms (base personnelle 82-131), ce qui indique une charge modérée mais pas excessive. La readiness est également de 64, ce qui montre que Nicolas est en bonne forme pour la journée à venir.
+2. En considérant les dernières séances, il est important de continuer à travailler sur l'endurance et le negative split, car ces éléments ont été réussis dans les derniers entraînements. Ainsi, la séance prévue aujourd'hui est une session d'endurance (50 min, FC 125-140) pour continuer à travailler sur cette composante.
+3. Pour cette séance, il est important de tenir un FC (F Functional Capacity) élevé tout au long de l'entraînement et de garder une attention particulière sur le negative split. Ceci permettra de continuer à renforcer ce comportement qui a été réussi dans les derniers entraînements.
 
-En regardant aux dernières séances, nous voyons que ta natation est en progression avec une séance de 40 minutes de nage de 2 kilomètres hier soir à un FC moyen de 129. Le vendredi dernier, tu as fait une séance de cyclisme virtuel de 50 minutes, 17.5 km avec 480 m de dénivelé, un FC moyen de 114 et un découplage négatif de -27.3
-
----
-
-## Le soir · 21h
-
-Soir Nicolas,
-
-La journée a été productive grâce à la séance de cyclisme virtuel de 55 minutes qui t'a permis d'enregistrer un découplage positif de -2,5% et un negative split. Cela montre que ton corps réagit bien à ce type d'entraînement.
-
-Cependant, la natation est toujours un point faible à améliorer. Il est donc important de continuer à travailler sur cette discipline pour ne pas être en retard lors du triathlon XL de Gerardmer.
-
-En ce qui concerne la prochaine compétition, le dénivelé important de 1 200 m pose un risque majeur car ton découplage augmente considérablement lors des montées. Il est donc crucial de travailler sur cette partie pour être en mesure de maintenir une vitesse suffisante tout au long de la course.
-
-Pour demain, je te propose une séance d'endurance pour continuer à améliorer ta capacité cardiovasculaire et ton découplage. Attention à ne pas pousser trop dur lors des montées.
-
-Consigne : Travail sur la natation trois fois par semaine pour renforcer ton point faible, et rester concentré sur le negative split lors de tes séances d'entraînement.
+En conclusion, il est important pour Nicolas de continuer à travailler sur son endurance tout en gardant une attention particulière sur le negative split. Il est également
 
