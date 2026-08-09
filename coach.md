@@ -1,30 +1,16 @@
-# Coach — samedi 8 août 2026
+# Coach — dimanche 9 août 2026
 
-*J-28 avant Gérardmer XL*
+*J-27 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Le matin de samedi 8 août 2026, il est temps de planifier la journée et d'analyser la nuit qui vient de s'écouler pour déterminer la séance à préparer aujourd'hui.
+Le matin de dimanche 9 août 2026, il est 09h00, J-27 avant le triathlon XL de Gerardmer. Nicolas a effectué quatre séances d'entraînement les dernières semaines avec un décalage positif (TSB +3.4) et une charge (CTL 29.0) qui s'améliorent progressivement.
 
-1. La nuit a été longue avec 5,6 heures d'sommeil, dont 59 minutes de sommeil profond (REM) et un score de 68. Le VFC (Variability of Functional Capacity) est tombé à 95 ms (base personnelle 82-131), ce qui indique une charge modérée mais pas excessive. La readiness est également de 64, ce qui montre que Nicolas est en bonne forme pour la journée à venir.
-2. En considérant les dernières séances, il est important de continuer à travailler sur l'endurance et le negative split, car ces éléments ont été réussis dans les derniers entraînements. Ainsi, la séance prévue aujourd'hui est une session d'endurance (50 min, FC 125-140) pour continuer à travailler sur cette composante.
-3. Pour cette séance, il est important de tenir un FC (F Functional Capacity) élevé tout au long de l'entraînement et de garder une attention particulière sur le negative split. Ceci permettra de continuer à renforcer ce comportement qui a été réussi dans les derniers entraînements.
+La nuit dernière, il a dormi pendant 6 heures et 2 minutes, avec un temps de sommeil REM de 78 minutes pour un score de 67. Sa VFC est tombée à 81 ms contre sa base personnelle de 82-131, ce qui indique une fatigue modérée mais pas excessive après ses dernières séances. Son FC de repos n'est pas enregistré cette nuit-là. Sa readiness est de 63, ce qui montre qu'il a encore des réserves d'efforts pour l'entraînement.
 
-En conclusion, il est important pour Nicolas de continuer à travailler sur son endurance tout en gardant une attention particulière sur le negative split. Il est également
+En conséquence, la séance prévue aujourd'hui, une sortie longue et 20 minutes de course (165 min, 700 m D+, FC 130-148), est appropriée pour continuer à améliorer sa forme physique avant le triathlon.
 
----
-
-## Le soir · 21h
-
-Soir, Nicolas. J'ai analysé la journée et je suis satisfait de voir que tu as continué à suivre ton plan d'entraînement. Ton effort de cyclomarche hier a été très productif avec un bon découplage et un split négatif, ce qui montre ta capacité à s'adapter à la course de Gerardmer.
-
-Cependant, il est important de noter que ton découplage est plus faible en descente, ce qui peut être un risque pour la course avec 1200 m de descentes. Il sera donc nécessaire de travailler sur cette partie afin de pouvoir maintenir une vitesse constante tout au long du parcours.
-
-En ce qui concerne ton objectif de temps, il est encore possible d'améliorer pour arriver à 7h00, mais cela nécessitera un effort supplémentaire en natation et cyclomarche. Il sera donc important de continuer à travailler sur tes points faibles tout en maintenant ton effort dans les zones de haute intensité.
-
-Pour aujourd'hui, je te recommande de prendre un jour de repos pour que ton corps puisse se rétablir avant la longue sortie et course prévues demain.
-
-Aujourd'hui, jour de repos prévu.
+La consigne précise pour cette séance est d'effectuer une longue sortie avec un décalage positif de 20 % (soit FC 130-148) en tenant compte du risque élevé de fatigue lors des montées, et de s'assurer que la course à la fin de la séance est réalisée à un
 
