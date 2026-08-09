@@ -14,3 +14,17 @@ En conséquence, la séance prévue aujourd'hui, une sortie longue et 20 minutes
 
 La consigne précise pour cette séance est d'effectuer une longue sortie avec un décalage positif de 20 % (soit FC 130-148) en tenant compte du risque élevé de fatigue lors des montées, et de s'assurer que la course à la fin de la séance est réalisée à un
 
+---
+
+## Le soir · 21h
+
+Soir Nicolas,
+
+La journée a été productive. Les sessions de cyclométrie du jeudi et dimanche ont permis d'améliorer votre découplage et de répéter le negative split, ce qui est très encourageant pour Gerardmer. Malheureusement, la session de natation du mardi a été annulée, cela peut entraîner un déficit dans votre gisement en nage, mais nous avons prévu trois séances par semaine pour vous permettre de le compenser.
+
+En ce qui concerne la projection de Gerardmer, si nous continuons à améliorer votre découplage et votre negative split, il est possible que vous puissiez atteindre votre objectif de 7 heures à 7 heures 15. Cependant, comme 1 200 mètres de dénivelé sont une montée importante, nous devons continuer à surveiller votre endurance en montagne pour éviter l'effondrement que vous connaissez.
+
+Demain, nous allons travailler sur la technique de natation pour améliorer votre gisement et votre vitesse en nage. Avec trois seances par semaine, je pense qu'il est important de consacrer un peu plus de temps à la technique plutôt que de simplement faire des longues sessions de nage.
+
+Consigne pour aujourd'hui : Essayez d'aller à l'eau pour vous relâcher et maintenir votre gisement en nage. Si cela est impossible, faites un petit entraînement sur terre pour préserver votre endurance générale.
+
