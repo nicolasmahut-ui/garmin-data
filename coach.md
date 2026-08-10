@@ -14,3 +14,19 @@ La séance prévue aujourd'hui est une séance de technique (45 min). Cependant,
 
 Pour aujourd'hui, la consigne d'exécution précise est : "Nicolas, travaillez sur votre technique de nage pendant 45 minutes. Faites attention à votre propulsion et à votre respiration pour
 
+---
+
+## Le soir · 21h
+
+Bonsoir Nicolas,
+
+J'ai analysé ton entraînement du jour et je peux te dire que cela a été une journée productive. Ton session de natation a duré 42 minutes, ce qui est en accord avec le temps prescrit. En revanche, les détails de la séance n'ont pas encore été remontés, mais l'analyse fine viendra demain matin.
+
+En ce qui concerne ton objectif pour le triathlon XL de Gerardmer en septembre 2026, je peux te dire que ta performance est significativement améliorée grâce à ton travail sur le negative split. En effet, à Deauville en 2026, tu as réussi à maintenir un rythme constant tout au long de la course, ce qui a permis de te positionner parmi les premiers.
+
+Pour demain, je t'encourage à suivre le plan prévu : une séance d'entraînement en côte. Cette session est importante pour te préparer aux montées que tu devras affronter lors du triathlon XL. Afin de maximiser les résultats, je t'encourage à être attentif à ton découplage et à éviter d'exploser comme à Frejus en 2025.
+
+Pour aujourd'hui, je te suggère de prendre un jour de repos pour que tes muscles se rétablissent avant la séance de demain.
+
+A bientôt !
+
