@@ -1,30 +1,16 @@
-# Coach — dimanche 9 août 2026
+# Coach — lundi 10 août 2026
 
-*J-27 avant Gérardmer XL*
+*J-26 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Le matin de dimanche 9 août 2026, il est 09h00, J-27 avant le triathlon XL de Gerardmer. Nicolas a effectué quatre séances d'entraînement les dernières semaines avec un décalage positif (TSB +3.4) et une charge (CTL 29.0) qui s'améliorent progressivement.
+Le matin de lundi 10 août 2026, il est temps de planifier la journée pour Nicolas. La nuit qui vient de s'écouler a duré 4,2 heures avec un score de 45 et une VFC de 93 ms (base personnelle : 82-130). Cela indique que Nicolas a eu une bonne nuit de repos, sa fréquence cardiaque au repos étant probablement inférieure à 44. Sa readiness est de 43, ce qui montre qu'il est prêt pour une session d'entraînement intense.
 
-La nuit dernière, il a dormi pendant 6 heures et 2 minutes, avec un temps de sommeil REM de 78 minutes pour un score de 67. Sa VFC est tombée à 81 ms contre sa base personnelle de 82-131, ce qui indique une fatigue modérée mais pas excessive après ses dernières séances. Son FC de repos n'est pas enregistré cette nuit-là. Sa readiness est de 63, ce qui montre qu'il a encore des réserves d'efforts pour l'entraînement.
+La charge du jour est CTL 28,9 et ATL 25,7 avec un TSB de +3,2. Cela signifie que Nicolas a fait des efforts intenses ces dernières semaines, mais qu'il est actuellement en bonne forme et prêt pour une compétition.
 
-En conséquence, la séance prévue aujourd'hui, une sortie longue et 20 minutes de course (165 min, 700 m D+, FC 130-148), est appropriée pour continuer à améliorer sa forme physique avant le triathlon.
+La séance prévue aujourd'hui est une séance de technique (45 min). Cependant, en considérant que la natation est son point faible, il serait judicieux d'ajuster cette séance pour qu'elle se concentre sur l'amélioration de sa technique de nage. Par exemple, Nicolas pourrait travailler sur sa propulsion avec des exercices de kick et de pull, ainsi que sur sa respiration en nageant avec des exercices de breathing.
 
-La consigne précise pour cette séance est d'effectuer une longue sortie avec un décalage positif de 20 % (soit FC 130-148) en tenant compte du risque élevé de fatigue lors des montées, et de s'assurer que la course à la fin de la séance est réalisée à un
-
----
-
-## Le soir · 21h
-
-Soir Nicolas,
-
-La journée a été productive. Les sessions de cyclométrie du jeudi et dimanche ont permis d'améliorer votre découplage et de répéter le negative split, ce qui est très encourageant pour Gerardmer. Malheureusement, la session de natation du mardi a été annulée, cela peut entraîner un déficit dans votre gisement en nage, mais nous avons prévu trois séances par semaine pour vous permettre de le compenser.
-
-En ce qui concerne la projection de Gerardmer, si nous continuons à améliorer votre découplage et votre negative split, il est possible que vous puissiez atteindre votre objectif de 7 heures à 7 heures 15. Cependant, comme 1 200 mètres de dénivelé sont une montée importante, nous devons continuer à surveiller votre endurance en montagne pour éviter l'effondrement que vous connaissez.
-
-Demain, nous allons travailler sur la technique de natation pour améliorer votre gisement et votre vitesse en nage. Avec trois seances par semaine, je pense qu'il est important de consacrer un peu plus de temps à la technique plutôt que de simplement faire des longues sessions de nage.
-
-Consigne pour aujourd'hui : Essayez d'aller à l'eau pour vous relâcher et maintenir votre gisement en nage. Si cela est impossible, faites un petit entraînement sur terre pour préserver votre endurance générale.
+Pour aujourd'hui, la consigne d'exécution précise est : "Nicolas, travaillez sur votre technique de nage pendant 45 minutes. Faites attention à votre propulsion et à votre respiration pour
 
