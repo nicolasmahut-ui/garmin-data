@@ -1,6 +1,6 @@
-# Coach — J-27 avant Gérardmer XL
+# Coach — J-26 avant Gérardmer XL
 
-*dimanche 9 août 2026* · course le samedi 5 septembre 2026
+*lundi 10 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -64,25 +64,25 @@ Tours, signal fin et trace : `seances/2026-08-07_virtual_ride_23888196107.md`
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.8 h | 7.1 h | 8 h |
+| Durée | 7.8 h | 7.2 h | 8 h |
 | Profond | 64 min | 82 min | 16-33 % |
 | REM | 99 min (21 %) | 86 min | 21-31 % |
-| Score | 86 | 75.5 | |
-| VFC | 119 ms | 89 ms | base 84-131 |
-| FC repos | - | 44 | |
-| Readiness | 77 | 57 | |
+| Score | 86 | 76.6 | |
+| VFC | 119 ms | 90 ms | base 84-131 |
+| FC repos | - | 43 | |
+| Readiness | 77 | 59 | |
 | Récupération restante | 6 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 73 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
+Sur 72 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
 | Découplage moyen | **6.6 %** | **6.5 %** | -0.1 pt |
-| Sommeil | 7.7 h | 6.9 h | |
-| REM | 92.9 min | 62.9 min | |
-| VFC | 98.3 ms | 75.5 ms | |
+| Sommeil | 7.6 h | 6.9 h | |
+| REM | 91.7 min | 62.9 min | |
+| VFC | 97.8 ms | 75.5 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -101,17 +101,17 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2300 m | 2300 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **29.0** (-1.5 sur 7 j) · ATL 25.6 · TSB +3.4
+**Charge** : CTL **28.3** (-2.4 sur 7 j) · ATL 21.9 · TSB +6.3
 
-Trajectoire : 29 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 28 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-08-10** — Technique
+**2026-08-11** — 8 x 90 s en côte
 
-- lap_swimming · 45 min
+- running · 55 min · FC 160-170
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
