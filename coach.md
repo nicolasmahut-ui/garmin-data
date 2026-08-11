@@ -1,32 +1,14 @@
-# Coach — lundi 10 août 2026
+# Coach — mardi 11 août 2026
 
-*J-26 avant Gérardmer XL*
+*J-25 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Le matin de lundi 10 août 2026, il est temps de planifier la journée pour Nicolas. La nuit qui vient de s'écouler a duré 4,2 heures avec un score de 45 et une VFC de 93 ms (base personnelle : 82-130). Cela indique que Nicolas a eu une bonne nuit de repos, sa fréquence cardiaque au repos étant probablement inférieure à 44. Sa readiness est de 43, ce qui montre qu'il est prêt pour une session d'entraînement intense.
+Bien sûr, Nicolas ! Le matin d'aujourd'hui, j'analyse la nuit qui vient de s'écouler et je cadre la journée qui commence. La nuit a été relativement longue avec 6,9 heures d'sommeil, dont 85 minutes de REM, ce qui indique un bon cycle de sommeil. Le score est élevé à 80, mais le VFC (Variabilité du Frequence Cardiaque) a retombé sous sa base personnelle à 118 ms, ce qui montre que la charge a morde plus que prévu. Le FC de repos n'est pas enregistré cette nuit-là. La readiness est également faible avec un score de 42 sur 100, ce qui indique une fatigue relativement élevée.
 
-La charge du jour est CTL 28,9 et ATL 25,7 avec un TSB de +3,2. Cela signifie que Nicolas a fait des efforts intenses ces dernières semaines, mais qu'il est actuellement en bonne forme et prêt pour une compétition.
+En conséquence, je propose d'ajuster la séance prévue aujourd'hui. Il s'agissait initialement de 8 x 90 secondes en côte (55 minutes, FC 160-170). Cependant, compte tenu du VFC et de la readiness faibles, je vous conseille d'effectuer une séance plus douce aujourd'hui. Je propose donc de réduire la durée de la séance en côte à 5 x 90 secondes (30 minutes) avec un FC plus modéré (150-160).
 
-La séance prévue aujourd'hui est une séance de technique (45 min). Cependant, en considérant que la natation est son point faible, il serait judicieux d'ajuster cette séance pour qu'elle se concentre sur l'amélioration de sa technique de nage. Par exemple, Nicolas pourrait travailler sur sa propulsion avec des exercices de kick et de pull, ainsi que sur sa respiration en nageant avec des exercices de breathing.
-
-Pour aujourd'hui, la consigne d'exécution précise est : "Nicolas, travaillez sur votre technique de nage pendant 45 minutes. Faites attention à votre propulsion et à votre respiration pour
-
----
-
-## Le soir · 21h
-
-Bonsoir Nicolas,
-
-J'ai analysé ton entraînement du jour et je peux te dire que cela a été une journée productive. Ton session de natation a duré 42 minutes, ce qui est en accord avec le temps prescrit. En revanche, les détails de la séance n'ont pas encore été remontés, mais l'analyse fine viendra demain matin.
-
-En ce qui concerne ton objectif pour le triathlon XL de Gerardmer en septembre 2026, je peux te dire que ta performance est significativement améliorée grâce à ton travail sur le negative split. En effet, à Deauville en 2026, tu as réussi à maintenir un rythme constant tout au long de la course, ce qui a permis de te positionner parmi les premiers.
-
-Pour demain, je t'encourage à suivre le plan prévu : une séance d'entraînement en côte. Cette session est importante pour te préparer aux montées que tu devras affronter lors du triathlon XL. Afin de maximiser les résultats, je t'encourage à être attentif à ton découplage et à éviter d'exploser comme à Frejus en 2025.
-
-Pour aujourd'hui, je te suggère de prendre un jour de repos pour que tes muscles se rétablissent avant la séance de demain.
-
-A bientôt !
+Pour cette séance, je vous conseille d'effectuer des efforts en côte avec une intensité modérée et de garder un rythme régulier tout au long de la séance. Cela vous permettra de continuer
 
