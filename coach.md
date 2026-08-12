@@ -1,14 +1,14 @@
-# Coach — mardi 11 août 2026
+# Coach — mercredi 12 août 2026
 
-*J-25 avant Gérardmer XL*
+*J-24 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Bien sûr, Nicolas ! Le matin d'aujourd'hui, j'analyse la nuit qui vient de s'écouler et je cadre la journée qui commence. La nuit a été relativement longue avec 6,9 heures d'sommeil, dont 85 minutes de REM, ce qui indique un bon cycle de sommeil. Le score est élevé à 80, mais le VFC (Variabilité du Frequence Cardiaque) a retombé sous sa base personnelle à 118 ms, ce qui montre que la charge a morde plus que prévu. Le FC de repos n'est pas enregistré cette nuit-là. La readiness est également faible avec un score de 42 sur 100, ce qui indique une fatigue relativement élevée.
+Bien sûr, Nicolas !
 
-En conséquence, je propose d'ajuster la séance prévue aujourd'hui. Il s'agissait initialement de 8 x 90 secondes en côte (55 minutes, FC 160-170). Cependant, compte tenu du VFC et de la readiness faibles, je vous conseille d'effectuer une séance plus douce aujourd'hui. Je propose donc de réduire la durée de la séance en côte à 5 x 90 secondes (30 minutes) avec un FC plus modéré (150-160).
-
-Pour cette séance, je vous conseille d'effectuer des efforts en côte avec une intensité modérée et de garder un rythme régulier tout au long de la séance. Cela vous permettra de continuer
+1. D'après les données de la nuit dernière, tu as eu un sommeil de 7 heures et demie avec une période REM prolongée de 93 minutes, ce qui indique que ton corps a bien reposé. Le score de ton sommeil est de 84, ce qui est satisfaisant mais pas exceptionnel. Ton VFC (Variabilité de la Fréquence Cardiaque) est de 118 ms, c'est-à-dire qu'il est légèrement au-dessus de ta base personnelle (82-130). Cela peut indiquer que tu as eu un peu plus d'activité physique ou de stress la veille. Ton readiness est à 75, ce qui montre que ton corps est encore en bonne santé pour l'entraînement.
+2. En fonction des données de tes dernières séances et du profil de ta course, je te conseillerai d'ajuster la séance prévue aujourd'hui (5 x 200 m à 1:58) en ajoutant quelques minutes supplémentaires pour préparer ton corps à la montée. Par exemple, tu peux ajouter une séance de course à pied ou un entraînement de cyclisme sur pente pour te faire prendre confiance et améliorer ton déplacement en montagne.
+3. Pour cette séance, je te conseille de garder le même rythme que lors de ta course : un negative split (temps plus rapide dans la deuxième partie). Cela peut être difficile pour les nageoires mais essaie d'attaquer chaque tour avec une énergie const
 
