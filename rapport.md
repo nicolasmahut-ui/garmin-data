@@ -1,6 +1,6 @@
-# Coach — J-22 avant Gérardmer XL
+# Coach — J-21 avant Gérardmer XL
 
-*vendredi 14 août 2026* · course le samedi 5 septembre 2026
+*samedi 15 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -60,22 +60,22 @@ Tours, signal fin et trace : `seances/2026-08-13_lap_swimming_23964673828.md`
 | Durée | 8.1 h | 7.2 h | 8 h |
 | Profond | 54 min | 82 min | 16-33 % |
 | REM | 101 min (21 %) | 87 min | 21-31 % |
-| Score | 85 | 77.3 | |
+| Score | 85 | 76.6 | |
 | VFC | 122 ms | 92 ms | base 82-131 |
-| FC repos | - | 41 | |
-| Readiness | 68 | 60 | |
+| FC repos | - | 40 | |
+| Readiness | 68 | 59 | |
 | Récupération restante | 21 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 73 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
+Sur 71 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **6.6 %** | **6.4 %** | -0.1 pt |
+| Découplage moyen | **6.6 %** | **6.7 %** | +0.2 pt |
 | Sommeil | 7.6 h | 6.9 h | |
-| REM | 91.7 min | 64.3 min | |
-| VFC | 97.8 ms | 76.8 ms | |
+| REM | 91.7 min | 65.8 min | |
+| VFC | 97.8 ms | 78.5 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -94,17 +94,17 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2300 m | 2300 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **29.1** (-1.3 sur 7 j) · ATL 27.2 · TSB +1.9
+**Charge** : CTL **28.4** (-1.3 sur 7 j) · ATL 23.3 · TSB +5.1
 
-Trajectoire : 29 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 28 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
 
 ---
 
 ## 5. Demain
 
-**2026-08-15** — Endurance
+**2026-08-16** — Sortie longue + 30 min course
 
-- running · 60 min · FC 125-140
+- cycling · 195 min · 900 m D+ · FC 130-148
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
