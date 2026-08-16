@@ -1,6 +1,6 @@
-# Coach — J-21 avant Gérardmer XL
+# Coach — J-20 avant Gérardmer XL
 
-*samedi 15 août 2026* · course le samedi 5 septembre 2026
+*dimanche 16 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -69,22 +69,22 @@ Tours, signal fin et trace : `seances/2026-08-15_running_23988282820.md`
 | Durée | 5.2 h | 7.1 h | 8 h |
 | Profond | 38 min | 80 min | 16-33 % |
 | REM | 26 min (8 %) | 85 min | 21-31 % |
-| Score | 50 | 75.5 | |
-| VFC | 63 ms | 91 ms | base 83-131 |
-| FC repos | - | 40 | |
-| Readiness | 32 | 58 | |
+| Score | 50 | 75.4 | |
+| VFC | 63 ms | 90 ms | base 83-131 |
+| FC repos | - | 39 | |
+| Readiness | 32 | 57 | |
 | Récupération restante | 24 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 72 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
+Sur 71 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **6.6 %** | **6.7 %** | +0.2 pt |
+| Découplage moyen | **6.6 %** | **7.2 %** | +0.7 pt |
 | Sommeil | 7.6 h | 6.9 h | |
-| REM | 91.7 min | 62.9 min | |
-| VFC | 97.8 ms | 78.0 ms | |
+| REM | 91.7 min | 66.5 min | |
+| VFC | 97.8 ms | 79.0 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -103,17 +103,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2300 m | 2300 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **29.6** (-0.1 sur 7 j) · ATL 30.6 · TSB -0.9
+**Charge** : CTL **28.9** (-0.1 sur 7 j) · ATL 26.2 · TSB +2.7
 
-Trajectoire : 30 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 29 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es en retard, il faut charger.
 
 ---
 
 ## 5. Demain
 
-**2026-08-16** — Sortie longue + 30 min course
-
-- cycling · 195 min · 900 m D+ · FC 130-148
+**2026-08-17** — repos ou séance libre très facile.
 
 ⚠️ **Ajustement** : VFC sous ta base, readiness bas. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
