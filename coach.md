@@ -12,3 +12,21 @@ En conséquence, je prévois une séance de sortie longue aujourd'hui avec une d
 
 Pour aujourd'hui, la consigne d'exécution est de maintenir un FC compris entre 130 et 148 tout au long de la séance et de respecter le negative split pour éviter l'effondrement en cote. Il faut également se concentrer sur la natation, car c'est son point faible et son gisement.
 
+---
+
+## Le soir · 21h
+
+Soir Nicolas, voici ma réflexion sur ton journée et ma préparation pour demain.
+
+Ton travail aujourd'hui a été productif, avec une séance de cyclisme en longueur de 199 minutes, bien au-delà du temps prescrit (150 minutes). Cela montre ta capacité à aller au-delà des limites et ton dévouement à l'entraînement.
+
+Cependant, il est important de noter que ton découplage a été plus élevé que prévu, atteignant 7,7%, ce qui pourrait être un signe que tu as poussé un peu trop loin. Cela devra être pris en compte dans la préparation à Gerardmer.
+
+Ton comportement de course est clément : tu as réussi un negative split à Deauville, ce qui montre ta capacité à gérer tes énergies sur longue distance. Cela devra être renforcé pour Gerardmer, où 1200 mètres de dénivelé sont attendus.
+
+Pour demain, il est prévu un jour de repos, ce qui est important pour récupérer et préparer ton corps à la semaine suivante.
+
+En ce qui concerne Gerardmer, ta projection est actuellement de 7 heures à 7 heures 15, mais avec le découplage élevé que tu as montré aujourd'hui, il est important de prendre en compte cette tendance et d'adapter ton entraînement pour réduire ce risque.
+
+Pour demain, je te recommande une séance de natation pour travailler sur ton
+
