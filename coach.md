@@ -1,32 +1,16 @@
-# Coach — dimanche 16 août 2026
+# Coach — lundi 17 août 2026
 
-*J-20 avant Gérardmer XL*
+*J-19 avant Gérardmer XL*
 
 ---
 
 ## Le matin · 9h
 
-Le matin de dimanche 16 août 2026, J-20 pour le triathlon XL de Gerardmer, je me suis mis à l'analyse des données enregistrées ces dernières semaines. La nuit qui vient de s'écouler a été courte avec un temps de sommeil de 5,5 heures et une durée rémente de 22 minutes, ce qui donne un score de 61. La VFC est tombée à 64 ms contre sa base personnelle de 82-130, ce qui montre que la charge a morde plus que prévu. Malgré cela, le FC de repos reste stable et la readiness est à 23.
+Le matin de dimanche 17 août 2026, il est temps d'analyser la nuit passée et de planifier notre journée. En regardant les données enregistrées, nous constatons que Nicolas a dormi pendant 6 heures et demie avec une durée totale de REM de 52 minutes, ce qui correspond à un score de sommeil de 65. Sa VFC (Variable Frequency of Cortical Activation) est tombée à 55 ms contre sa base personnelle de 83-129 ms, ce qui indique une charge plus faible que prévue. Son FC repos est de 44 et sa readiness s'élève à 36.
 
-En conséquence, je prévois une séance de sortie longue aujourd'hui avec une durée de 195 minutes et un dénivelé positif de 900 mètres, avec un FC compris entre 130 et 148. Cette séance doit être adaptée pour renforcer le comportement négatif split que Nicolas a réussi à Deauville en 2026.
+En regardant notre plan, il semble que la nuit passée ait été moins restitutive pour Nicolas que prévu. Cependant, malgré cette charge plus faible, nous devons prendre en compte qu'il y a encore 19 jours avant le triathlon XL de Gerardmer et que Nicolas a déjà montré qu'il est capable de se récupérer rapidement lorsque la charge est plus faible.
 
-Pour aujourd'hui, la consigne d'exécution est de maintenir un FC compris entre 130 et 148 tout au long de la séance et de respecter le negative split pour éviter l'effondrement en cote. Il faut également se concentrer sur la natation, car c'est son point faible et son gisement.
+Aujourd'hui, nous avons prévu un repos pour permettre à Nicolas de se rétablir et de préparer l'intensité de la prochaine semaine. Demain, il y aura trois séances de 8 minutes au seuil (167) prévues pour améliorer sa puissance et son endurance sur le cyclisme.
 
----
-
-## Le soir · 21h
-
-Soir Nicolas, voici ma réflexion sur ton journée et ma préparation pour demain.
-
-Ton travail aujourd'hui a été productif, avec une séance de cyclisme en longueur de 199 minutes, bien au-delà du temps prescrit (150 minutes). Cela montre ta capacité à aller au-delà des limites et ton dévouement à l'entraînement.
-
-Cependant, il est important de noter que ton découplage a été plus élevé que prévu, atteignant 7,7%, ce qui pourrait être un signe que tu as poussé un peu trop loin. Cela devra être pris en compte dans la préparation à Gerardmer.
-
-Ton comportement de course est clément : tu as réussi un negative split à Deauville, ce qui montre ta capacité à gérer tes énergies sur longue distance. Cela devra être renforcé pour Gerardmer, où 1200 mètres de dénivelé sont attendus.
-
-Pour demain, il est prévu un jour de repos, ce qui est important pour récupérer et préparer ton corps à la semaine suivante.
-
-En ce qui concerne Gerardmer, ta projection est actuellement de 7 heures à 7 heures 15, mais avec le découplage élevé que tu as montré aujourd'hui, il est important de prendre en compte cette tendance et d'adapter ton entraînement pour réduire ce risque.
-
-Pour demain, je te recommande une séance de natation pour travailler sur ton
+Pour cette seance, je vous conseille à Nicolas d'effectuer une répétition de 8 minutes avec un FC moyen de 16
 
