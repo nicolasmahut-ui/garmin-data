@@ -14,3 +14,17 @@ Aujourd'hui, nous avons prévu un repos pour permettre à Nicolas de se rétabli
 
 Pour cette seance, je vous conseille à Nicolas d'effectuer une répétition de 8 minutes avec un FC moyen de 16
 
+---
+
+## Le soir · 21h
+
+Bonsoir Nicolas,
+
+La journée a été productive car tu as respecté le repos prévu et ton score de sommeil est bon (65, VFC 55 ms). Cela devrait te permettre d'être en forme pour demain. Toutefois, il est important de noter que ta dernière séance de course à pied n'a pas été un negative split, avec un decouplage de 7,7%. Cela signifie que tu as commencé trop vite et que tu as dû ralentir vers la fin. Il est important de continuer à travailler sur ce point pour éviter d'exploser comme à Frejus en 2025.
+
+En ce qui concerne Gerardmer, avec un negative split et un bon travail sur le decouplage, ton temps pourra être significativement amélioré. Encore faut-il travailler sur ta natation car c'est ton point faible.
+
+Demain, tu devras effectuer une séance de 3 x 8 min au seuil. Cela te permettra de travailler sur ton effort maximal et de continuer à améliorer ton découplage.
+
+Consigne pour demain : Effectue la séance prévue avec un effort maximal et respecte le negative split.
+
