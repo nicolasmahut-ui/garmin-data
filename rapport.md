@@ -1,6 +1,6 @@
-# Coach — J-20 avant Gérardmer XL
+# Coach — J-19 avant Gérardmer XL
 
-*dimanche 16 août 2026* · course le samedi 5 septembre 2026
+*lundi 17 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -64,22 +64,22 @@ Tours, signal fin et trace : `seances/2026-08-16_road_biking_23996700654.md`
 | Durée | 5.5 h | 7.1 h | 8 h |
 | Profond | 85 min | 81 min | 16-33 % |
 | REM | 22 min (7 %) | 82 min | 21-31 % |
-| Score | 61 | 74.8 | |
+| Score | 61 | 75.1 | |
 | VFC | 64 ms | 89 ms | base 82-130 |
-| FC repos | - | 39 | |
-| Readiness | 25 | 56 | |
+| FC repos | - | - | |
+| Readiness | 25 | 55 | |
 | Récupération restante | 9 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 71 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
+Sur 70 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **6.6 %** | **7.2 %** | +0.7 pt |
-| Sommeil | 7.6 h | 6.9 h | |
-| REM | 91.7 min | 66.5 min | |
-| VFC | 97.8 ms | 79.0 ms | |
+| Découplage moyen | **7.5 %** | **7.9 %** | +0.4 pt |
+| Sommeil | 7.7 h | 6.8 h | |
+| REM | 93.4 min | 67.7 min | |
+| VFC | 98.3 ms | 80.2 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -98,7 +98,7 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2300 m | 2300 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **31.4** (+2.4 sur 7 j) · ATL 40.8 · TSB -9.5
+**Charge** : CTL **30.6** (+1.7 sur 7 j) · ATL 35.0 · TSB -4.4
 
 Trajectoire : 31 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
@@ -106,7 +106,9 @@ Trajectoire : 31 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 ## 5. Demain
 
-**2026-08-17** — repos ou séance libre très facile.
+**2026-08-18** — 3 x 8 min au seuil
+
+- running · 60 min · FC 162-170
 
 ⚠️ **Ajustement** : VFC sous ta base, readiness bas. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
