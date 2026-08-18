@@ -1,6 +1,6 @@
-# Coach — J-19 avant Gérardmer XL
+# Coach — J-18 avant Gérardmer XL
 
-*lundi 17 août 2026* · course le samedi 5 septembre 2026
+*mardi 18 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -62,24 +62,24 @@ Tours, signal fin et trace : `seances/2026-08-16_road_biking_23996700654.md`
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
 | Durée | 5.5 h | 7.1 h | 8 h |
-| Profond | 85 min | 80 min | 16-33 % |
-| REM | 22 min (7 %) | 81 min | 21-31 % |
-| Score | 61 | 74.7 | |
+| Profond | 85 min | 81 min | 16-33 % |
+| REM | 22 min (7 %) | 80 min | 21-31 % |
+| Score | 61 | 75.2 | |
 | VFC | 64 ms | 88 ms | base 82-130 |
 | FC repos | - | - | |
-| Readiness | 25 | 55 | |
+| Readiness | 25 | 54 | |
 | Récupération restante | 9 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 70 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 69 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **7.5 %** | **7.9 %** | +0.4 pt |
+| Découplage moyen | **7.5 %** | **8.0 %** | +0.5 pt |
 | Sommeil | 7.7 h | 6.8 h | |
-| REM | 93.4 min | 67.7 min | |
-| VFC | 98.3 ms | 80.2 ms | |
+| REM | 93.4 min | 65.8 min | |
+| VFC | 98.3 ms | 80.8 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -98,17 +98,17 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 2300 m | 2300 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **30.6** (+1.7 sur 7 j) · ATL 35.0 · TSB -4.4
+**Charge** : CTL **29.9** (+0.1 sur 7 j) · ATL 30.0 · TSB -0.1
 
-Trajectoire : 31 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 30 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-08-18** — 3 x 8 min au seuil
+**2026-08-19** — 10 x 100 m à 1:55
 
-- running · 60 min · FC 162-170
+- lap_swimming · 60 min
 
 ⚠️ **Ajustement** : VFC sous ta base, readiness bas. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
