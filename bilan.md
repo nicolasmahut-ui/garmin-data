@@ -138,13 +138,13 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08-19 | - | 114 | 7.9 h | 88 | 63 | - | - |
 | 2026-08-20 | - | 107 | 5.3 h | 67 | 47 | - | - |
 | 2026-08-21 | - | 73 | 4.9 h | 44 | 13 | 89.6 kg | - |
-| 2026-08-22 | - | 112 | 8.6 h | 88 | 45 | - | - |
+| 2026-08-22 | - | 112 | 8.6 h | 88 | 50 | - | - |
 
 ### Tendances 7 j vs 28 j
 
 - VFC : 90.1 vs 92.3 (-2.1)
 - Sommeil : 6.6 vs 7.0 (-0.4)
-- Readiness : 39.9 vs 52.0 (-12.1)
+- Readiness : 40.6 vs 52.2 (-11.6)
 - Poids : 89.6 kg (+1.6 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
@@ -164,7 +164,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08-19 | 63 | 13 h | 66 % | 88 | - |
 | 2026-08-20 | 47 | 14 h | 61 % | 67 | - |
 | 2026-08-21 | 13 | 11 h | 58 % | 44 | - |
-| 2026-08-22 | 45 | 21 h | 83 % | 88 | - |
+| 2026-08-22 | 50 | 14 h | 83 % | 88 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -283,4 +283,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 391 colonnes distinctes.
+`wellness.csv` contient 390 colonnes distinctes.
