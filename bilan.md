@@ -138,14 +138,14 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08-21 | - | 73 | 4.9 h | 44 | 13 | 89.6 kg | - |
 | 2026-08-22 | - | 112 | 8.6 h | 88 | 50 | - | - |
 | 2026-08-23 | - | 105 | 5.5 h | 70 | 50 | 90.8 kg | 50.1 |
-| 2026-08-24 | - | - | - | - | - | - | - |
+| 2026-08-24 | - | - | - | - | - | 90.1 kg | - |
 
 ### Tendances 7 j vs 28 j
 
 - VFC : 102.8 vs 93.1 (+9.7)
 - Sommeil : 6.6 vs 6.9 (-0.3)
 - Readiness : 45.5 vs 51.7 (-6.2)
-- Poids : 90.8 kg (+2.8 kg depuis le 2025-07-24)
+- Poids : 90.1 kg (+2.1 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
 
