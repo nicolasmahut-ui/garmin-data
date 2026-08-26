@@ -1,6 +1,6 @@
-# Coach — J-11 avant Gérardmer XL
+# Coach — J-10 avant Gérardmer XL
 
-*mardi 25 août 2026* · course le samedi 5 septembre 2026
+*mercredi 26 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -67,24 +67,24 @@ Tours, signal fin et trace : `seances/2026-08-25_road_biking_24106756798.md`
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
 | Durée | 7.5 h | 6.9 h | 8 h |
-| Profond | 86 min | 73 min | 16-33 % |
-| REM | 102 min (23 %) | 82 min | 21-31 % |
-| Score | 88 | 74.4 | |
+| Profond | 86 min | 70 min | 16-33 % |
+| REM | 102 min (23 %) | 81 min | 21-31 % |
+| Score | 88 | 74.1 | |
 | VFC | 120 ms | 94 ms | base 81-129 |
 | FC repos | - | - | |
-| Readiness | 67 | 52 | |
+| Readiness | 67 | 51 | |
 | Récupération restante | 20 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 71 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 70 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
 | Découplage moyen | **7.2 %** | **7.0 %** | -0.2 pt |
 | Sommeil | 7.7 h | 6.7 h | |
-| REM | 94.2 min | 66.9 min | |
-| VFC | 98.9 ms | 84.6 ms | |
+| REM | 94.2 min | 65.7 min | |
+| VFC | 98.9 ms | 85.0 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -103,17 +103,17 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **44.3** (+13.0 sur 7 j) · ATL 95.1 · TSB -50.9
+**Charge** : CTL **43.2** (+11.4 sur 7 j) · ATL 81.6 · TSB -38.3
 
-Trajectoire : 44 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 43 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-08-26** — 6 x 200 m à 1:58
+**2026-08-27** — 2 x 15 min
 
-- lap_swimming · 60 min
+- indoor_cycling · 60 min · FC 150-158
 
 **Vigilance** : TSB très négatif. Fais la séance mais dans le bas des zones.
 
