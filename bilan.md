@@ -137,14 +137,14 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08-22 | - | 112 | 8.6 h | 88 | 50 | - | - |
 | 2026-08-23 | - | 105 | 5.5 h | 70 | 50 | 90.8 kg | 50.1 |
 | 2026-08-24 | - | 112 | 8.0 h | 88 | 70 | 90.1 kg | - |
-| 2026-08-25 | - | 120 | 7.5 h | 88 | 67 | 90.6 kg | - |
-| 2026-08-26 | - | - | - | - | - | - | - |
+| 2026-08-25 | - | 120 | 7.5 h | 88 | 75 | 90.6 kg | - |
+| 2026-08-26 | - | 100 | 7.0 h | 78 | 75 | - | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 104.8 vs 94.1 (+10.8)
-- Sommeil : 6.6 vs 6.9 (-0.3)
-- Readiness : 49.5 vs 51.1 (-1.6)
+- VFC : 104.1 vs 94.3 (+9.9)
+- Sommeil : 6.7 vs 6.9 (-0.2)
+- Readiness : 54.3 vs 52.2 (+2.0)
 - Poids : 90.6 kg (+2.6 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
@@ -163,7 +163,8 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08-22 | 50 | 14 h | 83 % | 88 | - |
 | 2026-08-23 | 50 | 15 h | 100 % | 70 | - |
 | 2026-08-24 | 70 | 7 h | 99 % | 88 | - |
-| 2026-08-25 | 67 | 20 h | 96 % | 88 | - |
+| 2026-08-25 | 75 | 10 h | 96 % | 88 | - |
+| 2026-08-26 | 75 | 1 h | 99 % | 78 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -198,6 +199,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08-23 | 5.5 h | 64 min | 203 min | 65 min | 4 min | 70 | 105 |
 | 2026-08-24 | 8.0 h | 44 min | 329 min | 104 min | 2 min | 88 | 112 |
 | 2026-08-25 | 7.5 h | 86 min | 263 min | 102 min | 17 min | 88 | 120 |
+| 2026-08-26 | 7.0 h | 114 min | 221 min | 83 min | 19 min | 78 | 100 |
 
 Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharge Body Battery — dans le dossier `nuits/`.
 
@@ -206,11 +208,11 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_score : 29
 - hill_force : 4
 - hill_endurance : 14
-- endurance_score : 5752
+- endurance_score : 5751
 - predi_5k_s : 1453
 - predi_10k_s : 3100
-- predi_semi_s : 7014
-- predi_marathon_s : 15669
+- predi_semi_s : 7016
+- predi_marathon_s : 15675
 
 ## 15 dernières séances
 
