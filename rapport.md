@@ -70,8 +70,7 @@ Tours, signal fin et trace : `seances/2026-08-27_treadmill_running_24132063809.m
 | Score | 81 | 74.8 | |
 | VFC | 92 ms | 95 ms | base 82-130 |
 | FC repos | - | - | |
-| Readiness | 73 | 54 | |
-| Récupération restante | 3 h | | |
+| Readiness | 75 | 54 | |
 
 **Ce que ton historique démontre**
 
