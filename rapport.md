@@ -67,7 +67,7 @@ Tours, signal fin et trace : `seances/2026-08-27_treadmill_running_24132063809.m
 | Durée | 6.6 h | 6.9 h | 8 h |
 | Profond | 127 min | 76 min | 16-33 % |
 | REM | 82 min (21 %) | 81 min | 21-31 % |
-| Score | 81 | 75.1 | |
+| Score | 81 | 75.0 | |
 | VFC | 92 ms | 96 ms | base 82-130 |
 | FC repos | - | - | |
 | Readiness | 75 | 55 | |
