@@ -1,6 +1,6 @@
-# Coach — J-9 avant Gérardmer XL
+# Coach — J-8 avant Gérardmer XL
 
-*jeudi 27 août 2026* · course le samedi 5 septembre 2026
+*vendredi 28 août 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -65,23 +65,23 @@ Tours, signal fin et trace : `seances/2026-08-27_treadmill_running_24132063809.m
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
 | Durée | 6.6 h | 6.9 h | 8 h |
-| Profond | 127 min | 74 min | 16-33 % |
-| REM | 82 min (21 %) | 82 min | 21-31 % |
-| Score | 81 | 74.8 | |
-| VFC | 92 ms | 95 ms | base 82-130 |
+| Profond | 127 min | 76 min | 16-33 % |
+| REM | 82 min (21 %) | 81 min | 21-31 % |
+| Score | 81 | 75.1 | |
+| VFC | 92 ms | 96 ms | base 82-130 |
 | FC repos | - | - | |
-| Readiness | 75 | 54 | |
+| Readiness | 75 | 55 | |
 
 **Ce que ton historique démontre**
 
-Sur 71 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 70 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **7.3 %** | **7.0 %** | -0.4 pt |
-| Sommeil | 7.7 h | 6.7 h | |
-| REM | 93.2 min | 65.7 min | |
-| VFC | 98.7 ms | 85.0 ms | |
+| Découplage moyen | **7.4 %** | **7.0 %** | -0.5 pt |
+| Sommeil | 7.6 h | 6.7 h | |
+| REM | 92.1 min | 65.7 min | |
+| VFC | 99.4 ms | 85.0 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -100,19 +100,19 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **42.6** (+9.3 sur 7 j) · ATL 72.2 · TSB -29.6
+**Charge** : CTL **41.6** (+9.1 sur 7 j) · ATL 61.9 · TSB -20.3
 
-Trajectoire : 43 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 42 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-08-28** — 1 900 m chronométré
+**2026-08-29** — Souple
 
-- lap_swimming · 60 min
+- running · 45 min · FC 125-140
 
-**Vigilance** : TSB très négatif. Fais la séance mais dans le bas des zones.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
