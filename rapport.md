@@ -6,14 +6,14 @@
 
 ## 1. Ta séance
 
-### 2026-08-27 · treadmill_running · 31 min
+### 2026-08-29 · road_biking · 55 min
 
-**Prescrit** : 2 x 15 min — 60 min, FC 150-158
+**Prescrit** : Souple — 45 min, FC 125-140
 
 | | Réalisé | Prescrit | Écart |
 |---|---|---|---|
-| Durée | **31 min** | 60 min | -29 min |
-| FC moyenne | **117** | 150-158 | -37 |
+| Durée | **55 min** | 45 min | +10 min |
+| FC moyenne | **123** | 125-140 | -10 |
 
 ⚠️ **Écart au plan.** Vérifie si c'était volontaire.
 
@@ -21,23 +21,19 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **4.8 km** | 4.0 km |
-| FC moyenne | **117** | 118 |
-| FC max | **126** | 132 |
-| Puissance norm. | **329 W** | 291 W |
-| Cadence | **142** | 140 |
-| TSS | **16** | 14 |
-| Découplage | **11.3 %** | 8.4 % |
-| Dérive cardiaque | **5.8 bpm** | 7.3 bpm |
-| Meilleur 1 km | 6:08 | 6:45 |
-| Allure | **6:29/km** | 6:18/km |
-| Negative split | **non** (-6.8 %) | 1/2 fois |
+| Distance | **26.1 km** | 63.3 km |
+| Dénivelé | **275 m** | 434 m |
+| FC moyenne | **123** | 122 |
+| FC max | **150** | 153 |
+| TSS | **33** | 149 |
+| Dérive cardiaque | **1.3 bpm** | 2.3 bpm |
+| Meilleur 1 km | 1:33 | 1:31 |
+| Allure | **2:07/km** | 2:19/km |
+| Météo | 18 °C · 83 % hum. | |
 
-Zones FC : **Z1** 26 % · **Z2** 74 %
+Zones FC : **Z1** 22 % · **Z2** 63 % · **Z3** 15 %
 
-**Lecture** — Découplage 11.3 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Pas de negative split — à corriger sur les sorties longues.
-
-Tours, signal fin et trace : `seances/2026-08-27_treadmill_running_24132063809.md`
+Tours, signal fin et trace : `seances/2026-08-29_road_biking_24158307777.md`
 
 ---
 
@@ -47,41 +43,42 @@ Tours, signal fin et trace : `seances/2026-08-27_treadmill_running_24132063809.m
 |---|---|---|---|---|
 | Natation 1,9 km | **0 h 41** | 0 h 41 | +0 min | 2:09/100 m |
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
-| Vélo 90 km / 1 200 m | **3 h 47** | 4 h 10 | -23 min | modèle sur 15 sorties |
+| Vélo 90 km / 1 200 m | **3 h 39** | 4 h 10 | -31 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
 | Course 21,1 km | **2 h 23** | 2 h 25 | -2 min | 6:47/km projeté |
-| **TOTAL** | **7 h 00** | 7 h 25 | **-25 min** | |
+| **TOTAL** | **6 h 52** | 7 h 25 | **-33 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
-*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.92 min par km, plus 4.50 min par 100 m de dénivelé. Recalculé à chaque sortie.*
+*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.97 min par km, plus 3.42 min par 100 m de dénivelé. Recalculé à chaque sortie.*
 
 ---
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-08-27)
+**La nuit qui a précédé** (2026-08-29)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.6 h | 6.9 h | 8 h |
-| Profond | 127 min | 75 min | 16-33 % |
-| REM | 82 min (21 %) | 81 min | 21-31 % |
-| Score | 81 | 75.6 | |
-| VFC | 92 ms | 98 ms | base 82-130 |
+| Durée | 9.2 h | 6.9 h | 8 h |
+| Profond | 115 min | 75 min | 16-33 % |
+| REM | 115 min (21 %) | 81 min | 21-31 % |
+| Score | 90 | 75.6 | |
+| VFC | 116 ms | 98 ms | base 81-129 |
 | FC repos | - | - | |
-| Readiness | 75 | 57 | |
+| Readiness | 66 | 56 | |
+| Récupération restante | 32 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 70 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 71 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **7.4 %** | **7.0 %** | -0.5 pt |
-| Sommeil | 7.6 h | 6.7 h | |
-| REM | 92.1 min | 65.7 min | |
-| VFC | 99.4 ms | 85.0 ms | |
+| Découplage moyen | **7.2 %** | **7.0 %** | -0.3 pt |
+| Sommeil | 7.7 h | 6.7 h | |
+| REM | 94.0 min | 65.7 min | |
+| VFC | 99.9 ms | 85.0 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -100,9 +97,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **40.6** (+6.7 sur 7 j) · ATL 53.0 · TSB -12.4
+**Charge** : CTL **48.9** (+15.0 sur 7 j) · ATL 102.7 · TSB -53.8
 
-Trajectoire : 41 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 49 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -112,7 +109,7 @@ Trajectoire : 41 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 - cycling · 150 min · 800 m D+ · FC 138-148
 
-✅ **Aucun signal négatif.** Séance comme prévu.
+⚠️ **Ajustement** : récupération incomplète, TSB très négatif. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
 ---
 
