@@ -6,14 +6,14 @@
 
 ## 1. Ta séance
 
-### 2026-08-29 · road_biking · 55 min
+### 2026-08-29 · road_biking · 139 min
 
 **Prescrit** : Souple — 45 min, FC 125-140
 
 | | Réalisé | Prescrit | Écart |
 |---|---|---|---|
-| Durée | **55 min** | 45 min | +10 min |
-| FC moyenne | **123** | 125-140 | -10 |
+| Durée | **139 min** | 45 min | +94 min |
+| FC moyenne | **122** | 125-140 | -10 |
 
 ⚠️ **Écart au plan.** Vérifie si c'était volontaire.
 
@@ -21,19 +21,25 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **26.1 km** | 63.3 km |
-| Dénivelé | **275 m** | 434 m |
-| FC moyenne | **123** | 122 |
-| FC max | **150** | 153 |
-| TSS | **33** | 149 |
-| Dérive cardiaque | **1.3 bpm** | 2.3 bpm |
-| Meilleur 1 km | 1:33 | 1:31 |
-| Allure | **2:07/km** | 2:19/km |
-| Météo | 18 °C · 83 % hum. | |
+| Distance | **66.6 km** | 63.9 km |
+| Dénivelé | **527 m** | 436 m |
+| FC moyenne | **122** | 122 |
+| FC max | **150** | 154 |
+| Puissance norm. | **233 W** | 67 W |
+| Cadence | **78** | 38 |
+| TSS | **314** | 128 |
+| Découplage | **0.1 %** | 5.8 % |
+| Dérive cardiaque | **1.5 bpm** | 3.0 bpm |
+| Meilleur 20 min | **244 W** | 237 W |
+| Allure | **2:05/km** | 2:21/km |
+| Negative split | **oui** (1.1 %) | 1/2 fois |
+| Météo | 17 °C · 88 % hum. | |
 
-Zones FC : **Z1** 22 % · **Z2** 63 % · **Z3** 15 %
+Zones FC : **Z1** 19 % · **Z2** 67 % · **Z3** 14 %
 
-Tours, signal fin et trace : `seances/2026-08-29_road_biking_24158307777.md`
+**Lecture** — Découplage 0.1 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
+
+Tours, signal fin et trace : `seances/2026-08-29_road_biking_24157820962.md`
 
 ---
 
@@ -43,14 +49,14 @@ Tours, signal fin et trace : `seances/2026-08-29_road_biking_24158307777.md`
 |---|---|---|---|---|
 | Natation 1,9 km | **0 h 41** | 0 h 41 | +0 min | 2:09/100 m |
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
-| Vélo 90 km / 1 200 m | **3 h 39** | 4 h 10 | -31 min | modèle sur 15 sorties |
+| Vélo 90 km / 1 200 m | **3 h 41** | 4 h 10 | -29 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
 | Course 21,1 km | **2 h 23** | 2 h 25 | -2 min | 6:47/km projeté |
-| **TOTAL** | **6 h 52** | 7 h 25 | **-33 min** | |
+| **TOTAL** | **6 h 54** | 7 h 25 | **-31 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
-*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.97 min par km, plus 3.42 min par 100 m de dénivelé. Recalculé à chaque sortie.*
+*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.95 min par km, plus 3.78 min par 100 m de dénivelé. Recalculé à chaque sortie.*
 
 ---
 
@@ -97,9 +103,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **48.9** (+15.0 sur 7 j) · ATL 102.7 · TSB -53.8
+**Charge** : CTL **48.1** (+14.2 sur 7 j) · ATL 97.9 · TSB -49.8
 
-Trajectoire : 49 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 48 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
