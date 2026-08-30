@@ -210,10 +210,10 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_force : 6
 - hill_endurance : 14
 - endurance_score : 5745
-- predi_5k_s : 1453
+- predi_5k_s : 1454
 - predi_10k_s : 3102
-- predi_semi_s : 7025
-- predi_marathon_s : 15715
+- predi_semi_s : 7028
+- predi_marathon_s : 15723
 
 ## 15 dernières séances
 
@@ -284,4 +284,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 392 colonnes distinctes.
+`wellness.csv` contient 391 colonnes distinctes.
