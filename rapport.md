@@ -6,40 +6,33 @@
 
 ## 1. Ta séance
 
-### 2026-08-29 · road_biking · 139 min
+### 2026-08-31 · running · 49 min
 
-**Prescrit** : Souple — 45 min, FC 125-140
-
-| | Réalisé | Prescrit | Écart |
-|---|---|---|---|
-| Durée | **139 min** | 45 min | +94 min |
-| FC moyenne | **122** | 125-140 | -10 |
-
-⚠️ **Écart au plan.** Vérifie si c'était volontaire.
+*Séance hors plan.*
 
 **Le détail**
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **66.6 km** | 63.9 km |
-| Dénivelé | **527 m** | 436 m |
-| FC moyenne | **122** | 122 |
-| FC max | **150** | 154 |
-| Puissance norm. | **233 W** | 67 W |
-| Cadence | **78** | 38 |
-| TSS | **314** | 128 |
-| Découplage | **0.1 %** | 5.8 % |
-| Dérive cardiaque | **1.5 bpm** | 3.0 bpm |
-| Meilleur 20 min | **244 W** | 237 W |
-| Allure | **2:05/km** | 2:21/km |
-| Negative split | **oui** (1.1 %) | 1/2 fois |
-| Météo | 17 °C · 88 % hum. | |
+| Distance | **8.0 km** | 9.0 km |
+| Dénivelé | **43 m** | 116 m |
+| FC moyenne | **130** | 133 |
+| FC max | **141** | 151 |
+| Puissance norm. | **414 W** | 410 W |
+| Cadence | **147** | 143 |
+| TSS | **35** | 44 |
+| Découplage | **4.2 %** | 2.6 % |
+| Dérive cardiaque | **8.1 bpm** | 8.1 bpm |
+| Meilleur 1 km | 5:53 | 5:42 |
+| Allure | **6:02/km** | 6:18/km |
+| Negative split | **oui** (2.0 %) | 7/10 fois |
+| Météo | 17 °C · 83 % hum. | |
 
-Zones FC : **Z1** 19 % · **Z2** 67 % · **Z3** 14 %
+Zones FC : **Z1** 2 % · **Z2** 58 % · **Z3** 40 %
 
-**Lecture** — Découplage 0.1 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
+**Lecture** — Découplage 4.2 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
 
-Tours, signal fin et trace : `seances/2026-08-29_road_biking_24157820962.md`
+Tours, signal fin et trace : `seances/2026-08-31_running_24179721072.md`
 
 ---
 
@@ -51,7 +44,7 @@ Tours, signal fin et trace : `seances/2026-08-29_road_biking_24157820962.md`
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
 | Vélo 90 km / 1 200 m | **3 h 41** | 4 h 10 | -29 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
-| Course 21,1 km | **2 h 23** | 2 h 25 | -2 min | 6:47/km projeté |
+| Course 21,1 km | **2 h 23** | 2 h 25 | -2 min | 6:46/km projeté |
 | **TOTAL** | **6 h 54** | 7 h 25 | **-31 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
@@ -62,31 +55,31 @@ Tours, signal fin et trace : `seances/2026-08-29_road_biking_24157820962.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-08-29)
+**La nuit qui a précédé** (2026-08-31)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 9.2 h | 6.8 h | 8 h |
-| Profond | 115 min | 76 min | 16-33 % |
-| REM | 115 min (21 %) | 80 min | 21-31 % |
-| Score | 90 | 75.3 | |
-| VFC | 116 ms | 99 ms | base 81-129 |
+| Durée | 6.5 h | 6.8 h | 8 h |
+| Profond | 60 min | 75 min | 16-33 % |
+| REM | 81 min (21 %) | 80 min | 21-31 % |
+| Score | 80 | 75.4 | |
+| VFC | 118 ms | 100 ms | base 82-129 |
 | FC repos | - | - | |
-| Readiness | 66 | 58 | |
-| Récupération restante | 32 h | | |
+| Readiness | 69 | 58 | |
+| Récupération restante | 20 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 70 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
+Sur 71 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **5.8 %** | **8.7 %** | +2.8 pt |
+| Découplage moyen | **5.8 %** | **8.7 %** | +2.9 pt |
 | Sommeil | 7.7 h | 6.7 h | |
-| REM | 94.0 min | 68.5 min | |
-| VFC | 100.0 ms | 86.0 ms | |
+| REM | 93.0 min | 68.5 min | |
+| VFC | 100.5 ms | 86.0 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 2.8 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 2.9 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -103,9 +96,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **45.8** (+4.5 sur 7 j) · ATL 71.9 · TSB -26.1
+**Charge** : CTL **46.6** (+5.3 sur 7 j) · ATL 76.9 · TSB -30.3
 
-Trajectoire : 46 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 47 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -115,7 +108,7 @@ Trajectoire : 46 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 - running · 40 min · FC 150-168
 
-⚠️ **Ajustement** : récupération incomplète, TSB très négatif. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
+**Vigilance** : TSB très négatif. Fais la séance mais dans le bas des zones.
 
 ---
 
