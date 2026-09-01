@@ -1,6 +1,6 @@
-# Coach — J-5 avant Gérardmer XL
+# Coach — J-4 avant Gérardmer XL
 
-*lundi 31 août 2026* · course le samedi 5 septembre 2026
+*mardi 1 septembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -59,13 +59,13 @@ Tours, signal fin et trace : `seances/2026-08-31_running_24179721072.md`
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.5 h | 6.8 h | 8 h |
+| Durée | 6.5 h | 6.6 h | 8 h |
 | Profond | 60 min | 75 min | 16-33 % |
 | REM | 81 min (21 %) | 80 min | 21-31 % |
-| Score | 80 | 75.4 | |
-| VFC | 118 ms | 100 ms | base 82-129 |
+| Score | 80 | 73.8 | |
+| VFC | 118 ms | 99 ms | base 82-129 |
 | FC repos | - | - | |
-| Readiness | 75 | 59 | |
+| Readiness | 75 | 58 | |
 | Récupération restante | 11 h | | |
 
 **Ce que ton historique démontre**
@@ -96,19 +96,19 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **46.6** (+5.3 sur 7 j) · ATL 76.9 · TSB -30.3
+**Charge** : CTL **45.5** (+1.2 sur 7 j) · ATL 65.9 · TSB -20.4
 
-Trajectoire : 47 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 46 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-09-01** — 5 x 1 min seuil
+**2026-09-02** — 6 x 100 m allure course
 
-- running · 40 min · FC 150-168
+- lap_swimming · 40 min
 
-**Vigilance** : TSB très négatif. Fais la séance mais dans le bas des zones.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
