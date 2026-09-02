@@ -6,40 +6,30 @@
 
 ## 1. Ta séance
 
-### 2026-09-01 · road_biking · 82 min
+### 2026-09-02 · lap_swimming · 41 min
 
-**Prescrit** : 5 x 1 min seuil — 40 min, FC 150-168
+**Prescrit** : 6 x 100 m allure course — 40 min
 
 | | Réalisé | Prescrit | Écart |
 |---|---|---|---|
-| Durée | **82 min** | 40 min | +42 min |
-| FC moyenne | **110** | 150-168 | -49 |
+| Durée | **41 min** | 40 min | +1 min |
 
-⚠️ **Écart au plan.** Vérifie si c'était volontaire.
+✅ **Séance conforme au plan.**
 
 **Le détail**
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **37.1 km** | 63.3 km |
-| Dénivelé | **391 m** | 434 m |
-| FC moyenne | **110** | 122 |
-| FC max | **133** | 153 |
-| Puissance norm. | **222 W** | 88 W |
-| Cadence | **77** | 46 |
-| TSS | **168** | 149 |
-| Découplage | **-1.5 %** | 3.9 % |
-| Dérive cardiaque | **5.5 bpm** | 2.3 bpm |
-| Meilleur 20 min | **212 W** | 239 W |
-| Allure | **2:12/km** | 2:19/km |
-| Negative split | **oui** (6.7 %) | 2/3 fois |
-| Météo | 13 °C · 100 % hum. | |
+| Distance | **1.5 km** | 1.9 km |
+| FC moyenne | **119** | 126 |
+| FC max | **152** | 148 |
+| TSS | **24** | 50 |
+| Dérive cardiaque | **10.3 bpm** | 10.4 bpm |
+| Allure | **2:42/100 m** | 2:10/100 m |
 
-Zones FC : **Z1** 62 % · **Z2** 38 %
+Zones FC : **Z1** 32 % · **Z2** 42 % · **Z3** 25 %
 
-**Lecture** — Découplage -1.5 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
-
-Tours, signal fin et trace : `seances/2026-09-01_road_biking_24192253988.md`
+Tours, signal fin et trace : `seances/2026-09-02_lap_swimming_24213688656.md`
 
 ---
 
@@ -47,12 +37,12 @@ Tours, signal fin et trace : `seances/2026-09-01_road_biking_24192253988.md`
 
 | Segment | Projeté | Cible | Écart | Base |
 |---|---|---|---|---|
-| Natation 1,9 km | **0 h 41** | 0 h 41 | +0 min | 2:09/100 m |
+| Natation 1,9 km | **0 h 42** | 0 h 41 | +1 min | 2:12/100 m |
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
 | Vélo 90 km / 1 200 m | **3 h 38** | 4 h 10 | -32 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
 | Course 21,1 km | **2 h 23** | 2 h 25 | -2 min | 6:46/km projeté |
-| **TOTAL** | **6 h 51** | 7 h 25 | **-34 min** | |
+| **TOTAL** | **6 h 52** | 7 h 25 | **-33 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
@@ -62,18 +52,18 @@ Tours, signal fin et trace : `seances/2026-09-01_road_biking_24192253988.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-09-01)
+**La nuit qui a précédé** (2026-09-02)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 2.0 h | 6.6 h | 8 h |
-| Profond | 70 min | 74 min | 16-33 % |
-| REM | - | 79 min | 21-31 % |
-| Score | 31 | 74.0 | |
-| VFC | 92 ms | 99 ms | base 82-130 |
+| Durée | 7.9 h | 6.6 h | 8 h |
+| Profond | 83 min | 74 min | 16-33 % |
+| REM | 103 min (22 %) | 79 min | 21-31 % |
+| Score | 94 | 74.0 | |
+| VFC | 105 ms | 99 ms | base 82-129 |
 | FC repos | - | - | |
-| Readiness | 33 | 59 | |
-| Récupération restante | 19 h | | |
+| Readiness | 70 | 58 | |
+| Récupération restante | 12 h | | |
 
 **Ce que ton historique démontre**
 
@@ -101,11 +91,11 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Course de 1 h 45 ou plus | ⬜ | 1.4 h | 1.4 h |
 | Brique avec 45 min de course enchaînée | ✅ | 46 min | 46 min |
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
-| Trois semaines à 3 natations ou plus | ⬜ | 1 sem. sur 6 | 1 sem. au total |
+| Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **48.4** (+5.2 sur 7 j) · ATL 77.1 · TSB -28.8
+**Charge** : CTL **48.9** (+5.7 sur 7 j) · ATL 80.6 · TSB -31.7
 
-Trajectoire : 48 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 49 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -115,7 +105,7 @@ Trajectoire : 48 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 - cycling · 45 min · FC 138-148
 
-⚠️ **Ajustement** : readiness bas, TSB très négatif. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
+**Vigilance** : TSB très négatif. Fais la séance mais dans le bas des zones.
 
 ---
 
