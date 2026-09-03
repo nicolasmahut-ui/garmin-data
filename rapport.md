@@ -1,6 +1,6 @@
-# Coach — J-3 avant Gérardmer XL
+# Coach — J-2 avant Gérardmer XL
 
-*mercredi 2 septembre 2026* · course le samedi 5 septembre 2026
+*jeudi 3 septembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -59,22 +59,22 @@ Tours, signal fin et trace : `seances/2026-09-02_lap_swimming_24213688656.md`
 | Durée | 7.9 h | 6.6 h | 8 h |
 | Profond | 83 min | 74 min | 16-33 % |
 | REM | 103 min (22 %) | 79 min | 21-31 % |
-| Score | 94 | 74.0 | |
-| VFC | 105 ms | 99 ms | base 82-129 |
+| Score | 94 | 73.7 | |
+| VFC | 105 ms | 98 ms | base 82-129 |
 | FC repos | - | - | |
-| Readiness | 70 | 58 | |
+| Readiness | 70 | 59 | |
 | Récupération restante | 12 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 72 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
+Sur 71 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
 | Découplage moyen | **5.8 %** | **8.4 %** | +2.6 pt |
 | Sommeil | 7.7 h | 6.6 h | |
-| REM | 93.0 min | 68.5 min | |
-| VFC | 100.5 ms | 86.2 ms | |
+| REM | 93.0 min | 69.7 min | |
+| VFC | 100.5 ms | 86.7 ms | |
 
 **Conclusion : une mauvaise nuit te coûte 2.6 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
@@ -93,19 +93,19 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **48.9** (+5.7 sur 7 j) · ATL 80.6 · TSB -31.7
+**Charge** : CTL **47.8** (+5.2 sur 7 j) · ATL 69.1 · TSB -21.3
 
-Trajectoire : 49 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 48 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-09-03** — 3 x 3 min allure course
+**2026-09-04** — Déverrouillage
 
-- cycling · 45 min · FC 138-148
+- running · 20 min · FC 120-135
 
-**Vigilance** : TSB très négatif. Fais la séance mais dans le bas des zones.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
