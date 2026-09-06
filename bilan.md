@@ -1,12 +1,12 @@
-# Bilan Garmin — 05/09/2026
+# Bilan Garmin — 06/09/2026
 
 213 séances du 2025-07-24 au 2026-09-05
 Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 ## Charge
 
-- **CTL 59.6** (forme de fond, +11.5 sur 7 j)
-- ATL 135.0 (fatigue) · TSB -75.5 (fraîcheur)
+- **CTL 58.1** (forme de fond, +11.2 sur 7 j)
+- ATL 115.7 (fatigue) · TSB -57.6 (fraîcheur)
 
 | Semaine | TSS | CTL | TSB |
 |---|---|---|---|
@@ -35,7 +35,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S33 | 306 | 31.4 | -9.5 |
 | 2026-S34 | 669 | 42.0 | -52.7 |
 | 2026-S35 | 511 | 46.9 | -37.0 |
-| 2026-S36 | 818 | 59.6 | -75.5 |
+| 2026-S36 | 818 | 58.1 | -57.6 |
 
 ## Volumes hebdo
 
@@ -110,7 +110,6 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 | Date | FC rep | VFC | Sommeil | Score | Readiness | Poids | VO2max |
 |---|---|---|---|---|---|---|---|
-| 2026-08-07 | - | 119 | 7.8 h | 86 | 77 | - | - |
 | 2026-08-08 | - | 95 | 5.6 h | 68 | 64 | - | - |
 | 2026-08-09 | - | 81 | 6.2 h | 67 | 63 | - | - |
 | 2026-08-10 | - | 93 | 4.2 h | 45 | 43 | - | - |
@@ -140,19 +139,19 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-09-03 | - | 87 | 5.7 h | 64 | 67 | - | - |
 | 2026-09-04 | - | 99 | 7.5 h | 81 | 86 | - | - |
 | 2026-09-05 | - | 94 | 6.5 h | 74 | 2 | - | 50.2 |
+| 2026-09-06 | - | - | - | - | - | - | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 97.1 vs 97.3 (-0.1)
-- Sommeil : 6.0 vs 6.5 (-0.6)
-- Readiness : 58.3 vs 56.4 (+1.9)
+- VFC : 99.2 vs 97.9 (+1.3)
+- Sommeil : 6.0 vs 6.6 (-0.6)
+- Readiness : 55.5 vs 56.1 (-0.6)
 - Poids : 90.2 kg (+2.2 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
 
 | Date | Readiness | Temps récup. | Facteur VFC | Facteur sommeil | ACWR |
 |---|---|---|---|---|---|
-| 2026-08-23 | 50 | 15 h | 100 % | 70 | - |
 | 2026-08-24 | 70 | 7 h | 99 % | 88 | - |
 | 2026-08-25 | 75 | 10 h | 96 % | 88 | - |
 | 2026-08-26 | 75 | 1 h | 99 % | 78 | - |
@@ -171,7 +170,6 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 | Date | Total | Profond | Léger | REM | Éveillé | Score | VFC nuit |
 |---|---|---|---|---|---|---|---|
-| 2026-08-07 | 7.8 h | 64 min | 307 min | 99 min | 28 min | 86 | 119 |
 | 2026-08-08 | 5.6 h | 57 min | 221 min | 59 min | 12 min | 68 | 95 |
 | 2026-08-09 | 6.2 h | 69 min | 226 min | 78 min | 25 min | 67 | 81 |
 | 2026-08-10 | 4.2 h | 107 min | 144 min | - | 6 min | 45 | 93 |
@@ -209,7 +207,7 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_score : 30
 - hill_force : 6
 - hill_endurance : 14
-- endurance_score : 5841
+- endurance_score : 5937
 - predi_5k_s : 1419
 - predi_10k_s : 3025
 - predi_semi_s : 6828
@@ -284,4 +282,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 391 colonnes distinctes.
+`wellness.csv` contient 392 colonnes distinctes.
