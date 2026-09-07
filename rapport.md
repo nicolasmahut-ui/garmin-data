@@ -1,6 +1,6 @@
-# Coach — J--1 avant Gérardmer XL
+# Coach — J--2 avant Gérardmer XL
 
-*dimanche 6 septembre 2026* · course le samedi 5 septembre 2026
+*lundi 7 septembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -59,25 +59,25 @@ Tours, signal fin et trace : `seances/2026-09-05_road_biking_24248941588.md`
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.5 h | 6.5 h | 8 h |
-| Profond | 93 min | 74 min | 16-33 % |
+| Durée | 6.5 h | 6.6 h | 8 h |
+| Profond | 93 min | 72 min | 16-33 % |
 | REM | 55 min (14 %) | 74 min | 21-31 % |
-| Score | 74 | 72.2 | |
+| Score | 74 | 73.2 | |
 | VFC | 94 ms | 96 ms | base 82-129 |
 | FC repos | - | - | |
-| Readiness | 2 | 54 | |
+| Readiness | 2 | 55 | |
 | Récupération restante | 96 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 72 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 71 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **6.5 %** | **7.8 %** | +1.3 pt |
+| Découplage moyen | **6.5 %** | **7.7 %** | +1.2 pt |
 | Sommeil | 7.7 h | 6.5 h | |
-| REM | 92.4 min | 67.2 min | |
-| VFC | 100.5 ms | 86.5 ms | |
+| REM | 92.4 min | 71.5 min | |
+| VFC | 100.5 ms | 86.6 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -96,15 +96,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **58.1** (+11.2 sur 7 j) · ATL 115.7 · TSB -57.6
+**Charge** : CTL **56.8** (+10.2 sur 7 j) · ATL 99.2 · TSB -42.4
 
-Trajectoire : 58 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 57 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-09-07** — repos ou séance libre très facile.
+**2026-09-08** — repos ou séance libre très facile.
 
 ⚠️ **Ajustement** : readiness bas, récupération incomplète, TSB très négatif. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
