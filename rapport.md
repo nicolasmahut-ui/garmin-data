@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-09-05 · road_biking · 232 min
+### 2026-09-08 · tennis_v2 · 69 min
 
 *Séance hors plan.*
 
@@ -14,25 +14,21 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **94.3 km** | 65.9 km |
-| Dénivelé | **1280 m** | 468 m |
-| FC moyenne | **139** | 123 |
-| FC max | **163** | 154 |
-| Puissance norm. | **247 W** | 103 W |
-| Cadence | **79** | 51 |
-| TSS | **590** | 165 |
-| Découplage | **10.5 %** | 2.5 % |
-| Dérive cardiaque | **-6.3 bpm** | 3.1 bpm |
-| Meilleur 20 min | **263 W** | 232 W |
-| Allure | **2:27/km** | 2:11/km |
-| Negative split | **non** (-14.5 %) | 3/4 fois |
-| Météo | 20 °C · 83 % hum. | |
+| Distance | **0.5 km** | 0.8 km |
+| FC moyenne | **106** | 122 |
+| FC max | **165** | 160 |
+| Cadence | **20** | 21 |
+| TSS | **26** | 44 |
+| Découplage | **19.2 %** | 10.8 % |
+| Dérive cardiaque | **15.7 bpm** | -3.0 bpm |
+| Allure | **141:49/km** | 117:00/km |
+| Negative split | **non** (-6.5 %) | 4/10 fois |
 
-Zones FC : **Z1** 3 % · **Z2** 25 % · **Z3** 67 % · **Z4** 5 %
+Zones FC : **Z1** 58 % · **Z2** 36 % · **Z3** 6 % · **Z4** 0 %
 
-**Lecture** — Découplage 10.5 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Pas de negative split — à corriger sur les sorties longues.
+**Lecture** — Découplage 19.2 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Pas de negative split — à corriger sur les sorties longues.
 
-Tours, signal fin et trace : `seances/2026-09-05_road_biking_24248941588.md`
+Tours, signal fin et trace : `seances/2026-09-08_tennis_v2_24288921133.md`
 
 ---
 
@@ -55,29 +51,29 @@ Tours, signal fin et trace : `seances/2026-09-05_road_biking_24248941588.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-09-05)
+**La nuit qui a précédé** (2026-09-08)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.5 h | 6.7 h | 8 h |
-| Profond | 93 min | 72 min | 16-33 % |
-| REM | 55 min (14 %) | 75 min | 21-31 % |
-| Score | 74 | 73.5 | |
-| VFC | 94 ms | 95 ms | base 82-129 |
+| Durée | 8.8 h | 6.7 h | 8 h |
+| Profond | 73 min | 72 min | 16-33 % |
+| REM | 97 min (18 %) | 75 min | 21-31 % |
+| Score | 81 | 73.5 | |
+| VFC | 101 ms | 95 ms | base 83-128 |
 | FC repos | - | - | |
-| Readiness | 2 | 51 | |
-| Récupération restante | 96 h | | |
+| Readiness | 16 | 51 | |
+| Récupération restante | 39 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 71 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 72 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **6.5 %** | **7.7 %** | +1.2 pt |
-| Sommeil | 7.7 h | 6.5 h | |
-| REM | 92.4 min | 71.5 min | |
-| VFC | 100.5 ms | 86.6 ms | |
+| Découplage moyen | **6.5 %** | **8.0 %** | +1.5 pt |
+| Sommeil | 7.7 h | 6.6 h | |
+| REM | 92.4 min | 73.6 min | |
+| VFC | 100.5 ms | 87.0 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -96,9 +92,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **55.4** (+5.9 sur 7 j) · ATL 85.0 · TSB -29.6
+**Charge** : CTL **56.0** (+6.5 sur 7 j) · ATL 88.8 · TSB -32.7
 
-Trajectoire : 55 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
