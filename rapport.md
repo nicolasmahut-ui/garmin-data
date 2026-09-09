@@ -61,7 +61,7 @@ Tours, signal fin et trace : `seances/2026-09-08_tennis_v2_24288921133.md`
 | Score | 81 | 73.3 | |
 | VFC | 101 ms | 95 ms | base 83-128 |
 | FC repos | - | - | |
-| Readiness | 16 | 50 | |
+| Readiness | 16 | 51 | |
 | Récupération restante | 39 h | | |
 
 **Ce que ton historique démontre**
