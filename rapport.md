@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-09-15 · tennis_v2 · 76 min
+### 2026-09-17 · running · 25 min
 
 *Séance hors plan.*
 
@@ -14,21 +14,25 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **0.6 km** | 0.8 km |
-| FC moyenne | **114** | 122 |
-| FC max | **201** | 164 |
-| Cadence | **21** | 21 |
-| TSS | **36** | 44 |
-| Découplage | **10.0 %** | 3.8 % |
-| Dérive cardiaque | **15.5 bpm** | -0.3 bpm |
-| Allure | **138:08/km** | 114:04/km |
-| Negative split | **oui** (3.1 %) | 5/10 fois |
+| Distance | **5.0 km** | 9.1 km |
+| Dénivelé | **37 m** | 100 m |
+| FC moyenne | **155** | 132 |
+| FC max | **168** | 149 |
+| Puissance norm. | **488 W** | 406 W |
+| Cadence | **149** | 143 |
+| TSS | **33** | 43 |
+| Découplage | **5.4 %** | 4.6 % |
+| Dérive cardiaque | **15.4 bpm** | 9.8 bpm |
+| Meilleur 1 km | 4:47 | 5:42 |
+| Allure | **4:59/km** | 6:16/km |
+| Negative split | **oui** (4.5 %) | 7/10 fois |
+| Météo | 13 °C · 88 % hum. | |
 
-Zones FC : **Z1** 49 % · **Z2** 39 % · **Z3** 6 % · **Z4** 2 % · **Z5** 4 %
+Zones FC : **Z1** 1 % · **Z2** 1 % · **Z3** 30 % · **Z4** 68 %
 
-**Lecture** — Découplage 10.0 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Negative split réussi : c'est ce qui a manqué à Fréjus.
+**Lecture** — Découplage 5.4 % — acceptable, léger effritement sur la seconde moitié. Negative split réussi : c'est ce qui a manqué à Fréjus.
 
-Tours, signal fin et trace : `seances/2026-09-15_tennis_v2_24375657357.md`
+Tours, signal fin et trace : `seances/2026-09-17_running_24391726993.md`
 
 ---
 
@@ -51,31 +55,31 @@ Tours, signal fin et trace : `seances/2026-09-15_tennis_v2_24375657357.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-09-15)
+**La nuit qui a précédé** (2026-09-17)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.8 h | 6.8 h | 8 h |
-| Profond | 69 min | 75 min | 16-33 % |
-| REM | 82 min (20 %) | 76 min | 21-31 % |
-| Score | 88 | 73.9 | |
-| VFC | 107 ms | 98 ms | base 82-129 |
+| Durée | 7.2 h | 6.8 h | 8 h |
+| Profond | 106 min | 76 min | 16-33 % |
+| REM | 103 min (24 %) | 77 min | 21-31 % |
+| Score | 98 | 74.7 | |
+| VFC | 126 ms | 99 ms | base 82-131 |
 | FC repos | - | - | |
-| Readiness | 18 | 48 | |
-| Récupération restante | 58 h | | |
+| Readiness | 75 | 49 | |
+| Récupération restante | 26 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 74 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
+Sur 75 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **4.3 %** | **8.6 %** | +4.4 pt |
+| Découplage moyen | **4.3 %** | **8.6 %** | +4.3 pt |
 | Sommeil | 7.6 h | 6.7 h | |
-| REM | 87.8 min | 72.8 min | |
-| VFC | 100.2 ms | 88.8 ms | |
+| REM | 89.0 min | 72.8 min | |
+| VFC | 100.8 ms | 88.8 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 4.4 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 4.3 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -92,9 +96,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **58.3** (+0.8 sur 7 j) · ATL 63.6 · TSB -5.3
+**Charge** : CTL **59.1** (+1.6 sur 7 j) · ATL 68.2 · TSB -9.2
 
-Trajectoire : 58 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 59 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -102,7 +106,7 @@ Trajectoire : 58 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-09-18** — repos ou séance libre très facile.
 
-⚠️ **Ajustement** : readiness bas, récupération incomplète. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
+**Vigilance** : récupération incomplète. Fais la séance mais dans le bas des zones.
 
 ---
 
