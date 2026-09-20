@@ -65,20 +65,21 @@ Tours, signal fin et trace : `seances/2026-09-20_road_biking_24429415168.md`
 | Score | 88 | 75.9 | |
 | VFC | 117 ms | 99 ms | base 82-131 |
 | FC repos | - | - | |
-| Readiness | 80 | 52 | |
+| Readiness | 52 | 51 | |
+| Récupération restante | 36 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 76 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 76 séances appariées à la nuit précédente, en séparant au readiness médian de 56 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **5.4 %** | **7.7 %** | +2.3 pt |
+| Découplage moyen | **4.7 %** | **8.5 %** | +3.8 pt |
 | Sommeil | 7.6 h | 6.7 h | |
-| REM | 90.2 min | 72.9 min | |
-| VFC | 102.7 ms | 88.8 ms | |
+| REM | 88.9 min | 74.0 min | |
+| VFC | 101.7 ms | 89.6 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 2.3 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 3.8 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -105,7 +106,7 @@ Trajectoire : 65 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-09-21** — repos ou séance libre très facile.
 
-**Vigilance** : TSB très négatif. Fais la séance mais dans le bas des zones.
+⚠️ **Ajustement** : récupération incomplète, TSB très négatif. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
 ---
 
