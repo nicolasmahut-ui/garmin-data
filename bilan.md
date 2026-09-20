@@ -1,12 +1,12 @@
 # Bilan Garmin — 20/09/2026
 
-223 séances du 2025-07-24 au 2026-09-18
+224 séances du 2025-07-24 au 2026-09-20
 Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 ## Charge
 
-- **CTL 55.6** (forme de fond, -5.9 sur 7 j)
-- ATL 46.1 (fatigue) · TSB +9.5 (fraîcheur)
+- **CTL 65.0** (forme de fond, +3.5 sur 7 j)
+- ATL 102.3 (fatigue) · TSB -37.4 (fraîcheur)
 
 | Semaine | TSS | CTL | TSB |
 |---|---|---|---|
@@ -35,7 +35,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S35 | 511 | 46.9 | -37.0 |
 | 2026-S36 | 818 | 58.1 | -57.6 |
 | 2026-S37 | 544 | 61.5 | -36.1 |
-| 2026-S38 | 172 | 55.6 | +9.5 |
+| 2026-S38 | 565 | 65.0 | -37.4 |
 
 ## Volumes hebdo
 
@@ -75,6 +75,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S37 | road_biking | 2 | 3.5 h | 101.6 km |
 | 2026-S37 | tennis_v2 | 2 | 2.3 h | 0.8 km |
 | 2026-S38 | lap_swimming | 1 | 0.6 h | 1.6 km |
+| 2026-S38 | road_biking | 1 | 3.0 h | 79.3 km |
 | 2026-S38 | running | 2 | 1.3 h | 14.0 km |
 | 2026-S38 | tennis_v2 | 2 | 2.3 h | 1.0 km |
 
@@ -96,16 +97,16 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-06 | 17 | 22.6 h | 8.0 h | 3.9 h | 0.7 h |
 | 2026-07 | 21 | 21.2 h | 5.3 h | 8.5 h | 3.1 h |
 | 2026-08 | 22 | 27.6 h | 14.3 h | 6.7 h | 4.9 h |
-| 2026-09 | 14 | 23.6 h | 8.8 h | 1.3 h | 2.0 h |
+| 2026-09 | 15 | 26.6 h | 11.8 h | 1.3 h | 2.0 h |
 
 ## Répartition FC (40 dernières séances)
 
 | Zone | Plage | Temps | Part |
 |---|---|---|---|
-| Z1 | 113-128 | 11.4 h | 26 % |
-| Z2 | 128-142 | 21.3 h | 48 % |
-| Z3 | 142-156 | 11.2 h | 25 % |
-| Z4 | 156-170 | 0.8 h | 2 % |
+| Z1 | 113-128 | 12.5 h | 26 % |
+| Z2 | 128-142 | 22.3 h | 47 % |
+| Z3 | 142-156 | 11.7 h | 25 % |
+| Z4 | 156-170 | 0.9 h | 2 % |
 | Z5 | 170-184 | 0.0 h | 0 % |
 
 ## Wellness (30 derniers jours)
@@ -211,17 +212,16 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_score : 27
 - hill_force : 4
 - hill_endurance : 10
-- endurance_score : 6713
+- endurance_score : 6761
 - predi_5k_s : 1376
 - predi_10k_s : 2944
-- predi_semi_s : 6647
-- predi_marathon_s : 14815
+- predi_semi_s : 6646
+- predi_marathon_s : 14813
 
 ## 15 dernières séances
 
 | Date | Sport | Durée | Dist | D+ | Allure | FC | Puiss | TSS |
 |---|---|---|---|---|---|---|---|---|
-| 2026-08-31 | running | 49 min | 8.0 km | 43 m | 6:02 | 130.0 | 414 W | 35 |
 | 2026-09-01 | road_biking | 82 min | 37.1 km | 391 m | 2:12 | 110.0 | 222 W | 168 |
 | 2026-09-02 | lap_swimming | 41 min | 1.5 km | - | 2:42 | 119.0 | - | 24 |
 | 2026-09-05 | multi_sport | 416 min | 117.8 km | 2298 m | 3:32 | - | - | - |
@@ -236,6 +236,7 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 | 2026-09-15 | tennis_v2 | 76 min | 0.6 km | - | 138:08 | 114.0 | - | 36 |
 | 2026-09-17 | running | 25 min | 5.0 km | 37 m | 4:59 | 155.0 | 488 W | 33 |
 | 2026-09-18 | tennis_v2 | 60 min | 0.4 km | - | 134:16 | 116.0 | - | 30 |
+| 2026-09-20 | road_biking | 182 min | 79.3 km | 640 m | 2:17 | 117.0 | 228 W | 394 |
 
 ## Fichiers de séance disponibles
 
@@ -243,7 +244,6 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 
 | Date | Sport | Découpl. | Neg. split | Fichier |
 |---|---|---|---|---|
-| 2026-08-10 | lap_swimming | - | - | `seances/2026-08-10_lap_swimming_23921484321.md` |
 | 2026-08-11 | running | 5.3 % | oui | `seances/2026-08-11_running_23931645923.md` |
 | 2026-08-13 | lap_swimming | - | - | `seances/2026-08-13_lap_swimming_23964673828.md` |
 | 2026-08-15 | running | 7.7 % | non | `seances/2026-08-15_running_23988282820.md` |
@@ -273,6 +273,7 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 | 2026-09-15 | tennis_v2 | 10.0 % | oui | `seances/2026-09-15_tennis_v2_24375657357.md` |
 | 2026-09-17 | running | 5.4 % | oui | `seances/2026-09-17_running_24391726993.md` |
 | 2026-09-18 | tennis_v2 | 16.4 % | non | `seances/2026-09-18_tennis_v2_24411325045.md` |
+| 2026-09-20 | road_biking | 2.4 % | oui | `seances/2026-09-20_road_biking_24429415168.md` |
 
 ---
 
