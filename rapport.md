@@ -57,8 +57,8 @@ Tours, signal fin et trace : `seances/2026-09-18_tennis_v2_24411325045.md`
 |---|---|---|---|
 | Durée | 7.5 h | 6.8 h | 8 h |
 | Profond | 93 min | 79 min | 16-33 % |
-| REM | 106 min (24 %) | 75 min | 21-31 % |
-| Score | 98 | 75.4 | |
+| REM | 106 min (24 %) | 76 min | 21-31 % |
+| Score | 98 | 75.9 | |
 | VFC | 112 ms | 99 ms | base 83-132 |
 | FC repos | - | - | |
 | Readiness | 75 | 51 | |
