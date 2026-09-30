@@ -1,12 +1,12 @@
 # Bilan Garmin — 30/09/2026
 
-232 séances du 2025-07-24 au 2026-09-29
+233 séances du 2025-07-24 au 2026-09-30
 Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 ## Charge
 
-- **CTL 65.5** (forme de fond, +2.9 sur 7 j)
-- ATL 75.2 (fatigue) · TSB -9.7 (fraîcheur)
+- **CTL 66.3** (forme de fond, +3.7 sur 7 j)
+- ATL 79.9 (fatigue) · TSB -13.7 (fraîcheur)
 
 | Semaine | TSS | CTL | TSB |
 |---|---|---|---|
@@ -35,7 +35,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S37 | 544 | 61.5 | -36.1 |
 | 2026-S38 | 565 | 65.0 | -37.4 |
 | 2026-S39 | 627 | 69.4 | -42.5 |
-| 2026-S40 | 39 | 65.5 | -9.7 |
+| 2026-S40 | 72 | 66.3 | -13.7 |
 
 ## Volumes hebdo
 
@@ -78,6 +78,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S39 | paddelball | 1 | 1.4 h | 0.6 km |
 | 2026-S39 | road_biking | 1 | 3.5 h | 96.5 km |
 | 2026-S39 | tennis_v2 | 3 | 4.0 h | 2.5 km |
+| 2026-S40 | paddelball | 1 | 1.5 h | 1.0 km |
 | 2026-S40 | tennis_v2 | 1 | 1.2 h | 0.5 km |
 
 ## Récapitulatif mensuel
@@ -98,14 +99,14 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-06 | 17 | 22.6 h | 8.0 h | 3.9 h | 0.7 h |
 | 2026-07 | 21 | 21.2 h | 5.3 h | 8.5 h | 3.1 h |
 | 2026-08 | 22 | 27.6 h | 14.3 h | 6.7 h | 4.9 h |
-| 2026-09 | 23 | 38.0 h | 15.2 h | 1.3 h | 3.3 h |
+| 2026-09 | 24 | 39.5 h | 15.2 h | 1.3 h | 3.3 h |
 
 ## Répartition FC (40 dernières séances)
 
 | Zone | Plage | Temps | Part |
 |---|---|---|---|
-| Z1 | 113-128 | 15.8 h | 31 % |
-| Z2 | 128-142 | 22.2 h | 44 % |
+| Z1 | 113-128 | 16.5 h | 32 % |
+| Z2 | 128-142 | 21.9 h | 43 % |
 | Z3 | 142-156 | 11.3 h | 22 % |
 | Z4 | 156-170 | 0.9 h | 2 % |
 | Z5 | 170-184 | 0.1 h | 0 % |
@@ -143,13 +144,13 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-09-27 | - | 107 | 6.9 h | 74 | 69 | - | - |
 | 2026-09-28 | - | 89 | 7.0 h | 79 | 50 | 90.7 kg | - |
 | 2026-09-29 | - | 124 | 8.1 h | 87 | 64 | - | - |
-| 2026-09-30 | - | 130 | 8.1 h | 95 | 88 | - | - |
+| 2026-09-30 | - | 130 | 8.1 h | 95 | 85 | - | - |
 
 ### Tendances 7 j vs 28 j
 
 - VFC : 103.9 vs 98.9 (+4.9)
 - Sommeil : 7.3 vs 7.0 (+0.3)
-- Readiness : 68.4 vs 51.6 (+16.9)
+- Readiness : 68.0 vs 51.5 (+16.5)
 - Poids : 90.7 kg (+2.7 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
@@ -169,7 +170,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-09-27 | 69 | 0 h | 100 % | 74 | - |
 | 2026-09-28 | 50 | 13 h | 98 % | 79 | - |
 | 2026-09-29 | 64 | 19 h | 99 % | 87 | - |
-| 2026-09-30 | 88 | 3 h | 100 % | 95 | - |
+| 2026-09-30 | 85 | 7 h | 100 % | 95 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -213,7 +214,7 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_score : 28
 - hill_force : 6
 - hill_endurance : 10
-- endurance_score : 7233
+- endurance_score : 7234
 - predi_5k_s : 1379
 - predi_10k_s : 2956
 - predi_semi_s : 6695
@@ -223,7 +224,6 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 
 | Date | Sport | Durée | Dist | D+ | Allure | FC | Puiss | TSS |
 |---|---|---|---|---|---|---|---|---|
-| 2026-09-12 | road_biking | 124 min | 60.2 km | 413 m | 2:03 | 122.0 | 229 W | 270 |
 | 2026-09-14 | running | 54 min | 9.0 km | 52 m | 6:01 | 126.0 | 348 W | 35 |
 | 2026-09-15 | lap_swimming | 37 min | 1.6 km | - | 2:15 | 120.0 | - | 37 |
 | 2026-09-15 | tennis_v2 | 76 min | 0.6 km | - | 138:08 | 114.0 | - | 36 |
@@ -238,6 +238,7 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 | 2026-09-26 | tennis_v2 | 99 min | 0.9 km | - | 106:25 | 104.0 | - | 35 |
 | 2026-09-27 | road_biking | 207 min | 96.5 km | 536 m | 2:08 | 114.0 | 213 W | 392 |
 | 2026-09-29 | tennis_v2 | 72 min | 0.5 km | - | 153:56 | 119.0 | - | 39 |
+| 2026-09-30 | paddelball | 90 min | 1.0 km | - | 94:16 | 105.0 | - | 33 |
 
 ## Fichiers de séance disponibles
 
@@ -245,7 +246,6 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 
 | Date | Sport | Découpl. | Neg. split | Fichier |
 |---|---|---|---|---|
-| 2026-08-23 | road_biking | 14.6 % | non | `seances/2026-08-23_road_biking_24083373675.md` |
 | 2026-08-23 | running | 3.8 % | oui | `seances/2026-08-23_running_24082838681.md` |
 | 2026-08-24 | lap_swimming | - | - | `seances/2026-08-24_lap_swimming_24099709862.md` |
 | 2026-08-25 | road_biking | -3.0 % | oui | `seances/2026-08-25_road_biking_24106756798.md` |
@@ -275,6 +275,7 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 | 2026-09-26 | tennis_v2 | 29.6 % | non | `seances/2026-09-26_tennis_v2_24501805920.md` |
 | 2026-09-27 | road_biking | 3.5 % | oui | `seances/2026-09-27_road_biking_24515039421.md` |
 | 2026-09-29 | tennis_v2 | 27.1 % | non | `seances/2026-09-29_tennis_v2_24546468846.md` |
+| 2026-09-30 | paddelball | 3.8 % | oui | `seances/2026-09-30_paddelball_24559075054.md` |
 
 ---
 
