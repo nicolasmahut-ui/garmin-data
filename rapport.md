@@ -1,6 +1,6 @@
-# Coach — J--24 avant Gérardmer XL
+# Coach — J--25 avant Gérardmer XL
 
-*mardi 29 septembre 2026* · course le samedi 5 septembre 2026
+*mercredi 30 septembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -57,23 +57,23 @@ Tours, signal fin et trace : `seances/2026-09-29_tennis_v2_24546468846.md`
 |---|---|---|---|
 | Durée | 8.1 h | 7.0 h | 8 h |
 | Profond | 88 min | 77 min | 16-33 % |
-| REM | 99 min (20 %) | 75 min | 21-31 % |
-| Score | 87 | 77.9 | |
+| REM | 99 min (20 %) | 74 min | 21-31 % |
+| Score | 87 | 77.3 | |
 | VFC | 124 ms | 98 ms | base 84-133 |
 | FC repos | - | - | |
-| Readiness | 64 | 51 | |
+| Readiness | 64 | 50 | |
 | Récupération restante | 19 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 79 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 78 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **7.0 %** | **6.0 %** | -1.0 pt |
-| Sommeil | 7.6 h | 6.7 h | |
+| Découplage moyen | **5.7 %** | **7.2 %** | +1.5 pt |
+| Sommeil | 7.6 h | 6.8 h | |
 | REM | 89.1 min | 74.1 min | |
-| VFC | 103.6 ms | 90.5 ms | |
+| VFC | 103.9 ms | 91.8 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -92,15 +92,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **67.1** (+3.0 sur 7 j) · ATL 87.8 · TSB -20.7
+**Charge** : CTL **65.5** (+2.9 sur 7 j) · ATL 75.2 · TSB -9.7
 
-Trajectoire : 67 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 66 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-09-30** — repos ou séance libre très facile.
+**2026-10-01** — repos ou séance libre très facile.
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
