@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-09-30 · paddelball · 90 min
+### 2026-10-01 · virtual_ride · 50 min
 
 *Séance hors plan.*
 
@@ -14,22 +14,17 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **1.0 km** | 0.7 km |
-| FC moyenne | **105** | 110 |
-| FC max | **190** | 144 |
-| Cadence | **26** | 22 |
-| TSS | **33** | 37 |
-| Découplage | **3.8 %** | 36.9 % |
-| Dérive cardiaque | **13.7 bpm** | 8.2 bpm |
-| Meilleur 1 km | 93:06 | - |
-| Allure | **94:16/km** | 132:00/km |
-| Negative split | **oui** (9.7 %) | 0/2 fois |
+| Distance | **14.9 km** | 25.1 km |
+| Dénivelé | **446 m** | 425 m |
+| Puissance norm. | **186 W** | 178 W |
+| Cadence | **57** | 67 |
+| Meilleur 1 km | 0:48 | 1:27 |
+| Allure | **3:23/km** | 2:49/km |
+| Negative split | **non** (-71.5 %) | 6/10 fois |
 
-Zones FC : **Z1** 84 % · **Z2** 15 % · **Z3** 0 % · **Z4** 0 % · **Z5** 0 %
+**Lecture** — Pas de negative split — à corriger sur les sorties longues.
 
-**Lecture** — Découplage 3.8 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
-
-Tours, signal fin et trace : `seances/2026-09-30_paddelball_24559075054.md`
+Tours, signal fin et trace : `seances/2026-10-01_virtual_ride_24562675475.md`
 
 ---
 
@@ -52,18 +47,17 @@ Tours, signal fin et trace : `seances/2026-09-30_paddelball_24559075054.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-09-30)
+**La nuit qui a précédé** (2026-10-01)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 8.1 h | 7.1 h | 8 h |
-| Profond | 104 min | 79 min | 16-33 % |
-| REM | 112 min (23 %) | 77 min | 21-31 % |
-| Score | 95 | 78.5 | |
-| VFC | 130 ms | 99 ms | base 83-133 |
+| Durée | 6.8 h | 7.1 h | 8 h |
+| Profond | 139 min | 81 min | 16-33 % |
+| REM | 86 min (21 %) | 78 min | 21-31 % |
+| Score | 92 | 79.0 | |
+| VFC | 117 ms | 100 ms | base 83-133 |
 | FC repos | - | - | |
-| Readiness | 85 | 51 | |
-| Récupération restante | 7 h | | |
+| Readiness | 100 | 53 | |
 
 **Ce que ton historique démontre**
 
