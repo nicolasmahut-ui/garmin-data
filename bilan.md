@@ -217,10 +217,10 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_force : 6
 - hill_endurance : 10
 - endurance_score : 7279
-- predi_5k_s : 1380
-- predi_10k_s : 2960
-- predi_semi_s : 6701
-- predi_marathon_s : 14993
+- predi_5k_s : 1388
+- predi_10k_s : 2981
+- predi_semi_s : 6734
+- predi_marathon_s : 15062
 
 ## 15 dernières séances
 
