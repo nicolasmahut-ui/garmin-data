@@ -1,6 +1,6 @@
-# Coach — J--26 avant Gérardmer XL
+# Coach — J--27 avant Gérardmer XL
 
-*jeudi 1 octobre 2026* · course le samedi 5 septembre 2026
+*vendredi 2 octobre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -54,23 +54,23 @@ Tours, signal fin et trace : `seances/2026-10-01_virtual_ride_24562675475.md`
 | Durée | 6.8 h | 7.1 h | 8 h |
 | Profond | 139 min | 81 min | 16-33 % |
 | REM | 86 min (21 %) | 78 min | 21-31 % |
-| Score | 92 | 79.0 | |
+| Score | 92 | 78.9 | |
 | VFC | 117 ms | 100 ms | base 83-133 |
 | FC repos | - | - | |
-| Readiness | 100 | 53 | |
+| Readiness | 100 | 51 | |
 
 **Ce que ton historique démontre**
 
-Sur 79 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
+Sur 78 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **5.6 %** | **7.2 %** | +1.6 pt |
+| Découplage moyen | **6.1 %** | **7.2 %** | +1.2 pt |
 | Sommeil | 7.6 h | 6.8 h | |
 | REM | 90.4 min | 74.1 min | |
-| VFC | 104.5 ms | 91.8 ms | |
+| VFC | 105.6 ms | 91.8 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 1.6 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
 ---
 
@@ -87,15 +87,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **64.7** (+2.6 sur 7 j) · ATL 68.5 · TSB -3.8
+**Charge** : CTL **63.2** (+1.0 sur 7 j) · ATL 58.7 · TSB +4.4
 
-Trajectoire : 65 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 63 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-10-02** — repos ou séance libre très facile.
+**2026-10-03** — repos ou séance libre très facile.
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
