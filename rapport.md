@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-10-01 · virtual_ride · 50 min
+### 2026-10-04 · running · 42 min
 
 *Séance hors plan.*
 
@@ -14,17 +14,18 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **14.9 km** | 25.1 km |
-| Dénivelé | **446 m** | 425 m |
-| Puissance norm. | **186 W** | 178 W |
-| Cadence | **57** | 67 |
-| Meilleur 1 km | 0:48 | 1:27 |
-| Allure | **3:23/km** | 2:49/km |
-| Negative split | **non** (-71.5 %) | 6/10 fois |
+| Distance | **8.0 km** | 9.0 km |
+| Dénivelé | **34 m** | 100 m |
+| Puissance norm. | **414 W** | 409 W |
+| Cadence | **147** | 144 |
+| Meilleur 1 km | 5:08 | 5:40 |
+| Allure | **5:17/km** | 6:11/km |
+| Negative split | **oui** (2.4 %) | 8/10 fois |
+| Météo | 11 °C · 100 % hum. | |
 
-**Lecture** — Pas de negative split — à corriger sur les sorties longues.
+**Lecture** — Negative split réussi : c'est ce qui a manqué à Fréjus.
 
-Tours, signal fin et trace : `seances/2026-10-01_virtual_ride_24562675475.md`
+Tours, signal fin et trace : `seances/2026-10-04_running_24597684763.md`
 
 ---
 
@@ -36,8 +37,8 @@ Tours, signal fin et trace : `seances/2026-10-01_virtual_ride_24562675475.md`
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
 | Vélo 90 km / 1 200 m | **3 h 39** | 4 h 10 | -31 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
-| Course 21,1 km | **2 h 22** | 2 h 25 | -3 min | 6:45/km projeté |
-| **TOTAL** | **6 h 54** | 7 h 25 | **-31 min** | |
+| Course 21,1 km | **2 h 20** | 2 h 25 | -5 min | 6:36/km projeté |
+| **TOTAL** | **6 h 51** | 7 h 25 | **-34 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
@@ -47,17 +48,18 @@ Tours, signal fin et trace : `seances/2026-10-01_virtual_ride_24562675475.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-10-01)
+**La nuit qui a précédé** (2026-10-04)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.8 h | 7.2 h | 8 h |
-| Profond | 139 min | 85 min | 16-33 % |
-| REM | 86 min (21 %) | 82 min | 21-31 % |
-| Score | 92 | 82.0 | |
-| VFC | 117 ms | 104 ms | base 83-133 |
+| Durée | 7.4 h | 7.2 h | 8 h |
+| Profond | 90 min | 85 min | 16-33 % |
+| REM | 93 min (21 %) | 82 min | 21-31 % |
+| Score | 91 | 82.0 | |
+| VFC | 106 ms | 104 ms | base 83-134 |
 | FC repos | - | - | |
 | Readiness | 100 | 60 | |
+| Récupération restante | 9 h | | |
 
 **Ce que ton historique démontre**
 
