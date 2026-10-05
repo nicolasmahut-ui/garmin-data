@@ -1,6 +1,6 @@
-# Coach — J--29 avant Gérardmer XL
+# Coach — J--30 avant Gérardmer XL
 
-*dimanche 4 octobre 2026* · course le samedi 5 septembre 2026
+*lundi 5 octobre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -52,25 +52,25 @@ Tours, signal fin et trace : `seances/2026-10-04_running_24597684763.md`
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.4 h | 7.2 h | 8 h |
-| Profond | 90 min | 85 min | 16-33 % |
-| REM | 93 min (21 %) | 82 min | 21-31 % |
+| Durée | 7.4 h | 7.1 h | 8 h |
+| Profond | 90 min | 86 min | 16-33 % |
+| REM | 93 min (21 %) | 81 min | 21-31 % |
 | Score | 91 | 82.0 | |
-| VFC | 106 ms | 104 ms | base 83-134 |
+| VFC | 106 ms | 105 ms | base 83-134 |
 | FC repos | - | - | |
-| Readiness | 100 | 60 | |
+| Readiness | 100 | 62 | |
 | Récupération restante | 9 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 78 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
+Sur 77 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **6.1 %** | **7.2 %** | +1.2 pt |
+| Découplage moyen | **7.4 %** | **5.9 %** | -1.5 pt |
 | Sommeil | 7.6 h | 6.8 h | |
 | REM | 90.4 min | 74.1 min | |
-| VFC | 105.6 ms | 91.8 ms | |
+| VFC | 105.2 ms | 91.5 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -89,15 +89,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **60.2** (-9.2 sur 7 j) · ATL 43.2 · TSB +17.0
+**Charge** : CTL **58.7** (-9.1 sur 7 j) · ATL 37.0 · TSB +21.8
 
-Trajectoire : 60 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 59 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-10-05** — repos ou séance libre très facile.
+**2026-10-06** — repos ou séance libre très facile.
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
