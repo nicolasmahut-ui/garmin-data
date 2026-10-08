@@ -58,8 +58,8 @@ Tours, signal fin et trace : `seances/2026-10-08_running_24647981726.md`
 | Score | 89 | 83.0 | |
 | VFC | 98 ms | 105 ms | base 84-136 |
 | FC repos | - | - | |
-| Readiness | 88 | 69 | |
-| Récupération restante | 32 h | | |
+| Readiness | 95 | 69 | |
+| Récupération restante | 23 h | | |
 
 **Ce que ton historique démontre**
 
@@ -99,7 +99,7 @@ Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-10-09** — repos ou séance libre très facile.
 
-**Vigilance** : récupération incomplète. Fais la séance mais dans le bas des zones.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
