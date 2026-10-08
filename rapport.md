@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-10-06 · tennis_v2 · 78 min
+### 2026-10-08 · running · 47 min
 
 *Séance hors plan.*
 
@@ -14,21 +14,18 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **0.7 km** | 0.6 km |
-| FC moyenne | **106** | 118 |
-| FC max | **154** | 171 |
-| Cadence | **20** | 20 |
-| TSS | **30** | 39 |
-| Découplage | **-17.6 %** | 11.2 % |
-| Dérive cardiaque | **9.2 bpm** | 3.9 bpm |
-| Allure | **118:28/km** | 120:41/km |
-| Negative split | **oui** (28.2 %) | 4/10 fois |
+| Distance | **8.8 km** | 9.2 km |
+| Dénivelé | **125 m** | 99 m |
+| Puissance norm. | **444 W** | 416 W |
+| Cadence | **149** | 146 |
+| Meilleur 1 km | 5:04 | 5:33 |
+| Allure | **5:17/km** | 5:56/km |
+| Negative split | **oui** (4.7 %) | 8/10 fois |
+| Météo | 9 °C · 87 % hum. | |
 
-Zones FC : **Z1** 63 % · **Z2** 32 % · **Z3** 6 %
+**Lecture** — Negative split réussi : c'est ce qui a manqué à Fréjus.
 
-**Lecture** — Découplage -17.6 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
-
-Tours, signal fin et trace : `seances/2026-10-06_tennis_v2_24631858945.md`
+Tours, signal fin et trace : `seances/2026-10-08_running_24647981726.md`
 
 ---
 
@@ -40,8 +37,8 @@ Tours, signal fin et trace : `seances/2026-10-06_tennis_v2_24631858945.md`
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
 | Vélo 90 km / 1 200 m | **3 h 39** | 4 h 10 | -31 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
-| Course 21,1 km | **2 h 20** | 2 h 25 | -5 min | 6:36/km projeté |
-| **TOTAL** | **6 h 51** | 7 h 25 | **-34 min** | |
+| Course 21,1 km | **2 h 17** | 2 h 25 | -8 min | 6:28/km projeté |
+| **TOTAL** | **6 h 48** | 7 h 25 | **-37 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
@@ -51,18 +48,18 @@ Tours, signal fin et trace : `seances/2026-10-06_tennis_v2_24631858945.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-10-06)
+**La nuit qui a précédé** (2026-10-08)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.4 h | 7.2 h | 8 h |
-| Profond | 95 min | 87 min | 16-33 % |
-| REM | 92 min (21 %) | 85 min | 21-31 % |
-| Score | 84 | 83.0 | |
-| VFC | 126 ms | 105 ms | base 84-135 |
+| Durée | 7.6 h | 7.2 h | 8 h |
+| Profond | 114 min | 87 min | 16-33 % |
+| REM | 97 min (21 %) | 85 min | 21-31 % |
+| Score | 89 | 83.0 | |
+| VFC | 98 ms | 105 ms | base 84-136 |
 | FC repos | - | - | |
-| Readiness | 90 | 69 | |
-| Récupération restante | 6 h | | |
+| Readiness | 88 | 69 | |
+| Récupération restante | 32 h | | |
 
 **Ce que ton historique démontre**
 
@@ -102,7 +99,7 @@ Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-10-09** — repos ou séance libre très facile.
 
-✅ **Aucun signal négatif.** Séance comme prévu.
+**Vigilance** : récupération incomplète. Fais la séance mais dans le bas des zones.
 
 ---
 
