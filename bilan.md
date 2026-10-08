@@ -1,6 +1,6 @@
 # Bilan Garmin — 08/10/2026
 
-237 séances du 2025-07-24 au 2026-10-06
+238 séances du 2025-07-24 au 2026-10-08
 Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 ## Charge
@@ -80,6 +80,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S40 | running | 1 | 0.7 h | 8.0 km |
 | 2026-S40 | tennis_v2 | 1 | 1.2 h | 0.5 km |
 | 2026-S40 | virtual_ride | 1 | 0.8 h | 14.9 km |
+| 2026-S41 | running | 1 | 0.8 h | 8.8 km |
 | 2026-S41 | tennis_v2 | 1 | 1.3 h | 0.7 km |
 | 2026-S41 | virtual_ride | 1 | 1.0 h | 26.5 km |
 
@@ -102,15 +103,15 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-07 | 21 | 21.2 h | 5.3 h | 8.5 h | 3.1 h |
 | 2026-08 | 22 | 27.6 h | 14.3 h | 6.7 h | 4.9 h |
 | 2026-09 | 24 | 39.5 h | 15.2 h | 1.3 h | 3.3 h |
-| 2026-10 | 4 | 3.9 h | 0.0 h | 0.7 h | 0.0 h |
+| 2026-10 | 5 | 4.6 h | 0.0 h | 1.5 h | 0.0 h |
 
 ## Répartition FC (40 dernières séances)
 
 | Zone | Plage | Temps | Part |
 |---|---|---|---|
-| Z1 | 113-128 | 16.7 h | 35 % |
-| Z2 | 128-142 | 21.1 h | 44 % |
-| Z3 | 142-156 | 9.4 h | 20 % |
+| Z1 | 113-128 | 15.3 h | 34 % |
+| Z2 | 128-142 | 19.8 h | 44 % |
+| Z3 | 142-156 | 9.0 h | 20 % |
 | Z4 | 156-170 | 0.9 h | 2 % |
 | Z5 | 170-184 | 0.1 h | 0 % |
 
@@ -147,13 +148,13 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-05 | - | 117 | 8.6 h | 84 | 99 | - | - |
 | 2026-10-06 | - | 126 | 7.4 h | 84 | 90 | - | - |
 | 2026-10-07 | - | 117 | 8.0 h | 96 | 100 | - | - |
-| 2026-10-08 | - | 98 | 7.6 h | 89 | 100 | - | - |
+| 2026-10-08 | - | 98 | 7.6 h | 89 | 88 | - | - |
 
 ### Tendances 7 j vs 28 j
 
 - VFC : 115.0 vs 105.4 (+9.6)
 - Sommeil : 7.8 vs 7.2 (+0.6)
-- Readiness : 98.4 vs 69.0 (+29.4)
+- Readiness : 96.7 vs 68.6 (+28.1)
 - Poids : 90.7 kg (+2.7 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
@@ -173,7 +174,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-05 | 99 | 0 h | 84 % | 84 | - |
 | 2026-10-06 | 90 | 6 h | 85 % | 84 | - |
 | 2026-10-07 | 100 | 0 h | 87 % | 96 | - |
-| 2026-10-08 | 100 | 0 h | 91 % | 89 | - |
+| 2026-10-08 | 88 | 32 h | 91 % | 89 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -219,15 +220,14 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_endurance : 19
 - endurance_score : 7026
 - predi_5k_s : 1415
-- predi_10k_s : 3021
-- predi_semi_s : 6828
-- predi_marathon_s : 15274
+- predi_10k_s : 3022
+- predi_semi_s : 6829
+- predi_marathon_s : 15277
 
 ## 15 dernières séances
 
 | Date | Sport | Durée | Dist | D+ | Allure | FC | Puiss | TSS |
 |---|---|---|---|---|---|---|---|---|
-| 2026-09-18 | tennis_v2 | 60 min | 0.4 km | - | 134:16 | 116.0 | - | 30 |
 | 2026-09-20 | road_biking | 182 min | 79.3 km | 640 m | 2:17 | 117.0 | 228 W | 394 |
 | 2026-09-22 | lap_swimming | 42 min | 2.0 km | - | 2:05 | 126.0 | - | 55 |
 | 2026-09-22 | tennis_v2 | 69 min | 1.0 km | - | 68:09 | 119.0 | - | 37 |
@@ -242,6 +242,7 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 | 2026-10-04 | running | 42 min | 8.0 km | 34 m | 5:17 | - | 414 W | - |
 | 2026-10-06 | virtual_ride | 61 min | 26.5 km | 81 m | 2:17 | 86.0 | 132 W | 12 |
 | 2026-10-06 | tennis_v2 | 78 min | 0.7 km | - | 118:28 | 106.0 | - | 30 |
+| 2026-10-08 | running | 47 min | 8.8 km | 125 m | 5:17 | - | 444 W | - |
 
 ## Fichiers de séance disponibles
 
@@ -249,7 +250,6 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 
 | Date | Sport | Découpl. | Neg. split | Fichier |
 |---|---|---|---|---|
-| 2026-08-29 | road_biking | 0.1 % | oui | `seances/2026-08-29_road_biking_24157820962.md` |
 | 2026-08-31 | running | 4.2 % | oui | `seances/2026-08-31_running_24179721072.md` |
 | 2026-09-01 | road_biking | -1.5 % | oui | `seances/2026-09-01_road_biking_24192253988.md` |
 | 2026-09-02 | lap_swimming | - | - | `seances/2026-09-02_lap_swimming_24213688656.md` |
@@ -279,6 +279,7 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 | 2026-10-04 | running | - | oui | `seances/2026-10-04_running_24597684763.md` |
 | 2026-10-06 | virtual_ride | 3.8 % | non | `seances/2026-10-06_virtual_ride_24622448397.md` |
 | 2026-10-06 | tennis_v2 | -17.6 % | oui | `seances/2026-10-06_tennis_v2_24631858945.md` |
+| 2026-10-08 | running | - | oui | `seances/2026-10-08_running_24647981726.md` |
 
 ---
 
