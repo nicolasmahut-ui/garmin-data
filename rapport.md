@@ -1,6 +1,6 @@
-# Coach — J--33 avant Gérardmer XL
+# Coach — J--34 avant Gérardmer XL
 
-*jeudi 8 octobre 2026* · course le samedi 5 septembre 2026
+*vendredi 9 octobre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -53,26 +53,26 @@ Tours, signal fin et trace : `seances/2026-10-08_running_24647981726.md`
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
 | Durée | 7.6 h | 7.2 h | 8 h |
-| Profond | 114 min | 87 min | 16-33 % |
-| REM | 97 min (21 %) | 85 min | 21-31 % |
+| Profond | 114 min | 86 min | 16-33 % |
+| REM | 97 min (21 %) | 84 min | 21-31 % |
 | Score | 89 | 83.0 | |
-| VFC | 98 ms | 105 ms | base 84-136 |
+| VFC | 98 ms | 104 ms | base 84-136 |
 | FC repos | - | - | |
-| Readiness | 95 | 69 | |
+| Readiness | 95 | 70 | |
 | Récupération restante | 23 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 79 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
+Sur 78 séances appariées à la nuit précédente, en séparant au readiness médian de 60 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **5.4 %** | **7.2 %** | +1.8 pt |
+| Découplage moyen | **5.4 %** | **8.4 %** | +3.0 pt |
 | Sommeil | 7.6 h | 6.8 h | |
 | REM | 90.6 min | 74.1 min | |
-| VFC | 106.6 ms | 91.8 ms | |
+| VFC | 107.0 ms | 92.2 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 1.8 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 3.0 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -89,15 +89,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **55.6** (-9.1 sur 7 j) · ATL 27.6 · TSB +27.9
+**Charge** : CTL **54.3** (-8.9 sur 7 j) · ATL 23.7 · TSB +30.6
 
-Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 54 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-10-09** — repos ou séance libre très facile.
+**2026-10-10** — repos ou séance libre très facile.
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
