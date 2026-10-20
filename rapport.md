@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-10-18 · road_biking · 224 min
+### 2026-10-20 · virtual_ride · 60 min
 
 *Séance hors plan.*
 
@@ -14,25 +14,24 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **96.6 km** | 65.1 km |
-| Dénivelé | **699 m** | 514 m |
-| FC moyenne | **120** | 118 |
-| FC max | **173** | 150 |
-| Puissance norm. | **212 W** | 228 W |
-| Cadence | **82** | 78 |
-| TSS | **418** | 315 |
-| Découplage | **16.8 %** | 3.6 % |
-| Dérive cardiaque | **0.6 bpm** | 2.3 bpm |
-| Meilleur 20 min | **265 W** | 237 W |
-| Allure | **2:18/km** | 2:10/km |
-| Negative split | **non** (-16.4 %) | 7/10 fois |
-| Météo | 2 °C · 100 % hum. | |
+| Distance | **28.5 km** | 23.9 km |
+| Dénivelé | **164 m** | 438 m |
+| FC moyenne | **106** | 115 |
+| FC max | **121** | 132 |
+| Puissance norm. | **169 W** | 179 W |
+| Cadence | **74** | 66 |
+| TSS | **23** | 36 |
+| Découplage | **4.4 %** | 10.9 % |
+| Dérive cardiaque | **0.3 bpm** | 7.9 bpm |
+| Meilleur 1 km | 1:33 | 1:25 |
+| Allure | **2:07/km** | 2:56/km |
+| Negative split | **non** (-4.1 %) | 5/10 fois |
 
-Zones FC : **Z1** 30 % · **Z2** 59 % · **Z3** 9 % · **Z4** 2 % · **Z5** 0 %
+Zones FC : **Z1** 93 % · **Z2** 7 %
 
-**Lecture** — Découplage 16.8 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Pas de negative split — à corriger sur les sorties longues.
+**Lecture** — Découplage 4.4 % — allure parfaitement tenue, c'est exactement le comportement de course. Pas de negative split — à corriger sur les sorties longues.
 
-Tours, signal fin et trace : `seances/2026-10-18_road_biking_24765548315.md`
+Tours, signal fin et trace : `seances/2026-10-20_virtual_ride_24786739894.md`
 
 ---
 
@@ -55,31 +54,31 @@ Tours, signal fin et trace : `seances/2026-10-18_road_biking_24765548315.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-10-18)
+**La nuit qui a précédé** (2026-10-20)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.3 h | 7.3 h | 8 h |
-| Profond | 52 min | 87 min | 16-33 % |
-| REM | 92 min (21 %) | 81 min | 21-31 % |
-| Score | 80 | 82.8 | |
-| VFC | 78 ms | 98 ms | base 87-138 |
+| Durée | 7.1 h | 7.3 h | 8 h |
+| Profond | 108 min | 87 min | 16-33 % |
+| REM | 84 min (20 %) | 81 min | 21-31 % |
+| Score | 87 | 82.8 | |
+| VFC | 88 ms | 98 ms | base 88-137 |
 | FC repos | - | - | |
-| Readiness | 25 | 71 | |
-| Récupération restante | 37 h | | |
+| Readiness | 63 | 71 | |
+| Récupération restante | 12 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 79 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 80 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **7.0 %** | **6.6 %** | -0.4 pt |
-| Sommeil | 7.5 h | 6.7 h | |
-| REM | 90.6 min | 74.8 min | |
-| VFC | 106.5 ms | 90.9 ms | |
+| Découplage moyen | **5.6 %** | **7.9 %** | +2.3 pt |
+| Sommeil | 7.5 h | 6.8 h | |
+| REM | 90.0 min | 75.9 min | |
+| VFC | 107.0 ms | 91.1 ms | |
 
-**Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
+**Conclusion : une mauvaise nuit te coûte 2.3 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -96,9 +95,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **60.1** (+1.4 sur 7 j) · ATL 65.8 · TSB -5.7
+**Charge** : CTL **60.6** (+1.9 sur 7 j) · ATL 69.0 · TSB -8.4
 
-Trajectoire : 60 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 61 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -106,7 +105,7 @@ Trajectoire : 60 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-10-21** — repos ou séance libre très facile.
 
-⚠️ **Ajustement** : VFC sous ta base, readiness bas, récupération incomplète. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
