@@ -59,13 +59,13 @@ Tours, signal fin et trace : `seances/2026-10-21_running_24798971600.md`
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.8 h | 7.3 h | 8 h |
+| Durée | 6.8 h | 7.2 h | 8 h |
 | Profond | 61 min | 85 min | 16-33 % |
 | REM | 78 min (19 %) | 81 min | 21-31 % |
 | Score | 78 | 82.2 | |
 | VFC | 73 ms | 98 ms | base 87-137 |
 | FC repos | - | - | |
-| Readiness | 50 | 70 | |
+| Readiness | 50 | 69 | |
 | Récupération restante | 16 h | | |
 
 **Ce que ton historique démontre**
