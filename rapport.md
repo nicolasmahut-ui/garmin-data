@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-10-21 · running · 49 min
+### 2026-10-22 · tennis_v2 · 92 min
 
 *Séance hors plan.*
 
@@ -14,25 +14,21 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **8.0 km** | 8.6 km |
-| Dénivelé | **92 m** | 98 m |
-| FC moyenne | **134** | 135 |
-| FC max | **148** | 150 |
-| Puissance norm. | **364 W** | 427 W |
-| Cadence | **150** | 147 |
-| TSS | **39** | 44 |
-| Découplage | **3.9 %** | 5.3 % |
-| Dérive cardiaque | **8.5 bpm** | 12.1 bpm |
-| Meilleur 1 km | 5:52 | 5:24 |
-| Allure | **6:04/km** | 5:44/km |
-| Negative split | **oui** (2.4 %) | 8/10 fois |
-| Météo | 9 °C · 93 % hum. | |
+| Distance | **0.6 km** | 0.6 km |
+| FC moyenne | **108** | 116 |
+| FC max | **146** | 173 |
+| Cadence | **17** | 20 |
+| TSS | **37** | 37 |
+| Découplage | **-38.2 %** | -1.0 % |
+| Dérive cardiaque | **3.8 bpm** | 6.9 bpm |
+| Allure | **159:20/km** | 122:21/km |
+| Negative split | **oui** (43.1 %) | 6/10 fois |
 
-Zones FC : **Z1** 4 % · **Z2** 49 % · **Z3** 48 %
+Zones FC : **Z1** 61 % · **Z2** 35 % · **Z3** 4 %
 
-**Lecture** — Découplage 3.9 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
+**Lecture** — Découplage -38.2 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
 
-Tours, signal fin et trace : `seances/2026-10-21_running_24798971600.md`
+Tours, signal fin et trace : `seances/2026-10-22_tennis_v2_24813173026.md`
 
 ---
 
@@ -55,31 +51,31 @@ Tours, signal fin et trace : `seances/2026-10-21_running_24798971600.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-10-21)
+**La nuit qui a précédé** (2026-10-22)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.8 h | 7.2 h | 8 h |
-| Profond | 61 min | 85 min | 16-33 % |
-| REM | 78 min (19 %) | 81 min | 21-31 % |
-| Score | 78 | 82.2 | |
-| VFC | 73 ms | 98 ms | base 87-137 |
+| Durée | 6.5 h | 7.2 h | 8 h |
+| Profond | 67 min | 85 min | 16-33 % |
+| REM | 81 min (21 %) | 81 min | 21-31 % |
+| Score | 81 | 82.2 | |
+| VFC | 96 ms | 98 ms | base 87-136 |
 | FC repos | - | - | |
-| Readiness | 50 | 69 | |
-| Récupération restante | 16 h | | |
+| Readiness | 66 | 70 | |
+| Récupération restante | 5 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 80 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
+Sur 81 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **5.4 %** | **7.8 %** | +2.4 pt |
+| Découplage moyen | **4.3 %** | **7.8 %** | +3.5 pt |
 | Sommeil | 7.5 h | 6.8 h | |
-| REM | 89.7 min | 76.0 min | |
-| VFC | 106.7 ms | 91.0 ms | |
+| REM | 89.3 min | 76.0 min | |
+| VFC | 106.5 ms | 91.0 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 2.4 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 3.5 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -96,7 +92,7 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **59.5** (+2.4 sur 7 j) · ATL 59.0 · TSB +0.5
+**Charge** : CTL **60.3** (+3.2 sur 7 j) · ATL 64.2 · TSB -3.9
 
 Trajectoire : 60 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
@@ -106,7 +102,7 @@ Trajectoire : 60 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-10-23** — repos ou séance libre très facile.
 
-**Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
