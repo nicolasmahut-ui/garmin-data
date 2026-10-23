@@ -146,13 +146,13 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-20 | - | 88 | 7.1 h | 87 | 62 | - | - |
 | 2026-10-21 | - | 73 | 6.8 h | 78 | 50 | - | 51.6 |
 | 2026-10-22 | - | 96 | 6.5 h | 81 | 66 | - | - |
-| 2026-10-23 | - | - | - | - | - | - | - |
+| 2026-10-23 | - | 103 | 7.2 h | 81 | 62 | - | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 83.8 vs 97.4 (-13.6)
+- VFC : 86.6 vs 97.6 (-11.0)
 - Sommeil : 7.1 vs 7.2 (-0.1)
-- Readiness : 48.8 vs 69.8 (-20.9)
+- Readiness : 50.7 vs 69.5 (-18.8)
 - Poids : 90.7 kg (+2.7 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
@@ -172,6 +172,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-20 | 62 | 13 h | 69 % | 87 | - |
 | 2026-10-21 | 50 | 16 h | 62 % | 78 | - |
 | 2026-10-22 | 66 | 5 h | 62 % | 81 | - |
+| 2026-10-23 | 62 | 0 h | 67 % | 81 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -206,6 +207,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-20 | 7.1 h | 108 min | 235 min | 84 min | 3 min | 87 | 88 |
 | 2026-10-21 | 6.8 h | 61 min | 268 min | 78 min | 14 min | 78 | 73 |
 | 2026-10-22 | 6.5 h | 67 min | 245 min | 81 min | 1 min | 81 | 96 |
+| 2026-10-23 | 7.2 h | 68 min | 270 min | 91 min | 33 min | 81 | 103 |
 
 Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharge Body Battery — dans le dossier `nuits/`.
 
@@ -214,7 +216,7 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_score : 42
 - hill_force : 8
 - hill_endurance : 37
-- endurance_score : 6987
+- endurance_score : 6986
 - predi_5k_s : 1414
 - predi_10k_s : 3029
 - predi_semi_s : 6860
