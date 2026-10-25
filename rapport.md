@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-10-24 · virtual_ride · 112 min
+### 2026-10-25 · paddelball · 86 min
 
 *Séance hors plan.*
 
@@ -14,24 +14,21 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **50.7 km** | 23.3 km |
-| Dénivelé | **769 m** | 452 m |
-| FC moyenne | **128** | 115 |
-| FC max | **142** | 132 |
-| Puissance norm. | **196 W** | 177 W |
-| Cadence | **74** | 66 |
-| TSS | **77** | 36 |
-| Découplage | **20.1 %** | 11.7 % |
-| Dérive cardiaque | **3.4 bpm** | 7.4 bpm |
-| Meilleur 1 km | 0:57 | 1:24 |
-| Allure | **2:12/km** | 2:58/km |
-| Negative split | **non** (-18.0 %) | 4/10 fois |
+| Distance | **0.8 km** | 0.8 km |
+| FC moyenne | **103** | 109 |
+| FC max | **140** | 159 |
+| Cadence | **22** | 23 |
+| TSS | **30** | 36 |
+| Découplage | **54.2 %** | 25.9 % |
+| Dérive cardiaque | **0.4 bpm** | 10.0 bpm |
+| Allure | **107:38/km** | 119:26/km |
+| Negative split | **non** (-54.1 %) | 1/3 fois |
 
-Zones FC : **Z1** 2 % · **Z2** 61 % · **Z3** 37 %
+Zones FC : **Z1** 90 % · **Z2** 10 % · **Z3** 0 %
 
-**Lecture** — Découplage 20.1 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Pas de negative split — à corriger sur les sorties longues.
+**Lecture** — Découplage 54.2 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Pas de negative split — à corriger sur les sorties longues.
 
-Tours, signal fin et trace : `seances/2026-10-24_virtual_ride_24837974056.md`
+Tours, signal fin et trace : `seances/2026-10-25_paddelball_24844693302.md`
 
 ---
 
@@ -54,31 +51,31 @@ Tours, signal fin et trace : `seances/2026-10-24_virtual_ride_24837974056.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-10-24)
+**La nuit qui a précédé** (2026-10-25)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 8.5 h | 7.3 h | 8 h |
-| Profond | 83 min | 86 min | 16-33 % |
-| REM | 113 min (22 %) | 84 min | 21-31 % |
-| Score | 87 | 82.7 | |
-| VFC | 96 ms | 98 ms | base 87-136 |
+| Durée | 7.0 h | 7.3 h | 8 h |
+| Profond | 81 min | 86 min | 16-33 % |
+| REM | 87 min (21 %) | 84 min | 21-31 % |
+| Score | 76 | 82.7 | |
+| VFC | 76 ms | 98 ms | base 87-135 |
 | FC repos | - | - | |
-| Readiness | 50 | 68 | |
-| Récupération restante | 35 h | | |
+| Readiness | 51 | 68 | |
+| Récupération restante | 21 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 81 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
+Sur 82 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **4.3 %** | **8.3 %** | +4.0 pt |
+| Découplage moyen | **4.3 %** | **9.4 %** | +5.1 pt |
 | Sommeil | 7.5 h | 6.8 h | |
-| REM | 89.3 min | 77.6 min | |
-| VFC | 106.5 ms | 91.6 ms | |
+| REM | 89.3 min | 78.0 min | |
+| VFC | 106.5 ms | 91.2 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 4.0 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 5.1 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -95,9 +92,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **57.9** (-5.2 sur 7 j) · ATL 49.9 · TSB +8.0
+**Charge** : CTL **58.6** (-4.5 sur 7 j) · ATL 54.1 · TSB +4.5
 
-Trajectoire : 58 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 59 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -105,7 +102,7 @@ Trajectoire : 58 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-10-26** — repos ou séance libre très facile.
 
-**Vigilance** : récupération incomplète. Fais la séance mais dans le bas des zones.
+**Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
 
 ---
 
