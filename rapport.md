@@ -49,7 +49,7 @@ Tours, signal fin et trace : `seances/2026-10-26_running_24853653249.md`
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
-*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.94 min par km, plus 3.78 min par 100 m de dénivelé. Recalculé à chaque sortie.*
+*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.93 min par km, plus 3.84 min par 100 m de dénivelé. Recalculé à chaque sortie.*
 
 ---
 
@@ -96,7 +96,7 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **58.3** (-3.3 sur 7 j) · ATL 52.8 · TSB +5.5
+**Charge** : CTL **58.5** (-3.3 sur 7 j) · ATL 52.8 · TSB +5.7
 
 Trajectoire : 58 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
