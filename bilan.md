@@ -1,12 +1,12 @@
-# Bilan Garmin — 26/10/2026
+# Bilan Garmin — 27/10/2026
 
 251 séances du 2025-07-24 au 2026-10-26
 Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 ## Charge
 
-- **CTL 58.5** (forme de fond, -3.3 sur 7 j)
-- ATL 52.8 (fatigue) · TSB +5.7 (fraîcheur)
+- **CTL 57.1** (forme de fond, -4.6 sur 7 j)
+- ATL 45.3 (fatigue) · TSB +11.8 (fraîcheur)
 
 | Semaine | TSS | CTL | TSB |
 |---|---|---|---|
@@ -35,7 +35,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S41 | 420 | 61.0 | -9.2 |
 | 2026-S42 | 505 | 63.3 | -26.2 |
 | 2026-S43 | 239 | 58.8 | +4.7 |
-| 2026-S44 | 45 | 58.5 | +5.7 |
+| 2026-S44 | 45 | 57.1 | +11.8 |
 
 ## Volumes hebdo
 
@@ -116,7 +116,6 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 | Date | FC rep | VFC | Sommeil | Score | Readiness | Poids | VO2max |
 |---|---|---|---|---|---|---|---|
-| 2026-09-27 | - | 107 | 6.9 h | 74 | 69 | - | - |
 | 2026-09-28 | - | 89 | 7.0 h | 79 | 50 | 90.7 kg | - |
 | 2026-09-29 | - | 124 | 8.1 h | 87 | 64 | - | - |
 | 2026-09-30 | - | 130 | 8.1 h | 95 | 85 | - | - |
@@ -146,19 +145,19 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-24 | - | 96 | 8.5 h | 87 | 50 | - | - |
 | 2026-10-25 | - | 76 | 7.0 h | 76 | 51 | - | - |
 | 2026-10-26 | - | 98 | 6.5 h | 84 | 50 | - | 51.3 |
+| 2026-10-27 | - | - | - | - | - | - | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 90.0 vs 98.2 (-8.2)
+- VFC : 90.3 vs 97.2 (-6.9)
 - Sommeil : 7.1 vs 7.3 (-0.2)
-- Readiness : 55.9 vs 68.5 (-12.6)
+- Readiness : 54.8 vs 68.7 (-13.8)
 - Poids : 90.7 kg (+2.7 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
 
 | Date | Readiness | Temps récup. | Facteur VFC | Facteur sommeil | ACWR |
 |---|---|---|---|---|---|
-| 2026-10-13 | 63 | 0 h | 79 % | 78 | - |
 | 2026-10-14 | 50 | 19 h | 69 % | 78 | - |
 | 2026-10-15 | 68 | 0 h | 68 % | 90 | - |
 | 2026-10-16 | 61 | 0 h | 59 % | 74 | - |
@@ -177,7 +176,6 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 | Date | Total | Profond | Léger | REM | Éveillé | Score | VFC nuit |
 |---|---|---|---|---|---|---|---|
-| 2026-09-27 | 6.9 h | 78 min | 267 min | 67 min | 31 min | 74 | 107 |
 | 2026-09-28 | 7.0 h | 49 min | 277 min | 95 min | 24 min | 79 | 89 |
 | 2026-09-29 | 8.1 h | 88 min | 299 min | 99 min | 1 min | 87 | 124 |
 | 2026-09-30 | 8.1 h | 104 min | 268 min | 112 min | 10 min | 95 | 130 |
@@ -215,11 +213,11 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_score : 42
 - hill_force : 8
 - hill_endurance : 37
-- endurance_score : 6895
+- endurance_score : 6877
 - predi_5k_s : 1412
-- predi_10k_s : 3033
-- predi_semi_s : 6862
-- predi_marathon_s : 15276
+- predi_10k_s : 3034
+- predi_semi_s : 6863
+- predi_marathon_s : 15277
 
 ## 15 dernières séances
 
