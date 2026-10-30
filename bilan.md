@@ -146,14 +146,14 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-26 | - | 98 | 6.5 h | 84 | 50 | - | 51.3 |
 | 2026-10-27 | - | 100 | 7.7 h | 91 | 59 | - | - |
 | 2026-10-28 | - | 86 | 7.5 h | 86 | 66 | - | - |
-| 2026-10-29 | - | - | - | - | - | - | - |
-| 2026-10-30 | - | - | - | - | - | 91.2 kg | - |
+| 2026-10-29 | - | 85 | 8.3 h | 76 | 66 | - | - |
+| 2026-10-30 | - | 88 | 5.7 h | 71 | 45 | 91.2 kg | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 91.2 vs 93.7 (-2.5)
-- Sommeil : 7.5 vs 7.3 (+0.2)
-- Readiness : 55.2 vs 65.2 (-10.0)
+- VFC : 89.9 vs 93.1 (-3.3)
+- Sommeil : 7.3 vs 7.3 (+0.1)
+- Readiness : 55.3 vs 64.5 (-9.2)
 - Poids : 91.2 kg (+3.2 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
@@ -172,6 +172,8 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-26 | 50 | 26 h | 77 % | 84 | - |
 | 2026-10-27 | 59 | 16 h | 82 % | 91 | - |
 | 2026-10-28 | 66 | 17 h | 91 % | 86 | - |
+| 2026-10-29 | 66 | 5 h | 87 % | 76 | - |
+| 2026-10-30 | 45 | 28 h | 80 % | 71 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -205,6 +207,8 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-26 | 6.5 h | 76 min | 233 min | 81 min | 5 min | 84 | 98 |
 | 2026-10-27 | 7.7 h | 93 min | 265 min | 103 min | 28 min | 91 | 100 |
 | 2026-10-28 | 7.5 h | 72 min | 271 min | 110 min | 16 min | 86 | 86 |
+| 2026-10-29 | 8.3 h | 108 min | 317 min | 74 min | 63 min | 76 | 85 |
+| 2026-10-30 | 5.7 h | 108 min | 204 min | 30 min | 20 min | 71 | 88 |
 
 Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharge Body Battery — dans le dossier `nuits/`.
 
@@ -213,11 +217,11 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_score : 41
 - hill_force : 8
 - hill_endurance : 35
-- endurance_score : 6766
-- predi_5k_s : 1412
-- predi_10k_s : 3035
-- predi_semi_s : 6864
-- predi_marathon_s : 15281
+- endurance_score : 6743
+- predi_5k_s : 1413
+- predi_10k_s : 3036
+- predi_semi_s : 6868
+- predi_marathon_s : 15292
 
 ## 15 dernières séances
 
