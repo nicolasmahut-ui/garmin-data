@@ -64,8 +64,8 @@ Tours, signal fin et trace : `seances/2026-10-30_virtual_ride_24901402841.md`
 | Score | 71 | 81.5 | |
 | VFC | 88 ms | 93 ms | base 86-134 |
 | FC repos | - | - | |
-| Readiness | 45 | 64 | |
-| Récupération restante | 28 h | | |
+| Readiness | 50 | 65 | |
+| Récupération restante | 22 h | | |
 
 **Ce que ton historique démontre**
 
@@ -105,7 +105,7 @@ Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-10-31** — repos ou séance libre très facile.
 
-**Vigilance** : récupération incomplète. Fais la séance mais dans le bas des zones.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
