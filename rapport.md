@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-10-30 · virtual_ride · 78 min
+### 2026-10-30 · tennis_v2 · 61 min
 
 *Séance hors plan.*
 
@@ -14,24 +14,20 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **43.5 km** | 25.4 km |
-| Dénivelé | **60 m** | 533 m |
-| FC moyenne | **126** | 116 |
-| FC max | **140** | 132 |
-| Puissance norm. | **197 W** | 181 W |
-| Cadence | **78** | 68 |
-| TSS | **51** | 41 |
-| Découplage | **2.7 %** | 16.6 % |
-| Dérive cardiaque | **6.3 bpm** | 6.6 bpm |
-| Meilleur 1 km | 1:35 | 1:14 |
-| Allure | **1:47/km** | 2:59/km |
-| Negative split | **oui** (2.3 %) | 3/10 fois |
+| Distance | **0.4 km** | 0.6 km |
+| FC moyenne | **130** | 114 |
+| FC max | **157** | 170 |
+| Cadence | **18** | 20 |
+| TSS | **44** | 35 |
+| Découplage | **-2.2 %** | -4.2 % |
+| Dérive cardiaque | **-5.2 bpm** | 7.1 bpm |
+| Negative split | **non** (-1.9 %) | 6/10 fois |
 
-Zones FC : **Z1** 2 % · **Z2** 82 % · **Z3** 15 %
+Zones FC : **Z1** 15 % · **Z2** 49 % · **Z3** 35 % · **Z4** 1 %
 
-**Lecture** — Découplage 2.7 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
+**Lecture** — Découplage -2.2 % — allure parfaitement tenue, c'est exactement le comportement de course. Pas de negative split — à corriger sur les sorties longues.
 
-Tours, signal fin et trace : `seances/2026-10-30_virtual_ride_24901402841.md`
+Tours, signal fin et trace : `seances/2026-10-30_tennis_v2_24907364850.md`
 
 ---
 
@@ -64,21 +60,21 @@ Tours, signal fin et trace : `seances/2026-10-30_virtual_ride_24901402841.md`
 | Score | 71 | 81.5 | |
 | VFC | 88 ms | 93 ms | base 86-134 |
 | FC repos | - | - | |
-| Readiness | 50 | 65 | |
-| Récupération restante | 22 h | | |
+| Readiness | 33 | 64 | |
+| Récupération restante | 37 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 81 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
+Sur 82 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **5.2 %** | **9.5 %** | +4.4 pt |
-| Sommeil | 7.5 h | 6.8 h | |
-| REM | 90.2 min | 76.3 min | |
-| VFC | 106.2 ms | 93.2 ms | |
+| Découplage moyen | **5.2 %** | **9.2 %** | +4.1 pt |
+| Sommeil | 7.5 h | 6.7 h | |
+| REM | 90.2 min | 74.6 min | |
+| VFC | 106.2 ms | 93.0 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 4.4 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 4.1 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -95,9 +91,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **55.8** (-3.3 sur 7 j) · ATL 42.4 · TSB +13.5
+**Charge** : CTL **56.9** (-2.2 sur 7 j) · ATL 48.6 · TSB +8.3
 
-Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 57 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -105,7 +101,7 @@ Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-10-31** — repos ou séance libre très facile.
 
-✅ **Aucun signal négatif.** Séance comme prévu.
+⚠️ **Ajustement** : readiness bas, récupération incomplète. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
 ---
 
