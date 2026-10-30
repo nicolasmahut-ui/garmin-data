@@ -58,26 +58,27 @@ Tours, signal fin et trace : `seances/2026-10-30_virtual_ride_24901402841.md`
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | - | 7.3 h | 8 h |
-| Profond | - | 83 min | 16-33 % |
-| REM | - | 84 min | 21-31 % |
-| Score | - | 82.2 | |
-| VFC | - | 94 ms | base --- |
+| Durée | 5.7 h | 7.3 h | 8 h |
+| Profond | 108 min | 85 min | 16-33 % |
+| REM | 30 min (9 %) | 81 min | 21-31 % |
+| Score | 71 | 81.5 | |
+| VFC | 88 ms | 93 ms | base 86-134 |
 | FC repos | - | - | |
-| Readiness | - | 65 | |
+| Readiness | 45 | 64 | |
+| Récupération restante | 28 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 80 séances appariées à la nuit précédente, en séparant au readiness médian de 60 :
+Sur 81 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **5.1 %** | **9.6 %** | +4.5 pt |
+| Découplage moyen | **5.2 %** | **9.5 %** | +4.4 pt |
 | Sommeil | 7.5 h | 6.8 h | |
-| REM | 90.2 min | 78.1 min | |
-| VFC | 106.5 ms | 93.3 ms | |
+| REM | 90.2 min | 76.3 min | |
+| VFC | 106.2 ms | 93.2 ms | |
 
-**Conclusion : une mauvaise nuit te coûte 4.5 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
+**Conclusion : une mauvaise nuit te coûte 4.4 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
 ---
 
@@ -104,7 +105,7 @@ Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-10-31** — repos ou séance libre très facile.
 
-✅ **Aucun signal négatif.** Séance comme prévu.
+**Vigilance** : récupération incomplète. Fais la séance mais dans le bas des zones.
 
 ---
 
