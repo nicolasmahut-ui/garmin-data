@@ -57,12 +57,12 @@ Tours, signal fin et trace : `seances/2026-10-31_tennis_v2_24915015928.md`
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
 | Durée | 6.8 h | 7.2 h | 8 h |
-| Profond | 80 min | 83 min | 16-33 % |
-| REM | 80 min (20 %) | 80 min | 21-31 % |
-| Score | 78 | 80.6 | |
+| Profond | 80 min | 84 min | 16-33 % |
+| REM | 80 min (20 %) | 81 min | 21-31 % |
+| Score | 78 | 80.8 | |
 | VFC | 69 ms | 91 ms | base 86-133 |
 | FC repos | - | - | |
-| Readiness | 36 | 60 | |
+| Readiness | 36 | 61 | |
 | Récupération restante | 22 h | | |
 
 **Ce que ton historique démontre**
