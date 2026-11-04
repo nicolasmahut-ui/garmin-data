@@ -1,6 +1,6 @@
-# Coach — J--59 avant Gérardmer XL
+# Coach — J--60 avant Gérardmer XL
 
-*mardi 3 novembre 2026* · course le samedi 5 septembre 2026
+*mercredi 4 novembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -60,23 +60,23 @@ Tours, signal fin et trace : `seances/2026-11-02_virtual_ride_24935964892.md`
 |---|---|---|---|
 | Durée | 7.8 h | 7.2 h | 8 h |
 | Profond | 97 min | 84 min | 16-33 % |
-| REM | 79 min (17 %) | 80 min | 21-31 % |
-| Score | 85 | 80.7 | |
-| VFC | 115 ms | 90 ms | base 87-132 |
+| REM | 79 min (17 %) | 79 min | 21-31 % |
+| Score | 85 | 80.2 | |
+| VFC | 115 ms | 89 ms | base 87-132 |
 | FC repos | - | - | |
-| Readiness | 64 | 58 | |
+| Readiness | 64 | 57 | |
 | Récupération restante | 14 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 82 séances appariées à la nuit précédente, en séparant au readiness médian de 60 :
+Sur 81 séances appariées à la nuit précédente, en séparant au readiness médian de 58 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
 | Découplage moyen | **5.1 %** | **8.1 %** | +3.0 pt |
-| Sommeil | 7.5 h | 6.9 h | |
+| Sommeil | 7.5 h | 6.8 h | |
 | REM | 89.7 min | 74.8 min | |
-| VFC | 106.8 ms | 93.3 ms | |
+| VFC | 106.6 ms | 93.3 ms | |
 
 **Conclusion : une mauvaise nuit te coûte 3.0 points de découplage.** Sur les 4 h de vélo de Gérardmer, cet écart se paie directement sur les 21 km. Ton sommeil n'est pas un sujet de confort, c'est un paramètre de performance.
 
@@ -95,15 +95,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **53.0** (-4.8 sur 7 j) · ATL 32.7 · TSB +20.3
+**Charge** : CTL **51.8** (-5.5 sur 7 j) · ATL 28.0 · TSB +23.7
 
-Trajectoire : 53 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 52 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-11-04** — repos ou séance libre très facile.
+**2026-11-05** — repos ou séance libre très facile.
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
