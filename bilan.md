@@ -1,12 +1,12 @@
 # Bilan Garmin — 05/11/2026
 
-258 séances du 2025-07-24 au 2026-11-05
+259 séances du 2025-07-24 au 2026-11-05
 Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 ## Charge
 
-- **CTL 51.2** (forme de fond, -4.8 sur 7 j)
-- ATL 28.2 (fatigue) · TSB +23.1 (fraîcheur)
+- **CTL 52.1** (forme de fond, -3.9 sur 7 j)
+- ATL 32.0 (fatigue) · TSB +20.1 (fraîcheur)
 
 | Semaine | TSS | CTL | TSB |
 |---|---|---|---|
@@ -35,7 +35,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S42 | 505 | 63.3 | -26.2 |
 | 2026-S43 | 239 | 58.8 | +4.7 |
 | 2026-S44 | 241 | 55.0 | +15.1 |
-| 2026-S45 | 57 | 51.2 | +23.1 |
+| 2026-S45 | 93 | 52.1 | +20.1 |
 
 ## Volumes hebdo
 
@@ -80,6 +80,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S44 | running | 1 | 0.7 h | 8.0 km |
 | 2026-S44 | tennis_v2 | 2 | 2.9 h | 1.5 km |
 | 2026-S44 | virtual_ride | 2 | 2.4 h | 56.3 km |
+| 2026-S45 | tennis_v2 | 1 | 1.2 h | 0.8 km |
 | 2026-S45 | virtual_ride | 2 | 2.1 h | 63.7 km |
 
 ## Récapitulatif mensuel
@@ -102,15 +103,15 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08 | 23 | 28.6 h | 15.3 h | 6.7 h | 4.9 h |
 | 2026-09 | 24 | 39.5 h | 15.2 h | 1.3 h | 3.3 h |
 | 2026-10 | 22 | 28.3 h | 6.5 h | 4.7 h | 0.6 h |
-| 2026-11 | 2 | 2.1 h | 0.0 h | 0.0 h | 0.0 h |
+| 2026-11 | 3 | 3.3 h | 0.0 h | 0.0 h | 0.0 h |
 
 ## Répartition FC (40 dernières séances)
 
 | Zone | Plage | Temps | Part |
 |---|---|---|---|
-| Z1 | 113-128 | 17.4 h | 38 % |
-| Z2 | 128-142 | 19.8 h | 44 % |
-| Z3 | 142-156 | 7.5 h | 16 % |
+| Z1 | 113-128 | 17.3 h | 39 % |
+| Z2 | 128-142 | 19.2 h | 43 % |
+| Z3 | 142-156 | 7.2 h | 16 % |
 | Z4 | 156-170 | 0.7 h | 2 % |
 | Z5 | 170-184 | 0.1 h | 0 % |
 
@@ -145,15 +146,15 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-31 | - | 69 | 6.8 h | 78 | 36 | - | - |
 | 2026-11-01 | - | 90 | 7.9 h | 88 | 68 | - | - |
 | 2026-11-02 | - | 115 | 7.8 h | 85 | 64 | - | - |
-| 2026-11-03 | - | - | - | - | - | - | - |
-| 2026-11-04 | - | - | - | - | - | - | - |
-| 2026-11-05 | - | - | - | - | - | - | - |
+| 2026-11-03 | - | 98 | 8.1 h | 85 | 57 | - | - |
+| 2026-11-04 | - | 67 | 5.8 h | 68 | 50 | - | - |
+| 2026-11-05 | - | 85 | 5.7 h | 78 | 56 | - | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 90.5 vs 88.2 (+2.3)
-- Sommeil : 7.1 vs 7.1 (-0.1)
-- Readiness : 50.2 vs 55.1 (-4.8)
+- VFC : 87.4 vs 87.7 (-0.3)
+- Sommeil : 6.8 vs 7.1 (-0.3)
+- Readiness : 52.0 vs 55.0 (-3.0)
 - Poids : 91.2 kg (+3.2 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
@@ -171,6 +172,9 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-31 | 36 | 22 h | 66 % | 78 | - |
 | 2026-11-01 | 68 | 0 h | 72 % | 88 | - |
 | 2026-11-02 | 64 | 14 h | 78 % | 85 | - |
+| 2026-11-03 | 57 | 22 h | 78 % | 85 | - |
+| 2026-11-04 | 50 | 9 h | 69 % | 68 | - |
+| 2026-11-05 | 56 | 14 h | 70 % | 78 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -203,6 +207,9 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-10-31 | 6.8 h | 80 min | 249 min | 80 min | 14 min | 78 | 69 |
 | 2026-11-01 | 7.9 h | 100 min | 269 min | 105 min | 10 min | 88 | 90 |
 | 2026-11-02 | 7.8 h | 97 min | 294 min | 79 min | 30 min | 85 | 115 |
+| 2026-11-03 | 8.1 h | 65 min | 326 min | 92 min | 22 min | 85 | 98 |
+| 2026-11-04 | 5.8 h | 49 min | 258 min | 39 min | 37 min | 68 | 67 |
+| 2026-11-05 | 5.7 h | 70 min | 209 min | 62 min | 4 min | 78 | 85 |
 
 Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharge Body Battery — dans le dossier `nuits/`.
 
@@ -211,17 +218,16 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_score : 38
 - hill_force : 7
 - hill_endurance : 33
-- endurance_score : 6604
+- endurance_score : 6579
 - predi_5k_s : 1413
 - predi_10k_s : 3040
-- predi_semi_s : 6883
-- predi_marathon_s : 15348
+- predi_semi_s : 6885
+- predi_marathon_s : 15353
 
 ## 15 dernières séances
 
 | Date | Sport | Durée | Dist | D+ | Allure | FC | Puiss | TSS |
 |---|---|---|---|---|---|---|---|---|
-| 2026-10-18 | road_biking | 224 min | 96.6 km | 699 m | 2:18 | 120.0 | 212 W | 418 |
 | 2026-10-20 | virtual_ride | 60 min | 28.5 km | 164 m | 2:07 | 106.0 | 169 W | 23 |
 | 2026-10-20 | tennis_v2 | 73 min | 0.6 km | - | 122:17 | 113.0 | - | 34 |
 | 2026-10-21 | running | 49 min | 8.0 km | 92 m | 6:04 | 134.0 | 364 W | 39 |
@@ -235,6 +241,7 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 | 2026-10-30 | tennis_v2 | 61 min | 0.4 km | - | - | 130.0 | - | 44 |
 | 2026-10-31 | tennis_v2 | 113 min | 1.1 km | - | 105:16 | 99.0 | - | 34 |
 | 2026-11-02 | virtual_ride | 62 min | 31.8 km | 22 m | 1:56 | 112.0 | 175 W | 28 |
+| 2026-11-03 | tennis_v2 | 71 min | 0.8 km | - | 83:33 | 117.0 | - | 36 |
 | 2026-11-05 | virtual_ride | 63 min | 31.9 km | 112 m | 1:58 | 113.0 | 177 W | 29 |
 
 ## Fichiers de séance disponibles
@@ -243,7 +250,6 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 
 | Date | Sport | Découpl. | Neg. split | Fichier |
 |---|---|---|---|---|
-| 2026-09-25 | lap_swimming | - | - | `seances/2026-09-25_lap_swimming_24496063422.md` |
 | 2026-09-25 | tennis_v2 | 18.4 % | non | `seances/2026-09-25_tennis_v2_24496965327.md` |
 | 2026-09-26 | tennis_v2 | 29.6 % | non | `seances/2026-09-26_tennis_v2_24501805920.md` |
 | 2026-09-27 | road_biking | 3.5 % | oui | `seances/2026-09-27_road_biking_24515039421.md` |
@@ -272,6 +278,7 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 | 2026-10-30 | tennis_v2 | -2.2 % | non | `seances/2026-10-30_tennis_v2_24907364850.md` |
 | 2026-10-31 | tennis_v2 | 8.0 % | non | `seances/2026-10-31_tennis_v2_24915015928.md` |
 | 2026-11-02 | virtual_ride | 2.8 % | oui | `seances/2026-11-02_virtual_ride_24935964892.md` |
+| 2026-11-03 | tennis_v2 | -29.4 % | oui | `seances/2026-11-03_tennis_v2_24972558387.md` |
 | 2026-11-05 | virtual_ride | 4.8 % | oui | `seances/2026-11-05_virtual_ride_24972206421.md` |
 
 ---
@@ -286,4 +293,4 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 - `activites-recent.csv` et `wellness-recent.csv` — 60 jours, allégés
 - `profil.md` — matériel, zones, FTP, records personnels
 
-`wellness.csv` contient 394 colonnes distinctes.
+`wellness.csv` contient 393 colonnes distinctes.
