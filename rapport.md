@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-11-05 · virtual_ride · 63 min
+### 2026-11-07 · lap_swimming · 47 min
 
 *Séance hors plan.*
 
@@ -14,24 +14,16 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **31.9 km** | 27.3 km |
-| Dénivelé | **112 m** | 416 m |
-| FC moyenne | **113** | 116 |
-| FC max | **136** | 132 |
-| Puissance norm. | **177 W** | 181 W |
-| Cadence | **75** | 69 |
-| TSS | **29** | 39 |
-| Découplage | **4.8 %** | 7.1 % |
-| Dérive cardiaque | **6.6 bpm** | 5.1 bpm |
-| Meilleur 1 km | 1:44 | 1:19 |
-| Allure | **1:58/km** | 2:48/km |
-| Negative split | **oui** (0.9 %) | 4/10 fois |
+| Distance | **2.0 km** | 1.8 km |
+| FC moyenne | **140** | 124 |
+| FC max | **166** | 150 |
+| TSS | **45** | 41 |
+| Dérive cardiaque | **11.7 bpm** | 11.6 bpm |
+| Allure | **2:18/100 m** | 2:18/100 m |
 
-Zones FC : **Z1** 48 % · **Z2** 50 % · **Z3** 1 %
+Zones FC : **Z1** 10 % · **Z2** 25 % · **Z3** 47 % · **Z4** 17 %
 
-**Lecture** — Découplage 4.8 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
-
-Tours, signal fin et trace : `seances/2026-11-05_virtual_ride_24972206421.md`
+Tours, signal fin et trace : `seances/2026-11-07_lap_swimming_24995818420.md`
 
 ---
 
@@ -39,7 +31,7 @@ Tours, signal fin et trace : `seances/2026-11-05_virtual_ride_24972206421.md`
 
 | Segment | Projeté | Cible | Écart | Base |
 |---|---|---|---|---|
-| Natation 1,9 km | **0 h 45** | 0 h 41 | +4 min | 2:20/100 m |
+| Natation 1,9 km | **0 h 45** | 0 h 41 | +4 min | 2:21/100 m |
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
 | Vélo 90 km / 1 200 m | **3 h 40** | 4 h 10 | -30 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
@@ -54,18 +46,18 @@ Tours, signal fin et trace : `seances/2026-11-05_virtual_ride_24972206421.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-11-05)
+**La nuit qui a précédé** (2026-11-07)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 5.7 h | 7.2 h | 8 h |
-| Profond | 70 min | 81 min | 16-33 % |
-| REM | 62 min (18 %) | 80 min | 21-31 % |
-| Score | 78 | 80.7 | |
-| VFC | 85 ms | 88 ms | base 86-131 |
+| Durée | 8.4 h | 7.2 h | 8 h |
+| Profond | 63 min | 81 min | 16-33 % |
+| REM | 107 min (21 %) | 80 min | 21-31 % |
+| Score | 89 | 80.7 | |
+| VFC | 100 ms | 88 ms | base 86-130 |
 | FC repos | - | - | |
-| Readiness | 56 | 56 | |
-| Récupération restante | 14 h | | |
+| Readiness | 65 | 55 | |
+| Récupération restante | 23 h | | |
 
 **Ce que ton historique démontre**
 
@@ -95,9 +87,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **49.6** (-6.7 sur 7 j) · ATL 23.5 · TSB +26.1
+**Charge** : CTL **50.7** (-5.6 sur 7 j) · ATL 29.9 · TSB +20.8
 
-Trajectoire : 50 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 51 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -105,7 +97,7 @@ Trajectoire : 50 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-11-08** — repos ou séance libre très facile.
 
-**Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
