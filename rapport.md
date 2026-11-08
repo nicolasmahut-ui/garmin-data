@@ -1,6 +1,6 @@
-# Coach — J--63 avant Gérardmer XL
+# Coach — J--64 avant Gérardmer XL
 
-*samedi 7 novembre 2026* · course le samedi 5 septembre 2026
+*dimanche 8 novembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -51,24 +51,24 @@ Tours, signal fin et trace : `seances/2026-11-07_lap_swimming_24995818420.md`
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
 | Durée | 8.4 h | 7.2 h | 8 h |
-| Profond | 63 min | 81 min | 16-33 % |
+| Profond | 63 min | 80 min | 16-33 % |
 | REM | 107 min (21 %) | 80 min | 21-31 % |
-| Score | 89 | 80.7 | |
-| VFC | 100 ms | 88 ms | base 86-130 |
+| Score | 89 | 80.6 | |
+| VFC | 100 ms | 89 ms | base 86-130 |
 | FC repos | - | - | |
-| Readiness | 65 | 55 | |
+| Readiness | 65 | 56 | |
 | Récupération restante | 23 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 83 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 82 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
 | Découplage moyen | **5.6 %** | **6.7 %** | +1.1 pt |
 | Sommeil | 7.5 h | 6.8 h | |
 | REM | 90.1 min | 73.5 min | |
-| VFC | 105.5 ms | 93.1 ms | |
+| VFC | 105.8 ms | 93.1 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -87,15 +87,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **50.7** (-5.6 sur 7 j) · ATL 29.9 · TSB +20.8
+**Charge** : CTL **49.5** (-5.5 sur 7 j) · ATL 25.6 · TSB +23.8
 
-Trajectoire : 51 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 50 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-11-08** — repos ou séance libre très facile.
+**2026-11-09** — repos ou séance libre très facile.
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
