@@ -52,9 +52,9 @@ Tours, signal fin et trace : `seances/2026-11-07_lap_swimming_24995818420.md`
 |---|---|---|---|
 | Durée | 8.4 h | 7.2 h | 8 h |
 | Profond | 63 min | 80 min | 16-33 % |
-| REM | 107 min (21 %) | 80 min | 21-31 % |
+| REM | 107 min (21 %) | 79 min | 21-31 % |
 | Score | 89 | 80.6 | |
-| VFC | 100 ms | 89 ms | base 86-130 |
+| VFC | 100 ms | 88 ms | base 86-130 |
 | FC repos | - | - | |
 | Readiness | 65 | 56 | |
 | Récupération restante | 23 h | | |
