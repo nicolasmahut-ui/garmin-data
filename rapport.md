@@ -59,10 +59,10 @@ Tours, signal fin et trace : `seances/2026-11-12_virtual_ride_25051163967.md`
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
 | Durée | 6.9 h | 7.2 h | 8 h |
-| Profond | 69 min | 78 min | 16-33 % |
-| REM | 73 min (18 %) | 79 min | 21-31 % |
-| Score | 82 | 79.5 | |
-| VFC | 80 ms | 86 ms | base 86-128 |
+| Profond | 69 min | 80 min | 16-33 % |
+| REM | 73 min (18 %) | 80 min | 21-31 % |
+| Score | 82 | 79.8 | |
+| VFC | 80 ms | 87 ms | base 86-128 |
 | FC repos | - | - | |
 | Readiness | 58 | 52 | |
 | Récupération restante | 13 h | | |
