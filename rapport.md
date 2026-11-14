@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-11-14 · lap_swimming · 46 min
+### 2026-11-14 · road_biking · 175 min
 
 *Séance hors plan.*
 
@@ -14,16 +14,25 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **2.0 km** | 1.8 km |
-| FC moyenne | **134** | 124 |
-| FC max | **153** | 151 |
-| TSS | **44** | 40 |
-| Dérive cardiaque | **4.7 bpm** | 11.1 bpm |
-| Allure | **2:19/100 m** | 2:20/100 m |
+| Distance | **80.4 km** | 68.2 km |
+| Dénivelé | **490 m** | 543 m |
+| FC moyenne | **129** | 120 |
+| FC max | **156** | 153 |
+| Puissance norm. | **218 W** | 226 W |
+| Cadence | **83** | 79 |
+| TSS | **346** | 316 |
+| Découplage | **4.5 %** | 3.9 % |
+| Dérive cardiaque | **-2.6 bpm** | 4.5 bpm |
+| Meilleur 20 min | **248 W** | 239 W |
+| Allure | **2:10/km** | 2:12/km |
+| Negative split | **non** (-6.4 %) | 7/10 fois |
+| Météo | 9 °C · 66 % hum. | |
 
-Zones FC : **Z1** 15 % · **Z2** 21 % · **Z3** 64 %
+Zones FC : **Z1** 6 % · **Z2** 49 % · **Z3** 44 % · **Z4** 1 %
 
-Tours, signal fin et trace : `seances/2026-11-14_lap_swimming_25073811459.md`
+**Lecture** — Découplage 4.5 % — allure parfaitement tenue, c'est exactement le comportement de course. Pas de negative split — à corriger sur les sorties longues.
+
+Tours, signal fin et trace : `seances/2026-11-14_road_biking_25078296965.md`
 
 ---
 
@@ -40,7 +49,7 @@ Tours, signal fin et trace : `seances/2026-11-14_lap_swimming_25073811459.md`
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
-*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.94 min par km, plus 3.74 min par 100 m de dénivelé. Recalculé à chaque sortie.*
+*Modèle ajusté sur tes 15 dernières sorties extérieures : 1.93 min par km, plus 3.80 min par 100 m de dénivelé. Recalculé à chaque sortie.*
 
 ---
 
@@ -56,19 +65,19 @@ Tours, signal fin et trace : `seances/2026-11-14_lap_swimming_25073811459.md`
 | Score | 87 | 80.9 | |
 | VFC | 79 ms | 86 ms | base 86-128 |
 | FC repos | - | - | |
-| Readiness | 51 | 52 | |
-| Récupération restante | 21 h | | |
+| Readiness | 10 | 51 | |
+| Récupération restante | 51 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 84 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 85 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **5.0 %** | **6.5 %** | +1.5 pt |
+| Découplage moyen | **5.0 %** | **6.4 %** | +1.4 pt |
 | Sommeil | 7.4 h | 6.8 h | |
-| REM | 89.5 min | 75.6 min | |
-| VFC | 105.5 ms | 92.9 ms | |
+| REM | 89.5 min | 76.0 min | |
+| VFC | 105.5 ms | 92.6 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -87,9 +96,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **54.0** (+3.3 sur 7 j) · ATL 48.2 · TSB +5.8
+**Charge** : CTL **62.2** (+11.5 sur 7 j) · ATL 97.7 · TSB -35.5
 
-Trajectoire : 54 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 62 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -97,7 +106,7 @@ Trajectoire : 54 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-11-15** — repos ou séance libre très facile.
 
-**Vigilance** : VFC sous ta base. Fais la séance mais dans le bas des zones.
+⚠️ **Ajustement** : VFC sous ta base, readiness bas, récupération incomplète, TSB très négatif. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
 
 ---
 
