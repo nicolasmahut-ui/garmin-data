@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-11-14 · road_biking · 175 min
+### 2026-11-17 · lap_swimming · 43 min
 
 *Séance hors plan.*
 
@@ -14,25 +14,16 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **80.4 km** | 68.2 km |
-| Dénivelé | **490 m** | 543 m |
-| FC moyenne | **129** | 120 |
-| FC max | **156** | 153 |
-| Puissance norm. | **218 W** | 226 W |
-| Cadence | **83** | 79 |
-| TSS | **346** | 316 |
-| Découplage | **4.5 %** | 3.9 % |
-| Dérive cardiaque | **-2.6 bpm** | 4.5 bpm |
-| Meilleur 20 min | **248 W** | 239 W |
-| Allure | **2:10/km** | 2:12/km |
-| Negative split | **non** (-6.4 %) | 7/10 fois |
-| Météo | 9 °C · 66 % hum. | |
+| Distance | **2.0 km** | 1.7 km |
+| FC moyenne | **127** | 126 |
+| FC max | **157** | 151 |
+| TSS | **55** | 39 |
+| Dérive cardiaque | **20.7 bpm** | 9.9 bpm |
+| Allure | **2:05/100 m** | 2:21/100 m |
 
-Zones FC : **Z1** 6 % · **Z2** 49 % · **Z3** 44 % · **Z4** 1 %
+Zones FC : **Z1** 27 % · **Z2** 26 % · **Z3** 46 % · **Z4** 0 %
 
-**Lecture** — Découplage 4.5 % — allure parfaitement tenue, c'est exactement le comportement de course. Pas de negative split — à corriger sur les sorties longues.
-
-Tours, signal fin et trace : `seances/2026-11-14_road_biking_25078296965.md`
+Tours, signal fin et trace : `seances/2026-11-17_lap_swimming_25111714602.md`
 
 ---
 
@@ -40,12 +31,12 @@ Tours, signal fin et trace : `seances/2026-11-14_road_biking_25078296965.md`
 
 | Segment | Projeté | Cible | Écart | Base |
 |---|---|---|---|---|
-| Natation 1,9 km | **0 h 46** | 0 h 41 | +5 min | 2:23/100 m |
+| Natation 1,9 km | **0 h 44** | 0 h 41 | +3 min | 2:19/100 m |
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
 | Vélo 90 km / 1 200 m | **3 h 39** | 4 h 10 | -31 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
 | Course 21,1 km | **2 h 13** | 2 h 25 | -12 min | 6:17/km projeté |
-| **TOTAL** | **6 h 46** | 7 h 25 | **-39 min** | |
+| **TOTAL** | **6 h 45** | 7 h 25 | **-40 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
@@ -55,18 +46,18 @@ Tours, signal fin et trace : `seances/2026-11-14_road_biking_25078296965.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-11-14)
+**La nuit qui a précédé** (2026-11-17)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 7.1 h | 7.3 h | 8 h |
-| Profond | 88 min | 80 min | 16-33 % |
-| REM | 88 min (21 %) | 80 min | 21-31 % |
-| Score | 87 | 79.5 | |
-| VFC | 79 ms | 86 ms | base 86-128 |
+| Durée | 10.1 h | 7.3 h | 8 h |
+| Profond | 101 min | 80 min | 16-33 % |
+| REM | 128 min (21 %) | 80 min | 21-31 % |
+| Score | 91 | 79.5 | |
+| VFC | 111 ms | 86 ms | base 85-126 |
 | FC repos | - | - | |
-| Readiness | 10 | 48 | |
-| Récupération restante | 51 h | | |
+| Readiness | 47 | 48 | |
+| Récupération restante | 16 h | | |
 
 **Ce que ton historique démontre**
 
@@ -96,9 +87,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **57.9** (+1.2 sur 7 j) · ATL 61.5 · TSB -3.6
+**Charge** : CTL **59.2** (+2.5 sur 7 j) · ATL 69.4 · TSB -10.2
 
-Trajectoire : 58 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 59 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
@@ -106,7 +97,7 @@ Trajectoire : 58 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es da
 
 **2026-11-18** — repos ou séance libre très facile.
 
-⚠️ **Ajustement** : VFC sous ta base, readiness bas, récupération incomplète. Réduis l'intensité d'un cran et garde la durée, ou décale la séance dure de 24 h.
+✅ **Aucun signal négatif.** Séance comme prévu.
 
 ---
 
