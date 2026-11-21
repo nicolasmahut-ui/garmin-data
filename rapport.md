@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-11-20 · tennis_v2 · 71 min
+### 2026-11-21 · lap_swimming · 39 min
 
 *Séance hors plan.*
 
@@ -14,21 +14,16 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **0.9 km** | 0.6 km |
-| FC moyenne | **111** | 116 |
-| FC max | **154** | 162 |
-| Cadence | **26** | 20 |
-| TSS | **31** | 37 |
-| Découplage | **37.3 %** | -21.7 % |
-| Dérive cardiaque | **19.0 bpm** | 4.9 bpm |
-| Allure | **74:48/km** | 122:39/km |
-| Negative split | **non** (-25.6 %) | 7/10 fois |
+| Distance | **2.0 km** | 1.6 km |
+| FC moyenne | **130** | 125 |
+| FC max | **166** | 152 |
+| TSS | **65** | 36 |
+| Dérive cardiaque | **46.4 bpm** | 11.1 bpm |
+| Allure | **1:54/100 m** | 2:21/100 m |
 
-Zones FC : **Z1** 56 % · **Z2** 34 % · **Z3** 10 %
+Zones FC : **Z1** 42 % · **Z2** 7 % · **Z3** 10 % · **Z4** 41 %
 
-**Lecture** — Découplage 37.3 % — départ trop rapide pour la durée. Sur un XL, ce profil mène au mur. Pas de negative split — à corriger sur les sorties longues.
-
-Tours, signal fin et trace : `seances/2026-11-20_tennis_v2_25144679489.md`
+Tours, signal fin et trace : `seances/2026-11-21_lap_swimming_25150305478.md`
 
 ---
 
@@ -36,12 +31,12 @@ Tours, signal fin et trace : `seances/2026-11-20_tennis_v2_25144679489.md`
 
 | Segment | Projeté | Cible | Écart | Base |
 |---|---|---|---|---|
-| Natation 1,9 km | **0 h 44** | 0 h 41 | +3 min | 2:19/100 m |
+| Natation 1,9 km | **0 h 43** | 0 h 41 | +2 min | 2:14/100 m |
 | T1 | **0 h 05** | 0 h 05 | +0 min |  |
 | Vélo 90 km / 1 200 m | **3 h 39** | 4 h 10 | -31 min | modèle sur 15 sorties |
 | T2 | **0 h 04** | 0 h 04 | +0 min |  |
 | Course 21,1 km | **2 h 13** | 2 h 25 | -12 min | 6:17/km projeté |
-| **TOTAL** | **6 h 45** | 7 h 25 | **-40 min** | |
+| **TOTAL** | **6 h 43** | 7 h 25 | **-42 min** | |
 
 **Tu es en avance sur la cible.** Elle sera révisée à la hausse.
 
@@ -51,18 +46,18 @@ Tours, signal fin et trace : `seances/2026-11-20_tennis_v2_25144679489.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-11-20)
+**La nuit qui a précédé** (2026-11-21)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 9.2 h | 7.2 h | 8 h |
-| Profond | 78 min | 83 min | 16-33 % |
-| REM | 112 min (20 %) | 77 min | 21-31 % |
-| Score | 89 | 79.2 | |
-| VFC | 107 ms | 86 ms | base 84-125 |
+| Durée | 6.7 h | 7.2 h | 8 h |
+| Profond | 65 min | 83 min | 16-33 % |
+| REM | 89 min (22 %) | 77 min | 21-31 % |
+| Score | 83 | 79.2 | |
+| VFC | 90 ms | 86 ms | base 84-124 |
 | FC repos | - | - | |
-| Readiness | 66 | 47 | |
-| Récupération restante | 9 h | | |
+| Readiness | 59 | 47 | |
+| Récupération restante | 21 h | | |
 
 **Ce que ton historique démontre**
 
@@ -92,9 +87,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **55.4** (-6.8 sur 7 j) · ATL 44.6 · TSB +10.8
+**Charge** : CTL **57.0** (-5.2 sur 7 j) · ATL 53.9 · TSB +3.1
 
-Trajectoire : 55 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 57 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
