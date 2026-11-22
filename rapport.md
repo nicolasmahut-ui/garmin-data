@@ -6,7 +6,7 @@
 
 ## 1. Ta séance
 
-### 2026-11-21 · lap_swimming · 39 min
+### 2026-11-22 · indoor_cycling · 30 min
 
 *Séance hors plan.*
 
@@ -14,16 +14,23 @@
 
 | | Séance | Réf. 10 dernières |
 |---|---|---|
-| Distance | **2.0 km** | 1.6 km |
-| FC moyenne | **130** | 125 |
-| FC max | **166** | 152 |
-| TSS | **65** | 36 |
-| Dérive cardiaque | **46.4 bpm** | 11.1 bpm |
-| Allure | **1:54/100 m** | 2:21/100 m |
+| Distance | **16.4 km** | 27.6 km |
+| FC moyenne | **123** | 119 |
+| FC max | **150** | 140 |
+| Puissance norm. | **217 W** | 186 W |
+| Cadence | **78** | 72 |
+| TSS | **58** | 58 |
+| Découplage | **-2.8 %** | 15.9 % |
+| Dérive cardiaque | **11.6 bpm** | 8.7 bpm |
+| Meilleur 20 min | **216 W** | 192 W |
+| Allure | **1:48/km** | 2:12/km |
+| Negative split | **oui** (12.9 %) | 2/8 fois |
 
-Zones FC : **Z1** 42 % · **Z2** 7 % · **Z3** 10 % · **Z4** 41 %
+Zones FC : **Z1** 3 % · **Z2** 80 % · **Z3** 17 % · **Z4** 0 %
 
-Tours, signal fin et trace : `seances/2026-11-21_lap_swimming_25150305478.md`
+**Lecture** — Découplage -2.8 % — allure parfaitement tenue, c'est exactement le comportement de course. Negative split réussi : c'est ce qui a manqué à Fréjus.
+
+Tours, signal fin et trace : `seances/2026-11-22_indoor_cycling_25163841842.md`
 
 ---
 
@@ -46,29 +53,29 @@ Tours, signal fin et trace : `seances/2026-11-21_lap_swimming_25150305478.md`
 
 ## 3. Ton sommeil et cette séance
 
-**La nuit qui a précédé** (2026-11-21)
+**La nuit qui a précédé** (2026-11-22)
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 6.7 h | 7.3 h | 8 h |
-| Profond | 65 min | 82 min | 16-33 % |
-| REM | 89 min (22 %) | 78 min | 21-31 % |
-| Score | 83 | 79.2 | |
-| VFC | 90 ms | 86 ms | base 84-124 |
+| Durée | 8.2 h | 7.3 h | 8 h |
+| Profond | 57 min | 82 min | 16-33 % |
+| REM | 104 min (21 %) | 78 min | 21-31 % |
+| Score | 77 | 79.2 | |
+| VFC | 84 ms | 86 ms | base 82-126 |
 | FC repos | - | - | |
-| Readiness | 59 | 47 | |
-| Récupération restante | 21 h | | |
+| Readiness | 66 | 47 | |
+| Récupération restante | 12 h | | |
 
 **Ce que ton historique démontre**
 
-Sur 84 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
+Sur 85 séances appariées à la nuit précédente, en séparant au readiness médian de 57 :
 
 | | Après bonne nuit | Après mauvaise nuit | Écart |
 |---|---|---|---|
-| Découplage moyen | **5.3 %** | **4.5 %** | -0.8 pt |
+| Découplage moyen | **5.1 %** | **4.5 %** | -0.6 pt |
 | Sommeil | 7.5 h | 6.9 h | |
-| REM | 90.2 min | 77.6 min | |
-| VFC | 106.9 ms | 93.0 ms | |
+| REM | 90.7 min | 77.6 min | |
+| VFC | 106.4 ms | 93.0 ms | |
 
 **Conclusion : pas d'effet net mesurable pour l'instant.** Tu encaisses bien les nuits moyennes.
 
@@ -87,9 +94,9 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **55.6** (-5.1 sur 7 j) · ATL 46.2 · TSB +9.4
+**Charge** : CTL **57.0** (-3.7 sur 7 j) · ATL 54.5 · TSB +2.5
 
-Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 57 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
