@@ -1,6 +1,6 @@
-# Coach — J--78 avant Gérardmer XL
+# Coach — J--79 avant Gérardmer XL
 
-*dimanche 22 novembre 2026* · course le samedi 5 septembre 2026
+*lundi 23 novembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -60,10 +60,10 @@ Tours, signal fin et trace : `seances/2026-11-22_indoor_cycling_25163841842.md`
 | Durée | 8.2 h | 7.3 h | 8 h |
 | Profond | 57 min | 82 min | 16-33 % |
 | REM | 104 min (21 %) | 78 min | 21-31 % |
-| Score | 77 | 79.2 | |
+| Score | 77 | 79.1 | |
 | VFC | 84 ms | 86 ms | base 82-126 |
 | FC repos | - | - | |
-| Readiness | 66 | 47 | |
+| Readiness | 66 | 48 | |
 | Récupération restante | 12 h | | |
 
 **Ce que ton historique démontre**
@@ -94,15 +94,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **57.0** (-3.7 sur 7 j) · ATL 54.5 · TSB +2.5
+**Charge** : CTL **55.6** (-3.7 sur 7 j) · ATL 46.7 · TSB +8.9
 
-Trajectoire : 57 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-11-23** — repos ou séance libre très facile.
+**2026-11-24** — repos ou séance libre très facile.
 
 ✅ **Aucun signal négatif.** Séance comme prévu.
 
