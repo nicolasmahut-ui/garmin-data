@@ -1,6 +1,6 @@
-# Coach — J--81 avant Gérardmer XL
+# Coach — J--82 avant Gérardmer XL
 
-*mercredi 25 novembre 2026* · course le samedi 5 septembre 2026
+*jeudi 26 novembre 2026* · course le samedi 5 septembre 2026
 
 ---
 
@@ -55,13 +55,13 @@ Tours, signal fin et trace : `seances/2026-11-24_tennis_v2_25188820115.md`
 
 | | Valeur | Moyenne 28 j | Cible |
 |---|---|---|---|
-| Durée | 8.6 h | 7.3 h | 8 h |
-| Profond | 92 min | 82 min | 16-33 % |
+| Durée | 8.6 h | 7.2 h | 8 h |
+| Profond | 92 min | 81 min | 16-33 % |
 | REM | 108 min (21 %) | 77 min | 21-31 % |
-| Score | 89 | 78.8 | |
+| Score | 89 | 78.9 | |
 | VFC | 84 ms | 85 ms | base 82-126 |
 | FC repos | - | - | |
-| Readiness | 41 | 46 | |
+| Readiness | 41 | 45 | |
 | Récupération restante | 42 h | | |
 
 **Ce que ton historique démontre**
@@ -92,15 +92,15 @@ Bloc en cours depuis le 2026-06-22 (lendemain de Deauville).
 | Natation continue de 1 900 m | ✅ | 3000 m | 3000 m |
 | Trois semaines à 3 natations ou plus | ⬜ | 0 sem. sur 6 | 1 sem. au total |
 
-**Charge** : CTL **55.7** (-3.1 sur 7 j) · ATL 48.1 · TSB +7.6
+**Charge** : CTL **54.4** (-3.0 sur 7 j) · ATL 41.2 · TSB +13.1
 
-Trajectoire : 56 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
+Trajectoire : 54 aujourd'hui, cible **32** au 30 août, puis affûtage. Tu es dans les temps.
 
 ---
 
 ## 5. Demain
 
-**2026-11-26** — repos ou séance libre très facile.
+**2026-11-27** — repos ou séance libre très facile.
 
 **Vigilance** : récupération incomplète. Fais la séance mais dans le bas des zones.
 
