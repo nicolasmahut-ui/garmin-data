@@ -1,12 +1,12 @@
 # Bilan Garmin — 27/11/2026
 
-275 séances du 2025-07-24 au 2026-11-26
+276 séances du 2025-07-24 au 2026-11-27
 Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 
 ## Charge
 
-- **CTL 53.9** (forme de fond, -2.9 sur 7 j)
-- ATL 39.4 (fatigue) · TSB +14.5 (fraîcheur)
+- **CTL 55.0** (forme de fond, -1.8 sur 7 j)
+- ATL 46.2 (fatigue) · TSB +8.8 (fraîcheur)
 
 | Semaine | TSS | CTL | TSB |
 |---|---|---|---|
@@ -35,7 +35,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S45 | 514 | 58.4 | -20.9 |
 | 2026-S46 | 496 | 60.7 | -23.0 |
 | 2026-S47 | 253 | 57.0 | +2.5 |
-| 2026-S48 | 149 | 53.9 | +14.5 |
+| 2026-S48 | 197 | 55.0 | +8.8 |
 
 ## Volumes hebdo
 
@@ -83,7 +83,7 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-S47 | tennis_v2 | 2 | 2.4 h | 1.5 km |
 | 2026-S48 | lap_swimming | 1 | 0.7 h | 2.0 km |
 | 2026-S48 | running | 1 | 0.5 h | 5.0 km |
-| 2026-S48 | tennis_v2 | 1 | 1.2 h | 0.5 km |
+| 2026-S48 | tennis_v2 | 2 | 2.6 h | 7.1 km |
 | 2026-S48 | virtual_ride | 1 | 1.2 h | 30.4 km |
 
 ## Récapitulatif mensuel
@@ -106,16 +106,16 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-08 | 23 | 28.6 h | 15.3 h | 6.7 h | 4.9 h |
 | 2026-09 | 24 | 39.5 h | 15.2 h | 1.3 h | 3.3 h |
 | 2026-10 | 22 | 28.3 h | 6.5 h | 4.7 h | 0.6 h |
-| 2026-11 | 19 | 21.6 h | 6.1 h | 0.5 h | 3.6 h |
+| 2026-11 | 20 | 23.0 h | 6.1 h | 0.5 h | 3.6 h |
 
 ## Répartition FC (40 dernières séances)
 
 | Zone | Plage | Temps | Part |
 |---|---|---|---|
-| Z1 | 113-128 | 13.9 h | 32 % |
-| Z2 | 128-142 | 19.2 h | 44 % |
-| Z3 | 142-156 | 9.4 h | 22 % |
-| Z4 | 156-170 | 0.9 h | 2 % |
+| Z1 | 113-128 | 14.4 h | 32 % |
+| Z2 | 128-142 | 19.7 h | 44 % |
+| Z3 | 142-156 | 9.6 h | 22 % |
+| Z4 | 156-170 | 1.0 h | 2 % |
 | Z5 | 170-184 | 0.0 h | 0 % |
 
 ## Wellness (30 derniers jours)
@@ -149,15 +149,15 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-11-22 | - | 84 | 8.2 h | 77 | 66 | - | - |
 | 2026-11-23 | - | 94 | 6.5 h | 81 | 58 | - | 51.2 |
 | 2026-11-24 | - | 84 | 8.6 h | 89 | 41 | - | - |
-| 2026-11-25 | - | - | - | - | - | - | - |
-| 2026-11-26 | - | - | - | - | - | - | - |
-| 2026-11-27 | - | - | - | - | - | - | - |
+| 2026-11-25 | - | 64 | 6.3 h | 60 | 32 | - | - |
+| 2026-11-26 | - | 97 | 8.7 h | 88 | 67 | - | - |
+| 2026-11-27 | - | 101 | 8.1 h | 90 | 63 | - | - |
 
 ### Tendances 7 j vs 28 j
 
-- VFC : 88.0 vs 85.3 (+2.7)
-- Sommeil : 7.5 vs 7.3 (+0.2)
-- Readiness : 56.0 vs 45.8 (+10.2)
+- VFC : 87.7 vs 85.5 (+2.2)
+- Sommeil : 7.6 vs 7.3 (+0.2)
+- Readiness : 55.1 vs 46.7 (+8.4)
 - Poids : 91.2 kg (+3.2 kg depuis le 2025-07-24)
 
 ## Récupération (14 derniers jours)
@@ -175,6 +175,9 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-11-22 | 66 | 12 h | 96 % | 77 | - |
 | 2026-11-23 | 58 | 24 h | 99 % | 81 | - |
 | 2026-11-24 | 41 | 42 h | 87 % | 89 | - |
+| 2026-11-25 | 32 | 32 h | 84 % | 60 | - |
+| 2026-11-26 | 67 | 15 h | 89 % | 88 | - |
+| 2026-11-27 | 63 | 29 h | 87 % | 90 | - |
 
 ## Structure du sommeil (30 derniers jours)
 
@@ -207,6 +210,9 @@ Repères : FCmax 184 · FCrepos 43 · seuil 166 · FTP 200 W · CSS 1:55/100 m
 | 2026-11-22 | 8.2 h | 57 min | 328 min | 104 min | 45 min | 77 | 84 |
 | 2026-11-23 | 6.5 h | 77 min | 239 min | 75 min | 11 min | 81 | 94 |
 | 2026-11-24 | 8.6 h | 92 min | 313 min | 108 min | 13 min | 89 | 84 |
+| 2026-11-25 | 6.3 h | 74 min | 293 min | 11 min | 29 min | 60 | 64 |
+| 2026-11-26 | 8.7 h | 70 min | 387 min | 65 min | 6 min | 88 | 97 |
+| 2026-11-27 | 8.1 h | 87 min | 314 min | 84 min | 15 min | 90 | 101 |
 
 Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharge Body Battery — dans le dossier `nuits/`.
 
@@ -215,17 +221,16 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 - hill_score : 37
 - hill_force : 6
 - hill_endurance : 32
-- endurance_score : 6896
-- predi_5k_s : 1404
-- predi_10k_s : 3035
-- predi_semi_s : 6891
-- predi_marathon_s : 15428
+- endurance_score : 6866
+- predi_5k_s : 1406
+- predi_10k_s : 3039
+- predi_semi_s : 6899
+- predi_marathon_s : 15447
 
 ## 15 dernières séances
 
 | Date | Sport | Durée | Dist | D+ | Allure | FC | Puiss | TSS |
 |---|---|---|---|---|---|---|---|---|
-| 2026-11-08 | road_biking | 159 min | 75.5 km | 486 m | 2:06 | 121.0 | 238 W | 376 |
 | 2026-11-10 | tennis_v2 | 68 min | 0.6 km | - | 116:24 | 125.0 | - | 44 |
 | 2026-11-12 | virtual_ride | 61 min | 31.8 km | 22 m | 1:55 | 111.0 | 180 W | 27 |
 | 2026-11-13 | tennis_v2 | 75 min | 0.6 km | - | 116:48 | 114.0 | - | 36 |
@@ -240,6 +245,7 @@ Détail nuit par nuit — hypnogramme, FC, VFC 5 min, respiration, SpO2, recharg
 | 2026-11-24 | lap_swimming | 42 min | 2.0 km | - | 2:05 | 127.0 | - | 53 |
 | 2026-11-24 | tennis_v2 | 69 min | 0.5 km | - | 128:52 | 119.0 | - | 38 |
 | 2026-11-26 | virtual_ride | 71 min | 30.4 km | 456 m | 2:21 | 113.0 | 193 W | 33 |
+| 2026-11-27 | tennis_v2 | 86 min | 6.5 km | - | 13:09 | 120.0 | - | 48 |
 
 ## Fichiers de séance disponibles
 
@@ -247,7 +253,6 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 
 | Date | Sport | Découpl. | Neg. split | Fichier |
 |---|---|---|---|---|
-| 2026-10-20 | tennis_v2 | -83.9 % | oui | `seances/2026-10-20_tennis_v2_24795286220.md` |
 | 2026-10-21 | running | 3.9 % | oui | `seances/2026-10-21_running_24798971600.md` |
 | 2026-10-22 | tennis_v2 | -38.2 % | oui | `seances/2026-10-22_tennis_v2_24813173026.md` |
 | 2026-10-24 | virtual_ride | 20.1 % | non | `seances/2026-10-24_virtual_ride_24837974056.md` |
@@ -277,6 +282,7 @@ Un fichier par séance, avec tours, signal fin et métriques dérivées.
 | 2026-11-24 | lap_swimming | - | - | `seances/2026-11-24_lap_swimming_25188819993.md` |
 | 2026-11-24 | tennis_v2 | -200.9 % | oui | `seances/2026-11-24_tennis_v2_25188820115.md` |
 | 2026-11-26 | virtual_ride | -88.7 % | oui | `seances/2026-11-26_virtual_ride_25208182159.md` |
+| 2026-11-27 | tennis_v2 | 44.8 % | non | `seances/2026-11-27_tennis_v2_25219008963.md` |
 
 ---
 
